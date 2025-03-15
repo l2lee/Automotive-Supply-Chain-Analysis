@@ -1,0 +1,2178 @@
+Region,Maker,Model,Model year,Supplier
+Europe,Aston Martin,Vantage (UK),2025,ZF Friedrichshafen AG
+Europe,Audi,A6 e-tron (Germany),2025,Foma S.p.A.
+Europe,Audi,Q6 e-tron (Germany),2025,Foma S.p.A.
+Americas,Nissan,Frontier (USA),2025,Magna International Inc.
+Europe,Porsche,Macan 4 Electric (Germany),2025,Foma S.p.A.
+Europe,SEAT,CUPRA Terramar (Hungary),2025,Rollax GmbH & Co. KG
+Japan,Subaru,Forester,2025,Schaeffler AG
+Europe,Alexander Dennis,Enviro200 (UK),2024,Voith GmbH & Co. KGaA
+Europe,Alexander Dennis,Enviro400 (UK),2024,Voith GmbH & Co. KGaA
+Europe,Alexander Dennis,Enviro500 (UK),2024,Voith GmbH & Co. KGaA
+Europe,Alexander Dennis,Enviro500 SuperLo (UK),2024,Allison Transmission Europe B.V.
+Europe,Aston Martin,DBS 770 Ultimate (UK),2024,ZF Friedrichshafen AG
+Europe,Aston Martin,Vanquish (UK),2024,ZF Friedrichshafen AG
+China,BAW,BJ212 (4WD) (China),2024,"Harbin Dongan Auto Engine Co., Ltd."
+China,BAW,Calorie (FR) (China),2024,"Harbin Dongan Auto Engine Co., Ltd."
+China,BAW,Wangpai M7 (China),2024,"Harbin Dongan Auto Engine Co., Ltd."
+Americas,Ford,Mustang (USA),2024,Tremec Corporation
+China,Geely,Monjaro (Xingyue L) (China),2024,"Aisin (China) Investment Co., Ltd."
+Americas,GM,Chevrolet Silverado 2500 (USA),2024,Allison Transmission Inc.
+Americas,GM,Chevrolet Silverado 3500 (USA),2024,Allison Transmission Inc.
+China,Haima,8S (China),2024,"Harbin Dongan Auto Engine Co., Ltd."
+Americas,Honda,Ridgeline (USA),2024,"ZF Transmissions Gray Court, LLC"
+ASEAN?India?Korea,Hyundai,Mighty (Korea),2024,Allison Transmission Inc.
+Europe,INEOS,Grenadier (France),2024,ZF Friedrichshafen AG
+Europe,INEOS,Grenadier Quartermaster (France),2024,ZF Friedrichshafen AG
+Japan,Isuzu,Como,2024,JATCO Ltd.
+Europe,Iveco,Crossway Low Entry (Czech Republic),2024,Voith GmbH & Co. KGaA
+China,JAC,T8 PRO (China),2024,"Harbin Dongan Auto Engine Co., Ltd."
+China,JAC,T9 Hunter (for exportation) (China),2024,"ZF Transmissions Shanghai Co., Ltd."
+Americas,Jeep,Wrangler (USA),2024,ZF Friedrichshafen AG
+China,Jiangling Motors,Ford Bronco (4WD) (China),2024,"BorgWarner PowerDrive systems (Suzhou) Co., Ltd. (Formerly Delphi Technologies (Suzhou) Co., Ltd.)"
+ASEAN?India?Korea,Jiangling Motors,JMC Vigus Pro (Malaysia),2024,ZF Friedrichshafen AG
+ASEAN?India?Korea,KG Mobility,Actyon (Korea),2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra Scorpio-N (India),2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra Thar (India),2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra Thar ROXX (India),2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra XUV 3XO (India),2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra XUV700 (India),2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Maruti Suzuki,Fronx (India),2024,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+ASEAN?India?Korea,Maruti Suzuki,Wagon R (India),2024,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Nissan,Caravan Van,2024,JATCO Ltd.
+Americas,Nissan,Pathfinder (USA),2024,ZF Friedrichshafen AG
+China,SAIC GM,Buick GL8 PHEV (FF) (China),2024,"BorgWarner United Transmission Systems Co., Ltd."
+Europe,SEAT,CUPRA Terramar (Hungary),2024,Rollax GmbH & Co. KG
+Japan,Suzuki,XBEE,2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Crown Crossover RS,2024,BluE Nexus Corporation
+Japan,Toyota,Crown Sedan,2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Land Cruiser 1958,2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Land Cruiser 300,2024,"Keihin Seimitsu Kogyo Co., Ltd."
+Japan,Toyota,Land Cruiser 300,2024,"Keihin Seimitsu Kogyo Co., Ltd."
+Japan,Toyota,Lexus LC500h,2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LX500d,2024,"Keihin Seimitsu Kogyo Co., Ltd."
+Japan,Toyota,Lexus LX500d,2024,"Keihin Seimitsu Kogyo Co., Ltd."
+Japan,Toyota,Lexus LX600,2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LX600,2024,"Keihin Seimitsu Kogyo Co., Ltd."
+Japan,Toyota,Lexus LX600,2024,"Keihin Seimitsu Kogyo Co., Ltd."
+Americas,Toyota,Sequoia (USA),2024,Aisin World Corp. of America Inc.
+Americas,Toyota,Tacoma (Mexico),2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Toyota,Tundra (USA),2024,Aisin World Corp. of America Inc.
+Americas,Toyota,Tundra i-FORCE MAX (USA),2024,Aisin World Corp. of America Inc.
+ASEAN?India?Korea,Toyota,Urban Cruiser Taisor (India),2024,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,Volvo Cars Asia Pacific,Volvo S90 RECHARGE T8 PHEV (4WD) (China),2024,"Aisin (China) Investment Co., Ltd."
+Europe,Wrightbus,StreetDeck Ultroliner EU6 (Ireland),2024,Voith GmbH & Co. KGaA
+Europe,Alexander Dennis,Plaxton Leopard (UK),2023,ZF Friedrichshafen AG
+Europe,Audi,e-tron GT (Germany),2023,Standard-Metallwerke GmbH
+China,BAIC ORV,Beijing BJ60 (4WD) (China),2023,"ZF Powertrain System (Beijing) Co., Ltd."
+China,BAW,Calorie (FR) (China),2023,"Harbin Dongan Auto Engine Co., Ltd."
+China,BAW,Wangpai M7 (China),2023,"Harbin Dongan Auto Engine Co., Ltd."
+China,Beiqi Foton,Foton Mars 9 (China),2023,"Foton ZF LCV Automated Transmission (Jiaxing) Co., Ltd."
+China,BYD,Seal DM-i (FF) (China),2023,"Guangdong Hongtu Technology (Holdings) Co., Ltd."
+China,BYD,Seal DM-i (FF) (China),2023,"Nanjing Chervon Auto Precision Technology Co., Ltd."
+China,BYD,Seal DM-i (FF) (China),2023,"Zhejiang Meili High Technology Co., Ltd."
+China,Changan,Lantuozhe (4WD) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,Changan,Lantuozhe (FF) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,Changan Ford,Lincoln Corsair (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Lincoln Corsair (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Ford Edge L Gasoline (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Ford Edge L Gasoline (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Ford Escape (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Ford Escape (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Ford EVOS (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Ford Mondeo (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Lincoln Nautilus (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Changan Ford,Lincoln Z (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,Chery,Tiggo 9 (FF) (China),2023,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+Europe,Citroen,C5 X (France),2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Daimler Truck,Setra MultiClass 500 LE (Turkiye),2023,Voith GmbH & Co. KGaA
+Europe,Daimler Truck,Setra MultiClass 500 LE (Turkiye),2023,ZF Friedrichshafen AG
+Europe,Dodge,Hornet (Italy),2023,Aisin Europe S.A.
+Europe,Dodge,Hornet (Italy),2023,ElringKlinger Italia Srl
+China,Dongfeng Peugeot Citroen,Peugeot 408 (FF) (China),2023,"Tianjin Aisin Automatic Transmission Co., Ltd.¡]Formerly Tianjin AW Automatic Transmission Co., Ltd.¡^"
+Europe,DS Automobiles,DS DS 7 Crossback E-Tense (France),2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,DS Automobiles,DS DS 7 E-Tense (France),2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,FAW-Volkswagen,Volkswagen ID.6 CROZZ (4WD) (China),2023,"GF Casting Solutions Kunshan Co., Ltd."
+China,FAW-Volkswagen,Volkswagen ID.6 CROZZ (RR) (China),2023,"GF Casting Solutions Kunshan Co., Ltd."
+China,FAW-Volkswagen,Volkswagen TACQUA (FF) (China),2023,"Jiaxing KEM Electromagnetic Technology Co., Ltd."
+China,FAW-Volkswagen,Volkswagen TACQUA R-Line (FF) (China),2023,"Jiaxing KEM Electromagnetic Technology Co., Ltd."
+Americas,Ford,E-Series (USA),2023,"American Axle & Manufacturing Holdings, Inc."
+ASEAN?India?Korea,Ford,Everest (Thailand),2023,"ATA Casting Technology Co., Ltd."
+Americas,Ford,F-150 (USA),2023,Gibbs Die Casting Corporation
+Americas,Ford,F-Series (USA),2023,"American Axle & Manufacturing Holdings, Inc."
+Americas,Ford,F-Series Super Duty (USA),2023,"Ryobi Die Casting (USA), Inc."
+ASEAN?India?Korea,Ford,Ranger (Thailand),2023,"ATA Casting Technology Co., Ltd."
+Europe,Ford,Transit Custom (Turkiye),2023,Vibracoustic SE
+China,GAC Motor,Trumpchi M8 Master Series Gasoline (FF) (China),2023,"GAC Aisin Automatic Transmission Co., Ltd."
+China,Great Wall,Huo POER (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,King Kong POER Diesel (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,King Kong POER Diesel (FR) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,King Kong POER Gasoline (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,King Kong POER Gasoline (FR) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Commercial Edition Diesel (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Commercial Edition Diesel (FR) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Commercial Edition Gasoline (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Commercial Edition Gasoline (FR) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Off-road Edition Diesel (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Off-road Edition Gasoline (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Passenger Edition Diesel (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Passenger Edition Diesel (FR) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Passenger Edition Gasoline (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,POER Passenger Edition Gasoline (FR) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,Shanhai POER Diesel (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Great Wall,Shanhai POER Gasoline 48V Mild Hybrid (4WD) (China),2023,"Zhejiang Zomax Transmission Co., Ltd."
+China,Haima,8S (China),2023,"Harbin Dongan Auto Engine Co., Ltd."
+Americas,Honda,Passport (USA),2023,"ZF Transmissions Gray Court, LLC"
+ASEAN?India?Korea,Hyundai,Genesis G80 (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G80 (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G90 (Korea),2023,"Hwasin Precision Co.,Ltd."
+ASEAN?India?Korea,Hyundai,Genesis G90 (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G90 (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Mighty (Korea),2023,Allison Transmission Inc.
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+Europe,INEOS,Grenadier Quartermaster (France),2023,ZF Friedrichshafen AG
+Japan,Isuzu,Como,2023,JATCO Ltd.
+China,JAC,T8 PRO (China),2023,"Harbin Dongan Auto Engine Co., Ltd."
+China,JAC,T9 Hunter (for exportation) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,JAC,T9 Hunter Diesel (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,JAC,T9 Hunter Diesel (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+Europe,Jaguar Land Rover,Land Rover Range Rover (UK),2023,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport (UK),2023,ZF Friedrichshafen AG
+Europe,Jeep,Avenger (Poland),2023,Rollax GmbH & Co. KG
+Americas,Jeep,Wrangler (USA),2023,ZF Friedrichshafen AG
+ASEAN?India?Korea,Kia,K9 (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento (Korea),2023,"Woosu AMS Co., Ltd.  (Formerly Woosu Automotive Co., Ltd.)"
+ASEAN?India?Korea,Kia,Stinger (Korea),2023,"Hwasin Precision Co.,Ltd."
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra Scorpio-N (India),2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra XUV700 (India),2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Mazda,Mazda2,2023,Ondo Corporation (Formerly Ondo Kosakusho)
+ASEAN?India?Korea,Mazda,Mazda2 Hatchback (Thailand),2023,"Ondo Shinsho (Thailand) Co., Ltd."
+ASEAN?India?Korea,Mazda,Mazda2 Sedan (Thailand),2023,"Ondo Shinsho (Thailand) Co., Ltd."
+Japan,Mazda,Mazda3 Fastback,2023,Ondo Corporation (Formerly Ondo Kosakusho)
+ASEAN?India?Korea,Mazda,Mazda3 Fastback (Thailand),2023,"Ondo Shinsho (Thailand) Co., Ltd."
+Japan,Mazda,Mazda3 Sedan,2023,Ondo Corporation (Formerly Ondo Kosakusho)
+ASEAN?India?Korea,Mazda,Mazda3 Sedan (Thailand),2023,"Ondo Shinsho (Thailand) Co., Ltd."
+Europe,Mercedes-Benz,CLE (Germany),2023,Vibracoustic SE
+Europe,Mercedes-Benz,E-Class (Germany),2023,Hoerbiger Holding AG
+Europe,Mercedes-Benz,E-Class (Germany),2023,Hoerbiger Holding AG
+Europe,Mercedes-Benz,E-Class (Germany),2023,KSM Castings Group GmbH
+Europe,Mercedes-Benz,E-Class (Germany),2023,KSM Castings Group GmbH
+Japan,Mitsubishi,Eclipse Cross PHEV,2023,GKN Driveline Tochigi Holdings KK
+Japan,Mitsubishi,Outlander PHEV,2023,GKN Driveline Tochigi Holdings KK
+ASEAN?India?Korea,Mitsubishi,Pajero Sport (Thailand),2023,"ATA Casting Technology Co., Ltd."
+ASEAN?India?Korea,Mitsubishi,Triton (Thailand),2023,"ATA Casting Technology Co., Ltd."
+Japan,Nissan,Caravan Van,2023,JATCO Ltd.
+Americas,Nissan,Pathfinder (USA),2023,ZF Friedrichshafen AG
+China,SAIC GM,Chevrolet Blazer (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Chevrolet Blazer 48V Mild Hybrid (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Chevrolet Blazer Redline 48V Mild Hybrid (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Chevrolet Blazer RS 48V Mild Hybrid (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Century (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Cadillac CT4 (FR) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Enclave (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Enclave (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Enclave Avenir (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Envision Plus (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Envision Plus (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Envision Plus Avenir (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Envision S (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Envision S (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Envision S Avenir (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Envision S GS (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Chevrolet Equinox RS 48V Mild Hybrid (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Chevrolet Equinox RS 48V Mild Hybrid (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick GL8 Avenir 48V Mild Hybrid (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick GL8 ES Luzun (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick GL8 Land-based Business Class (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Cadillac GT4 (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Cadillac GT4 (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick LaCrosse (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick LaCrosse Avenir (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Chevrolet Malibu XL (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Regal (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Buick Regal GS (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Cadillac XT4 (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Cadillac XT5 (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Cadillac XT5 (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC GM,Cadillac XT6 (4WD) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC Maxus,Maxus Bull Demon King (4WD) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,SAIC Maxus,Maxus D90 Pro Gasoline (4WD) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,SAIC Maxus,Maxus D90 Pro Gasoline (FR) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,SAIC Maxus,Maxus G20 ES Gasoline (FR) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,SAIC Maxus,Maxus G20 PLUS Diesel (FR) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,SAIC Maxus,Maxus G20 PLUS Gasoline (FR) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,SAIC Maxus,Maxus G90 (FF) (China),2023,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,SAIC Maxus,Maxus Territory (4WD) (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe i5 (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG ONE-£\ (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG ONE-£] (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG ZS (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG5 (FF) (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG7 (China),2023,"Shanghai Automobile Gear Works Co., Ltd. (SAGW)"
+China,SAIC Passenger Vehicle,Roewe RX3 Pro (China),2023,"Ningbo Shenglong Automotive Powertrain System Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe RX9 (China),2023,"ZF Transmissions Shanghai Co., Ltd."
+China,SAIC Volkswagen,Volkswagen ID.6 X (4WD) (China),2023,"GF Casting Solutions Kunshan Co., Ltd."
+China,SAIC Volkswagen,Volkswagen ID.6 X (RR) (China),2023,"GF Casting Solutions Kunshan Co., Ltd."
+China,SAIC Volkswagen,Volkswagen Lavida (FF) (China),2023,"Jiaxing KEM Electromagnetic Technology Co., Ltd."
+China,SAIC Volkswagen,Volkswagen Lavida XR (FF) (China),2023,"Jiaxing KEM Electromagnetic Technology Co., Ltd."
+China,SAIC Volkswagen,Volkswagen Polo Plus (FF) (China),2023,"Jiaxing KEM Electromagnetic Technology Co., Ltd."
+China,SAIC Volkswagen,Volkswagen Santana (FF) (China),2023,"Jiaxing KEM Electromagnetic Technology Co., Ltd."
+China,SAIC Volkswagen,Volkswagen Tharu (4WD) (China),2023,"Jiaxing KEM Electromagnetic Technology Co., Ltd."
+China,SAIC Volkswagen,Volkswagen Tharu (FF) (China),2023,"Jiaxing KEM Electromagnetic Technology Co., Ltd."
+Europe,SEAT,Leon (Spain),2023,Rollax GmbH & Co. KG
+Japan,Suzuki,XBEE,2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Crown Crossover RS,2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Crown Crossover RS,2023,BluE Nexus Corporation
+Japan,Toyota,Lexus LC500h,2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LX600,2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus RX500h,2023,BluE Nexus Corporation
+Americas,Toyota,Sequoia (USA),2023,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Toyota,Sequoia (USA),2023,Aisin World Corp. of America Inc.
+Americas,Toyota,Tundra (USA),2023,Aisin World Corp. of America Inc.
+Americas,Toyota,Tundra i-FORCE MAX (USA),2023,Aisin World Corp. of America Inc.
+Europe,Volkswagen,ID. Buzz (Germany),2023,Georg Fischer AG
+Europe,Volkswagen,ID. Buzz Cargo (Germany),2023,Georg Fischer AG
+Europe,Volkswagen,ID.4 (Germany),2023,Georg Fischer AG
+Europe,Volkswagen,ID.4 GTX (Germany),2023,Georg Fischer AG
+Europe,Volkswagen,ID.5 (Germany),2023,Georg Fischer AG
+Europe,Volkswagen,ID.5 GTX (Germany),2023,Georg Fischer AG
+Europe,Volkswagen,ID.7 (Germany),2023,Georg Fischer AG
+Europe,Alpina,B3 Limousine (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,B3 Touring (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,B4 Gran Coupe (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,B5 Limousine (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,B5 Touring (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,B7 (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,B8 Gran Coupe (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,D3 S Limousine (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,D3 S Touring (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,D4 S Gran Coupe (Germany),2022,ZF Friedrichshafen AG
+Europe,Alpina,D5 S Limousine (Germany),2022,ZF Friedrichshafen AG
+Americas,Alpina,XB7 (USA),2022,ZF Friedrichshafen AG
+Americas,Alpina,XD3 (USA),2022,ZF Friedrichshafen AG
+Americas,Alpina,XD4 (USA),2022,ZF Friedrichshafen AG
+Europe,Aston Martin,V12 Vantage (UK),2022,ZF Friedrichshafen AG
+Europe,Audi,e-tron GT (Germany),2022,Standard-Metallwerke GmbH
+Europe,Aurus,Komendant (Russia),2022,KATE LLC
+Europe,Bentley,Bentayga (UK),2022,ZF Friedrichshafen AG
+Europe,BMW,3 Series (Germany),2022,ZF Friedrichshafen AG
+Americas,BMW,3 Series (Mexico),2022,ZF Friedrichshafen AG
+Europe,BMW,5 Series (Germany),2022,ZF Friedrichshafen AG
+Europe,BMW,7 Series (Germany),2022,ZF Friedrichshafen AG
+Europe,BMW,M3 (Germany),2022,ZF Friedrichshafen AG
+Europe,BMW,M3 Touring (Germany),2022,ZF Friedrichshafen AG
+Europe,BMW,M4 Cabriolet (Germany),2022,ZF Friedrichshafen AG
+Europe,BMW,M4 Coupe (Germany),2022,ZF Friedrichshafen AG
+Europe,BMW,M5 (Germany),2022,ZF Friedrichshafen AG
+Americas,BMW,X3 (USA),2022,ZF Friedrichshafen AG
+Americas,BMW,X4 (USA),2022,ZF Friedrichshafen AG
+Europe,BMW,Z4 (Austria),2022,ZF Friedrichshafen AG
+China,Changan,CS75 PLUS (FF) (China),2022,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,Changan,CS75 PLUS (FF) (China),2022,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,Changan,UNI-T (FF) (China),2022,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,Changan,Oshan Z6 PHEV (FF) (China),2022,"BorgWarner PowerDrive systems (Suzhou) Co., Ltd. (Formerly Delphi Technologies (Suzhou) Co., Ltd.)"
+Americas,Chrysler,300 (Canada),2022,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300 (Canada),2022,"ZF Transmissions Gray Court, LLC"
+Europe,Citroen,C5 Aircross Plug-in Hybrid (France),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,Dongfeng Peugeot Citroen,Peugeot 408 (FF) (China),2022,"Tianjin Aisin Automatic Transmission Co., Ltd.¡]Formerly Tianjin AW Automatic Transmission Co., Ltd.¡^"
+Europe,DS Automobiles,DS DS 7 (France),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,FAW-Volkswagen,Volkswagen ID.6 CROZZ (4WD) (China),2022,"GF Casting Solutions Kunshan Co., Ltd."
+China,FAW-Volkswagen,Volkswagen ID.6 CROZZ (RR) (China),2022,"GF Casting Solutions Kunshan Co., Ltd."
+Americas,Ford,E-Series (USA),2022,"American Axle & Manufacturing Holdings, Inc."
+Americas,Ford,F-150 Lightning (USA),2022,Gibbs Die Casting Corporation
+Americas,Ford,F-Series (USA),2022,"American Axle & Manufacturing Holdings, Inc."
+ASEAN?India?Korea,Ford,Focus (Taiwan),2022,Endurance Technologies Ltd.
+China,GAC Motor,Trumpchi GS3 POWER (FF) (China),2022,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi GS4 (FF) (China),2022,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi GS4 PLUS (FF) (China),2022,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi GS4 PLUS (FF) (China),2022,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi GS8 (4WD) (China),2022,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi GS8 (FF) (China),2022,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi GS8 (FF) (China),2022,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi M8 (FF) (China),2022,"GAC Aisin Automatic Transmission Co., Ltd."
+China,Geely,Xingyue S (4WD) (China),2022,"Aisin (China) Investment Co., Ltd."
+Americas,GM,GMC Sierra 2500 (USA),2022,Allison Transmission Inc.
+China,Haima,8S (China),2022,"Harbin Dongan Auto Engine Co., Ltd."
+ASEAN?India?Korea,Honda,Accord (Thailand),2022,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,BR-V (Thailand),2022,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,City (Thailand),2022,"FCC (Thailand) Co., Ltd."
+Japan,Honda,Civic,2022,"F.C.C. Co., Ltd."
+ASEAN?India?Korea,Honda,Civic (Thailand),2022,"FCC (Thailand) Co., Ltd."
+Japan,Honda,CR-V,2022,"F.C.C. Co., Ltd."
+ASEAN?India?Korea,Honda,CR-V (Thailand),2022,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,HR-V (Thailand),2022,"FCC (Thailand) Co., Ltd."
+Americas,Honda,Pilot (USA),2022,ZF Friedrichshafen AG
+ASEAN?India?Korea,Hyundai,Avante (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G70 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G80 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G90 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,i20 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Mighty (Korea),2022,Allison Transmission Inc.
+ASEAN?India?Korea,Hyundai,Palisade (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Porter (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Santa Fe (USA),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Santa Fe (USA),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Starex (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Hyundai,Tucson (Czech Republic),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Universe (Korea),2022,ZF Friedrichshafen AG
+ASEAN?India?Korea,Hyundai,Venue (India),2022,Endurance Technologies Ltd.
+Europe,INEOS,Grenadier (France),2022,ZF Friedrichshafen AG
+Japan,Isuzu,Como,2022,JATCO Ltd.
+Americas,Isuzu,FTR (USA),2022,Allison Transmission Inc.
+Americas,Isuzu,FVR (USA),2022,Allison Transmission Inc.
+China,JAC,Refine M4 (FR) (China),2022,"Ningbo Shuanglin Auto Parts Co., Ltd."
+Europe,Jaguar Land Rover,Land Rover Defender 110 (Slovakia),2022,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Defender 130 (Slovakia),2022,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Defender 90 (Slovakia),2022,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport (UK),2022,ZF Friedrichshafen AG
+ASEAN?India?Korea,JBM Auto,JBM CITYLIFE (India),2022,Allison Transmission India Pvt. Ltd.
+Americas,Jeep,Compass (Mexico),2022,"Aisin Drivetrain, Inc."
+Americas,Jeep,Compass (Mexico),2022,"MacLean-Fogg Component Solutions, LLC"
+Americas,Jeep,Gladiator (USA),2022,ZF Friedrichshafen AG
+Americas,Jeep,Grand Cherokee 4xe (USA),2022,ZF Friedrichshafen AG
+Americas,Jeep,Wrangler (USA),2022,ZF Friedrichshafen AG
+ASEAN?India?Korea,Kia,Bongo (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Carnival (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Granbird (Korea),2022,ZF Friedrichshafen AG
+ASEAN?India?Korea,Kia,K3 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 Hybrid (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 Hybrid (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K7 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K7 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K9 (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Mohave (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Kia,Pride (Mexico),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sonet (India),2022,Endurance Technologies Ltd.
+ASEAN?India?Korea,Kia,Sorento (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Soul (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sportage (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Stinger (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Stonic (Korea),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Kia,Telluride (USA),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra Scorpio-N (India),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Mazda,CX-3,2022,"Hiroshima Seimitsu Kogyo Co., Ltd."
+ASEAN?India?Korea,Mazda,CX-3 (Thailand),2022,Hirosei (Thailand) Ltd.
+Japan,Mazda,CX-30,2022,"Hiroshima Seimitsu Kogyo Co., Ltd."
+ASEAN?India?Korea,Mazda,CX-30 (Thailand),2022,Hirosei (Thailand) Ltd.
+Japan,Mazda,CX-60,2022,Mazda
+Japan,Mazda,CX-60 Hybrid,2022,Mazda
+Japan,Mazda,CX-60 PHEV,2022,Mazda
+Japan,Mazda,Mazda2,2022,"Hiroshima Seimitsu Kogyo Co., Ltd."
+Japan,Mazda,Mazda2,2022,Ondo Corporation (Formerly Ondo Kosakusho)
+ASEAN?India?Korea,Mazda,Mazda2 Hatchback (Thailand),2022,Hirosei (Thailand) Ltd.
+ASEAN?India?Korea,Mazda,Mazda2 Hatchback (Thailand),2022,"Ondo Shinsho (Thailand) Co., Ltd."
+ASEAN?India?Korea,Mazda,Mazda2 Sedan (Thailand),2022,Hirosei (Thailand) Ltd.
+ASEAN?India?Korea,Mazda,Mazda2 Sedan (Thailand),2022,"Ondo Shinsho (Thailand) Co., Ltd."
+Japan,Mazda,Mazda3 Fastback,2022,"Hiroshima Seimitsu Kogyo Co., Ltd."
+Japan,Mazda,Mazda3 Fastback,2022,Ondo Corporation (Formerly Ondo Kosakusho)
+ASEAN?India?Korea,Mazda,Mazda3 Fastback (Thailand),2022,Hirosei (Thailand) Ltd.
+ASEAN?India?Korea,Mazda,Mazda3 Fastback (Thailand),2022,"Ondo Shinsho (Thailand) Co., Ltd."
+Japan,Mazda,Mazda3 Sedan,2022,"Hiroshima Seimitsu Kogyo Co., Ltd."
+Japan,Mazda,Mazda3 Sedan,2022,Ondo Corporation (Formerly Ondo Kosakusho)
+ASEAN?India?Korea,Mazda,Mazda3 Sedan (Thailand),2022,Hirosei (Thailand) Ltd.
+ASEAN?India?Korea,Mazda,Mazda3 Sedan (Thailand),2022,"Ondo Shinsho (Thailand) Co., Ltd."
+Japan,Mazda,Roadster,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Mazda,Roadster RF,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mercedes-Benz,C-Class (India),2022,Endurance Technologies Ltd.
+Europe,Mercedes-Benz,GLC (Germany),2022,Vibracoustic SE
+ASEAN?India?Korea,Mercedes-Benz,S-Class (India),2022,Endurance Technologies Ltd.
+Japan,Mitsubishi,Eclipse Cross,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mitsubishi,Outlander PHEV (Thailand),2022,"GKN Driveline (Thailand) Co., Ltd."
+ASEAN?India?Korea,Mitsubishi,Pajero Sport (Thailand),2022,"AISIN Autoparts (Thailand) Co., Ltd. (Formerly Aisin AI (Thailand) Co., Ltd.)"
+ASEAN?India?Korea,Mitsubishi,Triton (Thailand),2022,"AISIN Autoparts (Thailand) Co., Ltd. (Formerly Aisin AI (Thailand) Co., Ltd.)"
+Japan,Nissan,AD,2022,JATCO Ltd.
+Japan,Nissan,Armada,2022,JATCO Ltd.
+Japan,Nissan,Caravan Microbus,2022,JATCO Ltd.
+Japan,Nissan,Caravan Van,2022,JATCO Ltd.
+Japan,Nissan,Caravan Wagon,2022,JATCO Ltd.
+Japan,Nissan,Cima Hybrid,2022,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2022,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2022,"Jatco USA, Inc."
+Americas,Nissan,Frontier (USA),2022,"Jatco USA, Inc."
+Japan,Nissan,Fuga,2022,JATCO Ltd.
+Japan,Nissan,Fuga Hybrid,2022,JATCO Ltd.
+Japan,Nissan,NV200 Vanette Van,2022,JATCO Ltd.
+Americas,Nissan,Pathfinder (USA),2022,Mubea Inc.
+Americas,Nissan,Pathfinder (USA),2022,ZF Friedrichshafen AG
+Japan,Nissan,Patrol,2022,JATCO Ltd.
+Japan,Nissan,Patrol Pickup,2022,JATCO Ltd.
+Japan,Nissan,Patrol Safari,2022,JATCO Ltd.
+Americas,Nissan,Infiniti QX60 (USA),2022,ZF Friedrichshafen AG
+Japan,Nissan,Infiniti QX80,2022,JATCO Ltd.
+Japan,Nissan,Skyline 400R,2022,JATCO Ltd.
+Japan,Nissan,Skyline GT,2022,JATCO Ltd.
+Japan,Nissan,Skyline GT HYBRID,2022,JATCO Ltd.
+Americas,Nissan,Titan (USA),2022,"Jatco USA, Inc."
+Europe,Opel,Astra Plug-in-Hybrid (Germany),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,3008 Hybrid (France),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,508 (France),2022,ARaymond France SAS
+Europe,Peugeot,508 SW Hybrid (France),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Ram Trucks,Ram 1500 (USA),2022,"ZF Transmissions Gray Court, LLC"
+Americas,Ram Trucks,Ram 1500 (USA),2022,"ZF Transmissions Gray Court, LLC"
+Americas,Ram Trucks,Ram 1500 (USA),2022,"ZF Transmissions Gray Court, LLC"
+Americas,Ram Trucks,Ram 1500 (USA),2022,"ZF Transmissions Gray Court, LLC"
+Americas,Ram Trucks,Ram 2500 (Mexico),2022,Chrysler
+Americas,Ram Trucks,Ram 2500 (Mexico),2022,"ZF Transmissions Gray Court, LLC"
+Americas,Ram Trucks,Ram 3500 (Mexico),2022,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 3500 (Mexico),2022,Chrysler
+Americas,Ram Trucks,Ram 3500 (Mexico),2022,"ZF Transmissions Gray Court, LLC"
+ASEAN?India?Korea,Renault,Arkana E-TECH Hybrid (Korea),2022,Renault - Sevilla Plant
+Europe,Renault,Captur E-TECH Plug-in Hybrid (Spain),2022,Renault - Sevilla Plant
+Europe,Renault,Clio E-TECH Hybrid (Turkiye),2022,Renault - Sevilla Plant
+Europe,Renault,Megane E-TECH Plug-in Hybrid (Spain),2022,Renault - Sevilla Plant
+Europe,Rolls-Royce,Cullinan (UK),2022,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Ghost (UK),2022,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Ghost Extended (UK),2022,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Phantom (UK),2022,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Phantom Extended (UK),2022,ZF Friedrichshafen AG
+China,SAIC Passenger Vehicle,Roewe RX5 MAX (FF) (China),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,SAIC Volkswagen,Volkswagen ID.6 X (4WD) (China),2022,"GF Casting Solutions Kunshan Co., Ltd."
+China,SAIC Volkswagen,Volkswagen ID.6 X (RR) (China),2022,"GF Casting Solutions Kunshan Co., Ltd."
+China,SINOTRUK,VGV VX7 (FF) (China),2022,"Shengrui Transmission Co., Ltd."
+China,Soueast,DX7 (FF) (China),2022,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Japan,Subaru,BRZ,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,Tesla China,Tesla Model 3 (RR) (China),2022,"Ningbo Xusheng Group Co., Ltd. (Formerly Ningbo Xusheng Auto Technology Co., Ltd.)"
+China,Tesla China,Tesla Model Y (4WD) (China),2022,"Ningbo Xusheng Group Co., Ltd. (Formerly Ningbo Xusheng Auto Technology Co., Ltd.)"
+Japan,Toyota,Alphard,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Toyota,Camry (USA),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Crown Crossover RS,2022,BluE Nexus Corporation
+ASEAN?India?Korea,Toyota,Fortuner (Thailand),2022,"AISIN Autoparts (Thailand) Co., Ltd. (Formerly Aisin AI (Thailand) Co., Ltd.)"
+ASEAN?India?Korea,Toyota,Fortuner (Thailand),2022,"Aisin Powertrain (Thailand) Co., Ltd. (Formerly AW (Thailand) Co., Ltd.)"
+Japan,Toyota,GR86,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Harrier Hybrid,2022,"Kyushu Yanagawa Seiki Co., Ltd."
+ASEAN?India?Korea,Toyota,Hilux Revo (Thailand),2022,"AISIN Autoparts (Thailand) Co., Ltd. (Formerly Aisin AI (Thailand) Co., Ltd.)"
+Japan,Toyota,Land Cruiser,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LC500,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LC500 Convertible,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LC500h,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LM350,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LS500,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LX500d,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LX600,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus RX450h+,2022,BluE Nexus Corporation
+Japan,Toyota,Lexus RX500h,2022,BluE Nexus Corporation
+Americas,Toyota,Sequoia (USA),2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Toyota,Supra (Austria),2022,ZF Friedrichshafen AG
+Americas,Toyota,Tundra (USA),2022,Gibbs Die Casting Corporation
+Americas,Toyota,Tundra (USA),2022,"Ryobi Die Casting (USA), Inc."
+Americas,Toyota,Tundra i-FORCE MAX (USA),2022,Aisin World Corp. of America Inc.
+Japan,Toyota,Vellfire,2022,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Volkswagen,ID. Buzz (Germany),2022,Georg Fischer AG
+Europe,Volkswagen,ID. Buzz Cargo (Germany),2022,Georg Fischer AG
+Europe,Volkswagen,ID.4 (Germany),2022,Georg Fischer AG
+Europe,Volkswagen,ID.4 GTX (Germany),2022,Georg Fischer AG
+Europe,Volkswagen,ID.5 (Germany),2022,Georg Fischer AG
+Europe,Volkswagen,ID.5 GTX (Germany),2022,Georg Fischer AG
+Europe,Alfa Romeo,Giulia (Italy),2021,ZF Friedrichshafen AG
+Europe,Alfa Romeo,Stelvio (Italy),2021,ZF Friedrichshafen AG
+Europe,Aston Martin,DB11 (UK),2021,ZF Friedrichshafen AG
+Europe,Aston Martin,DB11 Volante (UK),2021,ZF Friedrichshafen AG
+Europe,Aston Martin,DBS (UK),2021,ZF Friedrichshafen AG
+Europe,Aston Martin,DBS Volante (UK),2021,ZF Friedrichshafen AG
+Europe,Aston Martin,V12 Speedster (UK),2021,ZF Friedrichshafen AG
+Europe,Aston Martin,Vantage (UK),2021,ZF Friedrichshafen AG
+Europe,Aston Martin,Vantage Roadster (UK),2021,ZF Friedrichshafen AG
+Europe,Audi,e-tron GT (Germany),2021,Standard-Metallwerke GmbH
+Europe,Audi,Q7 (Slovakia),2021,ZF Friedrichshafen AG
+Europe,Aurus,Senat (Russia),2021,KATE LLC
+Europe,Bentley,Bentayga (UK),2021,ZF Friedrichshafen AG
+Europe,BMW,1 Series (Germany),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,BMW,2 Series Gran Coupe (Germany),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,BMW,3 Series (Germany),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,BMW,3 Series (Malaysia),2021,ZF Friedrichshafen AG
+Europe,BMW,3 Series Touring (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,4 Series Cabriolet (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,4 Series Coupe (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,4 Series Gran Coupe (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,5 Series (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,5 Series Touring (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,6 Series Gran Turismo (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,7 Series (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,8 Series Cabriolet (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,8 Series Coupe (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,8 Series Gran Coupe (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,M3 Competition (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,M4 Coupe Competition (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,M5 (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,M8 Cabriolet Competition (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,M8 Coupe Competition (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,M8 Gran Coupe Competition (Germany),2021,ZF Friedrichshafen AG
+Europe,BMW,X1 (Germany),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,BMW,X2 (Germany),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,BMW,X3 (USA),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,BMW,X4 (Malaysia),2021,ZF Friedrichshafen AG
+Americas,BMW,X4 (USA),2021,ZF Friedrichshafen AG
+Americas,BMW,X5 (USA),2021,ZF Friedrichshafen AG
+Americas,BMW,X6 (USA),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,BMW,X7 (Malaysia),2021,ZF Friedrichshafen AG
+Americas,BMW,X7 (USA),2021,ZF Friedrichshafen AG
+Europe,BMW,Z4 (Austria),2021,ZF Friedrichshafen AG
+China,Changan,UNI-K (FF) (China),2021,"Aisin (China) Investment Co., Ltd."
+China,Changan,UNI-T (FF) (China),2021,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,Chery Jaguar Land Rover,Jaguar XFL (FR) (China),2021,ZF Friedrichshafen AG
+Americas,Chrysler,300 (Canada),2021,ZF Friedrichshafen AG
+Americas,Chrysler,300 (Canada),2021,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300 (Canada),2021,"ZF Transmissions Gray Court, LLC"
+Europe,Citroen,Berlingo (Spain),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Citroen,C3 (Slovakia),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Citroen,C5 Aircross Plug-in Hybrid (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Citroen,C5 X (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Daimler,Mercedes-Benz S-Class (Germany),2021,Star Assembly SRL
+Americas,Dodge,Challenger (Canada),2021,ZF Friedrichshafen AG
+Americas,Dodge,Charger (Canada),2021,ZF Friedrichshafen AG
+Americas,Dodge,Durango (USA),2021,ZF Friedrichshafen AG
+China,Dongfeng Passenger Vehicle,Aeolus AX7 PRO (FF) (China),2021,"Shiyan Tenneco Engine Components Co., Ltd. (Formerly Federal-Mogul Dong Feng (Shiyan) Engine Components Co., Ltd.)"
+China,Dongfeng Peugeot Citroen,Peugeot 4008 (FF) (China),2021,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,Dongfeng Peugeot Citroen,Peugeot 5008 (FF) (China),2021,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,Dongfeng Peugeot Citroen,Peugeot 508L PHEV (China),2021,"Aisin (China) Investment Co., Ltd."
+China,Dongfeng Yueda Kia,Kia KX1 (FF) (China),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,DS Automobiles,DS DS 3 Crossback (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,DS Automobiles,DS DS 7 Crossback (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,FAW-Volkswagen,Volkswagen ID.6 CROZZ (4WD) (China),2021,"GF Casting Solutions Kunshan Co., Ltd."
+China,FAW-Volkswagen,Volkswagen ID.6 CROZZ (RR) (China),2021,"GF Casting Solutions Kunshan Co., Ltd."
+Americas,Fiat,Pulse (Brazil),2021,Nemak Aluminio do Brasil Ltda.
+Americas,Ford,Lincoln Aviator (USA),2021,"MacLean-Fogg Component Solutions, LLC"
+Americas,Ford,Lincoln Aviator (USA),2021,"Nemak, S.A.B. de C.V."
+Americas,Ford,Lincoln Aviator (USA),2021,"Ryobi Die Casting (USA), Inc."
+Americas,Ford,Bronco Sport (Mexico),2021,"MacLean-Fogg Component Solutions, LLC"
+China,GAC Motor,Trumpchi GS4 PLUS (FF) (China),2021,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi GS8 (4WD) (China),2021,"GAC Aisin Automatic Transmission Co., Ltd."
+China,GAC Motor,Trumpchi GS8 (FF) (China),2021,"GAC Aisin Automatic Transmission Co., Ltd."
+China,Geely,LYNK & CO 02 (FF) (China),2021,"Aisin (China) Investment Co., Ltd."
+Americas,GM,Cadillac CT4-V Blackwing (USA),2021,GM
+Americas,GM,Cadillac CT5 (USA),2021,GM
+Americas,GM,Cadillac CT5-V Blackwing (USA),2021,GM
+Americas,GM,Cadillac Escalade (USA),2021,GM
+Americas,GM,Chevrolet Tracker (Brazil),2021,Nemak Aluminio do Brasil Ltda.
+Americas,GM,GMC Yukon (USA),2021,GM
+China,Great Wall,Tank 300 (4WD) (China),2021,"ZF Transmissions Shanghai Co., Ltd."
+Japan,Hino,700 Series,2021,"Allison Transmission Japan Co., Ltd."
+Japan,Hino,Rainbow,2021,"Allison Transmission Japan Co., Ltd."
+Americas,Honda,Passport (USA),2021,ZF Friedrichshafen AG
+Americas,Honda,Ridgeline (USA),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,Hyundai,Avante (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Avante (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G70 (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G80 (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G90 (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Grand Starex (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,i20 (India),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Palisade (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Porter (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Santa Fe (USA),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Sonata (USA),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Sonata (USA),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Tucson (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Tucson (USA),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Japan,Isuzu,Como,2021,JATCO Ltd.
+ASEAN?India?Korea,Isuzu,D-Max (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+ASEAN?India?Korea,Isuzu,mu-X (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+Europe,Jaguar Land Rover,Land Rover Defender 110 (Slovakia),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Defender 90 (Slovakia),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Discovery (Slovakia),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar E-Pace (Austria),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Pace (UK),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Pace SVR (UK),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport (UK),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Velar (UK),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XE (UK),2021,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XF (UK),2021,ZF Friedrichshafen AG
+Americas,Jeep,Cherokee (USA),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,Jeep,Compass (India),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Jeep,Compass (India),2021,ZF Friedrichshafen AG
+Americas,Jeep,Compass (Mexico),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Jeep,Compass (Mexico),2021,ZF Friedrichshafen AG
+Americas,Jeep,Gladiator (USA),2021,ZF Friedrichshafen AG
+Americas,Jeep,Grand Cherokee (USA),2021,ZF Friedrichshafen AG
+Europe,Jeep,Renegade (Italy),2021,ZF Friedrichshafen AG
+Americas,Jeep,Wagoneer (USA),2021,ZF Friedrichshafen AG
+Americas,Jeep,Wrangler (USA),2021,ZF Friedrichshafen AG
+Americas,Jeep,Wrangler (USA),2021,ZF Friedrichshafen AG
+Europe,KAMAZ,65659 (Russia),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,Kia,Bongo (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Carnival (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K7 (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K7 (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Mohave (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Pride (Iran),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sportage (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Stinger (Korea),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Kia,Telluride (USA),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Lamborghini,Urus (Italy),2021,ZF Friedrichshafen AG
+Europe,Maserati,Ghibli (Italy),2021,ZF Friedrichshafen AG
+Europe,Maserati,Ghibli Trofeo (Italy),2021,ZF Friedrichshafen AG
+Europe,Maserati,Levante (Italy),2021,ZF Friedrichshafen AG
+Europe,Maserati,Levante Hybrid (Italy),2021,ZF Friedrichshafen AG
+Europe,Maserati,Levante Trofeo (Italy),2021,ZF Friedrichshafen AG
+Europe,Maserati,Quattroporte (Italy),2021,ZF Friedrichshafen AG
+Europe,Maserati,Quattroporte Trofeo (Italy),2021,ZF Friedrichshafen AG
+Japan,Mazda,MX-30,2021,Mazda
+Japan,Mazda,Roadster,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Mazda,Roadster RF,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mitsubishi,Attrage (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+Japan,Mitsubishi,Delica D:5,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Mitsubishi,Mirage (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+ASEAN?India?Korea,Nissan,Almera (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+Japan,Nissan,Cima Hybrid,2021,JATCO Ltd.
+Japan,Nissan,Fuga,2021,"Keihin Seimitsu Kogyo Co., Ltd."
+Japan,Nissan,Fuga,2021,"Keihin Seimitsu Kogyo Co., Ltd."
+Japan,Nissan,Fuga Hybrid,2021,JATCO Ltd.
+ASEAN?India?Korea,Nissan,Kicks e-POWER (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+ASEAN?India?Korea,Nissan,March (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+Japan,Nissan,NV350 Caravan Microbus,2021,JATCO Ltd.
+Japan,Nissan,NV350 Caravan Van,2021,JATCO Ltd.
+Japan,Nissan,NV350 Caravan Wagon,2021,JATCO Ltd.
+Americas,Nissan,Pathfinder (USA),2021,ZF Friedrichshafen AG
+Americas,Nissan,Infiniti QX60 (USA),2021,ZF Friedrichshafen AG
+Japan,Nissan,Skyline GT HYBRID,2021,JATCO Ltd.
+Americas,Nissan,Titan (USA),2021,Bosch (Robert Bosch LLC)
+Americas,Nissan,Titan (USA),2021,"Jatco USA, Inc."
+Europe,Peugeot,2008 (Spain),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,208 (Slovakia),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,3008 Hybrid4 (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,308 (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,308 Hybrid (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,308 SW (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,508 (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,508 SW (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,508 SW Hybrid (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,Rifter (Spain),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Peugeot,SUV 3008 (France),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Porsche,Cayenne Turbo Coupe (Slovakia),2021,ZF Friedrichshafen AG
+Americas,Ram Trucks,Ram 1500 (USA),2021,ZF Friedrichshafen AG
+Americas,Ram Trucks,Ram 2500 (Mexico),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Ram Trucks,Ram 2500 (Mexico),2021,ZF Friedrichshafen AG
+Americas,Ram Trucks,Ram 3500 (Mexico),2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Ram Trucks,Ram 3500 (Mexico),2021,ZF Friedrichshafen AG
+Europe,Ram Trucks,Ram ProMaster City (Turkiye),2021,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Cullinan (UK),2021,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Dawn (UK),2021,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Ghost (UK),2021,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Ghost EWB (UK),2021,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Phantom (UK),2021,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Phantom EWB (UK),2021,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Wraith (UK),2021,ZF Friedrichshafen AG
+China,SAIC Passenger Vehicle,Roewe RX8 (FR) (China),2021,"GAC Aisin Automatic Transmission Co., Ltd."
+China,SAIC Volkswagen,Volkswagen ID.6 X (4WD) (China),2021,"GF Casting Solutions Kunshan Co., Ltd."
+China,SAIC Volkswagen,Volkswagen ID.6 X (RR) (China),2021,"GF Casting Solutions Kunshan Co., Ltd."
+China,SINOTRUK,VGV U75PLUS (FF) (China),2021,"Shengrui Transmission Co., Ltd."
+China,Soueast,DX7 (FF) (China),2021,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Japan,Subaru,BRZ,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Suzuki,Swift (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+Japan,Suzuki,XBEE,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,Tesla China,Tesla Model 3 (RR) (China),2021,"Ningbo Xusheng Group Co., Ltd. (Formerly Ningbo Xusheng Auto Technology Co., Ltd.)"
+China,Tesla China,Tesla Model Y (RR) (China),2021,"Ningbo Xusheng Group Co., Ltd. (Formerly Ningbo Xusheng Auto Technology Co., Ltd.)"
+Japan,Toyota,Crown,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Crown Hybrid,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,GR86,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+ASEAN?India?Korea,Toyota,Hiace Commuter (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+ASEAN?India?Korea,Toyota,Hilux Revo (Thailand),2021,"Musashi Auto Parts Co., Ltd."
+Japan,Toyota,Land Cruiser,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LC500,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LC500h,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LS500,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus LS500h,2021,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Toyota,Supra (Austria),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,VinFast,LUX A2.0 (Vietnam),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,VinFast,LUX SA2.0 (Vietnam),2021,ZF Friedrichshafen AG
+ASEAN?India?Korea,VinFast,President (Vietnam),2021,ZF Friedrichshafen AG
+Americas,Volkswagen,Amarok V6 (Argentina),2021,ZF Friedrichshafen AG
+Europe,Volkswagen,ID. Buzz (Germany),2021,Georg Fischer AG
+Europe,Volkswagen,ID. Buzz Cargo (Germany),2021,Georg Fischer AG
+Europe,Volkswagen,ID.4 (Germany),2021,Georg Fischer AG
+Europe,Volkswagen,ID.4 GTX (Germany),2021,Georg Fischer AG
+Europe,Volkswagen,ID.5 (Germany),2021,Georg Fischer AG
+Europe,Volkswagen,ID.5 GTX (Germany),2021,Georg Fischer AG
+ASEAN?India?Korea,Volvo Cars,Volvo S60 (Malaysia),2021,Aisin (Formerly Aisin AW)
+Japan,Abarth,124 Spider,2020,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Alpina,B3 Limousine (Germany),2020,ZF Friedrichshafen AG
+Europe,Alpina,B3 Touring (Germany),2020,ZF Friedrichshafen AG
+Europe,Alpina,B5 Limousine (Germany),2020,ZF Friedrichshafen AG
+Europe,Alpina,B5 Touring (Germany),2020,ZF Friedrichshafen AG
+Europe,Alpina,B7 (Germany),2020,ZF Friedrichshafen AG
+Europe,Alpina,D3 S Limousine (Germany),2020,ZF Friedrichshafen AG
+Europe,Alpina,D3 S Touring (Germany),2020,ZF Friedrichshafen AG
+Europe,Alpina,D5 S Limousine (Germany),2020,ZF Friedrichshafen AG
+Americas,Alpina,XB7 (USA),2020,ZF Friedrichshafen AG
+Europe,Aston Martin,Vantage (UK),2020,ZF Friedrichshafen AG
+Europe,Aston Martin,Vantage Roadster (UK),2020,ZF Friedrichshafen AG
+Europe,Audi,Q8 (Slovakia),2020,COHLINE GmbH
+China,Beijing Hyundai,Hyundai Sonata Plug-in Hybrid (China),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Bentley,Mulsanne (UK),2020,ZF Friedrichshafen AG
+Europe,BMW,2 Series Gran Coupe (Germany),2020,Aisin (Formerly Aisin AW)
+Europe,BMW,320i (Germany),2020,ZF Friedrichshafen AG
+Americas,BMW,X6 (USA),2020,ZF Friedrichshafen AG
+Europe,Citroen,Berlingo (Spain),2020,Aisin (Formerly Aisin AW)
+Europe,Citroen,C3 Aircross (Spain),2020,Aisin (Formerly Aisin AW)
+Europe,Citroen,Grand C4 Spacetourer (Spain),2020,Aisin (Formerly Aisin AW)
+Europe,Daimler,Mercedes-Benz S-Class (Germany),2020,KSM Castings Group GmbH
+China,Dongfeng Yueda Kia,Kia K5 PHEV (China),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,DS Automobiles,DS DS 7 Crossback (France),2020,Aisin (Formerly Aisin AW)
+Americas,Ford,Lincoln Aviator (USA),2020,Schaeffler AG
+Americas,Ford,Explorer (USA),2020,Ford
+Americas,Ford,Explorer (USA),2020,Schaeffler AG
+Americas,Ford,Explorer Hybrid (USA),2020,Ford
+Americas,Ford,Transit (USA),2020,Ford
+Americas,GM,Cadillac CT4 (USA),2020,GM
+Americas,GM,GMC Sierra Heavy Duty pickup truck (USA),2020,Allison Transmission Inc.
+ASEAN?India?Korea,Hino,500 Series (Thailand),2020,Allison Transmission Inc.
+ASEAN?India?Korea,Honda,Accord (Thailand),2020,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,BR-V (Thailand),2020,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,City (Thailand),2020,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Civic (Thailand),2020,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,CR-V (Thailand),2020,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,HR-V (Thailand),2020,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Jazz (Thailand),2020,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Mobilio (Thailand),2020,"FCC (Thailand) Co., Ltd."
+Americas,Honda,Ridgeline (USA),2020,ZF Friedrichshafen AG
+Americas,Honda,Acura TLX (USA),2020,ZF Friedrichshafen AG
+ASEAN?India?Korea,Hyundai,Avante (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Elantra (USA),2020,"Hyundai Transys Georgia Seating System, LLC (Formerly Hyundai Dymos Georgia LLC)"
+ASEAN?India?Korea,Hyundai,Genesis G70 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G80 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis G90 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,i20 (India),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Mighty EX4 (Korea),2020,Allison Transmission Inc.
+ASEAN?India?Korea,Hyundai,Mighty EX6 (Korea),2020,Allison Transmission Inc.
+ASEAN?India?Korea,Hyundai,Mighty EX8 (Korea),2020,Allison Transmission Inc.
+ASEAN?India?Korea,Hyundai,Mighty EX9 (Korea),2020,Allison Transmission Inc.
+ASEAN?India?Korea,Hyundai,Palisade (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Porter (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Santa Fe (USA),2020,"Hyundai Transys Georgia Seating System, LLC (Formerly Hyundai Dymos Georgia LLC)"
+Americas,Hyundai,Santa Fe (USA),2020,"Hyundai Transys Georgia Seating System, LLC (Formerly Hyundai Dymos Georgia LLC)"
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Sonata (USA),2020,"Hyundai Transys Georgia Seating System, LLC (Formerly Hyundai Dymos Georgia LLC)"
+Americas,Hyundai,Sonata (USA),2020,"Hyundai Transys Georgia Seating System, LLC (Formerly Hyundai Dymos Georgia LLC)"
+ASEAN?India?Korea,Hyundai,Sonata Hybrid (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Starex (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Hyundai,Tucson (Brazil),2020,"Hyundai Transys Mexico Powertrain, S. de R.L. de C.V. (Formerly Hyundai Powertech Mexico S. de R.L. de C.V.)"
+ASEAN?India?Korea,Hyundai,Tucson (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Jaguar Land Rover,Land Rover Defender (Slovakia),2020,ZF Friedrichshafen AG
+Americas,Jeep,Compass (Mexico),2020,Aisin World Corp. of America Inc.
+Americas,Jeep,Wrangler 4xe (USA),2020,ZF Friedrichshafen AG
+ASEAN?India?Korea,Kia,Bongo (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Carnival (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K3 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 Hybrid (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K7 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K7 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K9 (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Mohave (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Pride (Iran),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Kia,Sorento (USA),2020,"Hyundai Transys Georgia Seating System, LLC (Formerly Hyundai Dymos Georgia LLC)"
+Americas,Kia,Sorento (USA),2020,"Hyundai Transys Georgia Seating System, LLC (Formerly Hyundai Dymos Georgia LLC)"
+ASEAN?India?Korea,Kia,Soul (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sportage (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Stinger (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Stonic (Korea),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Americas,Kia,Telluride (USA),2020,"Hyundai Transys Georgia Seating System, LLC (Formerly Hyundai Dymos Georgia LLC)"
+Europe,Maserati,Ghibli Hybrid (Italy),2020,ZF Friedrichshafen AG
+Japan,Mazda,CX-30,2020,Mazda
+Japan,Mazda,Mazda3,2020,Mazda
+Japan,Mitsubishi,Delica D:5,2020,Aisin (Formerly Aisin AW)
+Japan,Nissan,Cima Hybrid,2020,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2020,JATCO Ltd.
+Japan,Nissan,Fuga,2020,JATCO Ltd.
+Japan,Nissan,Fuga Hybrid,2020,JATCO Ltd.
+Americas,Nissan,NV1500 (USA),2020,JATCO Ltd.
+Japan,Nissan,NV200 Vanette,2020,JATCO Ltd.
+Americas,Nissan,NV2500 (USA),2020,JATCO Ltd.
+Japan,Nissan,NV350 Caravan,2020,JATCO Ltd.
+Americas,Nissan,NV3500 (USA),2020,JATCO Ltd.
+Japan,Nissan,Infiniti Q50,2020,JATCO Ltd.
+Japan,Nissan,Infiniti Q60,2020,JATCO Ltd.
+Japan,Nissan,Infiniti Q70,2020,JATCO Ltd.
+Japan,Nissan,Infiniti QX80,2020,JATCO Ltd.
+Japan,Nissan,Skyline 400R,2020,JATCO Ltd.
+Japan,Nissan,Skyline GT,2020,JATCO Ltd.
+Japan,Nissan,Skyline GT HYBRID,2020,JATCO Ltd.
+Americas,Nissan,Titan (USA),2020,JATCO Ltd.
+Americas,Nissan,Titan (USA),2020,"Jatco USA, Inc."
+Americas,Nissan,Titan XD (USA),2020,JATCO Ltd.
+Europe,Opel,Combo (Spain),2020,Aisin (Formerly Aisin AW)
+Europe,Peugeot,308 (France),2020,Aisin (Formerly Aisin AW)
+Europe,Peugeot,308 SW (France),2020,Aisin (Formerly Aisin AW)
+Europe,Peugeot,508 (France),2020,Aisin (Formerly Aisin AW)
+Europe,Peugeot,508 SW (France),2020,Aisin (Formerly Aisin AW)
+Europe,Peugeot,Rifter (Spain),2020,Aisin (Formerly Aisin AW)
+Europe,Peugeot,SUV 3008 (France),2020,Aisin (Formerly Aisin AW)
+Europe,Porsche,718 Boxster (Germany),2020,Dana Incorporated (Formerly Dana Holding Corporation)
+Europe,Porsche,718 Cayman (Germany),2020,Dana Incorporated (Formerly Dana Holding Corporation)
+Europe,Porsche,Cayenne (Slovakia),2020,COHLINE GmbH
+China,SAIC Passenger Vehicle,Roewe iMAX8 (FF) (China),2020,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,SAIC Passenger Vehicle,Roewe RX3 (FF) (China),2020,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,SAIC Passenger Vehicle,Roewe RX8 (China),2020,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,Soueast,DX7 (FF) (China),2020,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Japan,Suzuki,Jimny,2020,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Jimny Sierra,2020,Aisin (Formerly Aisin AW)
+Americas,Toyota,Camry (USA),2020,"Fine Sinter Co., Ltd."
+ASEAN?India?Korea,Toyota,Hiace (Thailand),2020,Aisin (Formerly Aisin AW)
+Americas,Toyota,Highlander (USA),2020,Aisin (Formerly Aisin AW)
+Americas,Toyota,Highlander (USA),2020,"Fine Sinter Co., Ltd."
+Americas,Toyota,Hilux (Argentina),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Toyota,Hilux (Thailand),2020,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser Prado,2020,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LC500,2020,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LC500h,2020,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS500,2020,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS500h,2020,Aisin (Formerly Aisin AW)
+Americas,Toyota,Sienna (USA),2020,Aisin (Formerly Aisin AW)
+Europe,Toyota,Supra (Austria),2020,ZF Friedrichshafen AG
+Americas,Toyota,Tacoma (USA),2020,Aisin (Formerly Aisin AW)
+Americas,Volkswagen,Golf GTI (Mexico),2020,Dana Incorporated (Formerly Dana Holding Corporation)
+Americas,Volkswagen,Jetta GLI (Mexico),2020,Dana Incorporated (Formerly Dana Holding Corporation)
+Americas,Volvo Cars,Volvo S60 T6 Twin Engine AWD Inscription (USA),2020,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V60 T8 Polestar Engineered (Sweden),2020,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC40 B4 Momentum (Belgium),2020,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC40 B5 AWD R-Design (Belgium),2020,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 B5 AWD Inscription (Sweden),2020,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 B6 AWD R-Design (Sweden),2020,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 T8 Polestar Engineered (Sweden),2020,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC90 D5 AWD R-Design (Sweden),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Yulon,Luxgen M7 (Taiwan),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Yulon,Luxgen S5 GT (Taiwan),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Yulon,Luxgen S5 GT225 (Taiwan),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Yulon,Luxgen U6 GT (Taiwan),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Yulon,Luxgen U6 GT220 (Taiwan),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Yulon,Luxgen U7 (Taiwan),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Yulon,Luxgen URX (Taiwan),2020,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Yulon,Luxgen V7 (Taiwan),2020,Aisin (Formerly Aisin AW)
+Europe,Alfa Romeo,Giulia (Italy),2019,ZF Friedrichshafen AG
+Europe,Aston Martin,DBS Superleggera (UK),2019,ZF Friedrichshafen AG
+Europe,BMW,330e iPerformance (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,430i Convertible (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,430i Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,430i Gran Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,430i xDrive Convertible (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,430i xDrive Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,430i xDrive Gran Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,440i Convertible (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,440i Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,440i Gran Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,440i xDrive Convertible (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,440i xDrive Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,440i xDrive Gran Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,640i Gran Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,640i xDrive Gran Coupe (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,640i xDrive Gran Turismo (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,740e xDrive iPerformance (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,740i (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,740i xDrive (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,750i (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,750i xDrive (Germany),2019,ZF Friedrichshafen AG
+Europe,BMW,8 Series (Germany),2019,Hoerbiger Holding AG
+Europe,BMW,MINI John Cooper Works (UK),2019,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,BMW,X3 sDrive30i Sports (USA),2019,"ZF Transmissions Gray Court, LLC"
+Americas,BMW,X4 xDrive30i (USA),2019,"ZF Transmissions Gray Court, LLC"
+Americas,BMW,X5 (USA),2019,ZF Friedrichshafen AG
+China,Changan,CS35 (FF) (China),2019,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+Americas,Chrysler,Pacifica L (FF) (Canada),2019,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,Pacifica Limited (FF) (Canada),2019,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,Pacifica LX (FF) (Canada),2019,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,Pacifica Touring L (FF) (Canada),2019,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,Pacifica Touring L Plus (FF) (Canada),2019,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,Pacifica Touring Plus (FF) (Canada),2019,"ZF Transmissions Gray Court, LLC"
+China,Dongfeng Passenger Vehicle,Aeolus AX7 (FF) (China),2019,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+Europe,DS Automobiles,DS DS 7 Crossback E-Tense (France),2019,Aisin (Formerly Aisin AW)
+Japan,Fiat,124 Spider,2019,Aisin (Formerly Aisin AW)
+Americas,GM,Chevrolet Silverado (USA),2019,GM
+ASEAN?India?Korea,Honda,Accord (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,BR-V (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Brio Amaze (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,City CNG (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Civic (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,CR-V (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,HR-V (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Jazz (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Mobilio (Thailand),2019,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Isuzu,D-Max (Thailand),2019,"Musashi Auto Parts Co., Ltd."
+ASEAN?India?Korea,Isuzu,mu-X (Thailand),2019,"Musashi Auto Parts Co., Ltd."
+Europe,Jaguar Land Rover,Land Rover Discovery (UK),2019,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport (UK),2019,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport (UK),2019,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Velar (UK),2019,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Velar (UK),2019,ZF Friedrichshafen AG
+Europe,Maserati,GranCabrio (Italy),2019,ZF Friedrichshafen AG
+Europe,Maserati,GranTurismo (Italy),2019,ZF Friedrichshafen AG
+ASEAN?India?Korea,Nissan,Almera (Thailand),2019,"Musashi Auto Parts Co., Ltd."
+ASEAN?India?Korea,Nissan,Note (Thailand),2019,"Musashi Auto Parts Co., Ltd."
+Americas,Ram Trucks,Ram 1500 (USA),2019,ZF Friedrichshafen AG
+Americas,Ram Trucks,Ram 2500 (Mexico),2019,ZF Friedrichshafen AG
+Americas,Ram Trucks,Ram 3500 (Mexico),2019,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Ram Trucks,Ram 3500 (Mexico),2019,ZF Friedrichshafen AG
+China,SAIC Passenger Vehicle,Roewe RX8 (China),2019,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+ASEAN?India?Korea,Toyota,Camry (Thailand),2019,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Toyota,Camry (Thailand),2019,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Toyota,Fortuner (Indonesia),2019,"Aisin Powertrain (Thailand) Co., Ltd. (Formerly AW (Thailand) Co., Ltd.)"
+ASEAN?India?Korea,Toyota,Fortuner (Thailand),2019,"Aisin Powertrain (Thailand) Co., Ltd. (Formerly AW (Thailand) Co., Ltd.)"
+ASEAN?India?Korea,Toyota,Hilux Revo (Thailand),2019,"Aisin Powertrain (Thailand) Co., Ltd. (Formerly AW (Thailand) Co., Ltd.)"
+ASEAN?India?Korea,Toyota,Innova (Indonesia),2019,"Aisin Powertrain (Thailand) Co., Ltd. (Formerly AW (Thailand) Co., Ltd.)"
+Japan,Toyota,Lexus LC500,2019,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS500,2019,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,VinFast,LUX A2.0 (Vietnam),2019,ZF Friedrichshafen AG
+ASEAN?India?Korea,VinFast,LUX SA2.0 (Vietnam),2019,ZF Friedrichshafen AG
+Europe,Volkswagen,Amarok (Germany),2019,Georg Fischer AG
+Americas,Volkswagen,Atlas (USA),2019,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Alpina,B7 xDrive (Germany),2018,ZF Friedrichshafen AG
+Europe,Audi,Q8 (Slovakia),2018,ZF Friedrichshafen AG
+Europe,Audi,RS 5 (Germany),2018,ZF Friedrichshafen AG
+Americas,Audi,SQ5 (Mexico),2018,ZF Friedrichshafen AG
+Europe,AvtoVAZ,Lada Granta (Russia),2018,JATCO Ltd.
+Europe,AvtoVAZ,Lada Kalina (Russia),2018,JATCO Ltd.
+Europe,Bentley,Continental GT (UK),2018,ZF Friedrichshafen AG
+Europe,Bentley,Continental GT Speed Convertible (UK),2018,ZF Friedrichshafen AG
+Europe,Bentley,Continental GT Supersports Convertible (UK),2018,ZF Friedrichshafen AG
+Europe,Bentley,Continental GT V8 Convertible (UK),2018,ZF Friedrichshafen AG
+Europe,Bentley,Continental GT V8 S Convertible (UK),2018,ZF Friedrichshafen AG
+Europe,BMW,230i Convertible (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,230i Coupe (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,230i xDrive Convertible (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,230i xDrive Coupe (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,320i (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,320i (South Africa),2018,ZF Services South Africa (Pty) Ltd.
+Europe,BMW,320i xDrive (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,320i xDrive (South Africa),2018,ZF Services South Africa (Pty) Ltd.
+Europe,BMW,328d (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,328d xDrive (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,328d xDrive Touring (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,330i (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,330i (South Africa),2018,ZF Services South Africa (Pty) Ltd.
+Europe,BMW,330i xDrive (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,330i xDrive (South Africa),2018,ZF Services South Africa (Pty) Ltd.
+Europe,BMW,330i xDrive Gran Turismo (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,330i xDrive Touring (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,340i (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,340i (South Africa),2018,ZF Services South Africa (Pty) Ltd.
+Europe,BMW,340i xDrive (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,340i xDrive (South Africa),2018,ZF Services South Africa (Pty) Ltd.
+Europe,BMW,340i xDrive Gran Turismo (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,530e iPerformance (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,530e xDrive iPerformance (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,530i (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,530i xDrive (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,540d xDrive Sedan (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,540i (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,540i xDrive (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,640i Convertible (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,640i xDrive Convertible (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,650i Convertible (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,650i xDrive Convertible (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,M240i Convertible (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,M240i Coupe (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,M240i xDrive Convertible (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,M240i xDrive Coupe (Germany),2018,ZF Friedrichshafen AG
+Europe,BMW,M550i xDrive (Germany),2018,ZF Friedrichshafen AG
+Americas,BMW,X5 sDrive35i Sports (USA),2018,"ZF Transmissions Gray Court, LLC"
+Americas,BMW,X6 sDrive35i (USA),2018,"ZF Transmissions Gray Court, LLC"
+China,BMW Brilliance,BMW 118i (FF) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 120i (FF) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 125i (FF) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 220i (FF) (China),2018,Aisin (Formerly Aisin AW)
+China,BMW Brilliance,BMW 318i (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 318Li (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 320i M (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 320Li (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 320Li xDrive (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 525Li (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 525Li M (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 530Le (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 530Li (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 530Li M (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 530Li xDrive (4WD) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 530Li xDrive M (4WD) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 540Li (FR) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW X1 sDrive20Li (4WD) (China),2018,Aisin (Formerly Aisin AW)
+China,BMW Brilliance,BMW X1 sDrive20Li (FF) (China),2018,Aisin (Formerly Aisin AW)
+China,BMW Brilliance,BMW X1 xDrive25Li (4WD) (China),2018,Aisin (Formerly Aisin AW)
+China,BMW Brilliance,BMW X3 xDrive25i (4WD) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW X3 xDrive30i (4WD) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+China,Changan PSA,DS DS 7 (FF) (China),2018,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,Chery Jaguar Land Rover,Jaguar XEL (FR) (China),2018,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)
+China,Chery Jaguar Land Rover,Jaguar XFL (FR) (China),2018,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)
+Americas,Chrysler,300 Limited (4WD) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300 Limited (FR) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300 Touring (4WD) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300 Touring (FR) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300 Touring L (4WD) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300 Touring L (FR) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300C (FR) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300S (4WD) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+Americas,Chrysler,300S (FR) (Canada),2018,"ZF Transmissions Gray Court, LLC"
+China,FAW Toyota,Toyota Crown (FR) (China),2018,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+Americas,Ford,Expedition (USA),2018,Ford
+Americas,Ford,F-150 (USA),2018,Ford
+Americas,Ford,F-150 (USA),2018,Ford
+Americas,Ford,Mustang (USA),2018,Ford
+Americas,Ford,Lincoln Navigator (USA),2018,Ford
+China,Great Wall,Haval H6 Coupe (4WD) (China),2018,ZF Friedrichshafen AG
+ASEAN?India?Korea,Honda,Accord (Thailand),2018,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Brio (Thailand),2018,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Brio Amaze (Thailand),2018,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,City (Thailand),2018,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,City CNG (Thailand),2018,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Jazz (Thailand),2018,"FCC (Thailand) Co., Ltd."
+Americas,Honda,Acura RDX (USA),2018,Denso Corporation
+ASEAN?India?Korea,Hyundai,Grand i10 (India),2018,Anusham Automotive India Private Limited
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2018,"Samkee Corp. (Formerly Samkee Automotive Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2018,"Samkee Corp. (Formerly Samkee Automotive Co., Ltd.)"
+ASEAN?India?Korea,Isuzu,D-Max (Thailand),2018,"Musashi Auto Parts Co., Ltd."
+ASEAN?India?Korea,Isuzu,mu-X (Thailand),2018,"Musashi Auto Parts Co., Ltd."
+Europe,Jaguar Land Rover,Land Rover Discovery (4WD) (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Discovery (4WD) (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Discovery Sport (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar E-Pace (Austria),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Pace (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type Convertible (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type Convertible (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type Convertible (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type Coupe (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type Coupe (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type Coupe (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Evoque (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XE (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XE (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XF (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XF (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XJ (UK),2018,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XJ (UK),2018,ZF Friedrichshafen AG
+China,Jiangling Holding,Landwind X5 (FF) (China),2018,"Shengrui Transmission Co., Ltd."
+China,Jiangling Motors,JMC Yusheng S350 (4WD) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+ASEAN?India?Korea,Kia,K7 (Korea),2018,"Samkee Corp. (Formerly Samkee Automotive Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento (Korea),2018,"Samkee Corp. (Formerly Samkee Automotive Co., Ltd.)"
+Europe,Maserati,Ghibli (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Ghibli GranLusso (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Ghibli GranSport (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Ghibli S (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Ghibli S GranLusso (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Ghibli S GranSport (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Ghibli S Q4 (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Ghibli S Q4 GranLusso (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Ghibli S Q4 GranSport (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,GranTurismo MC (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,GranTurismo Sport (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Levante (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Levante GranLusso (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Levante GranSport (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Levante S (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Levante S GranLusso (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Levante S GranSport (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Quattroporte GTS GranLusso (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Quattroporte GTS GranSport (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Quattroporte S (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Quattroporte S GranLusso (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Quattroporte S GranSport (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Quattroporte S Q4 (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Quattroporte S Q4 GranLusso (Italy),2018,ZF Italia S.r.l.
+Europe,Maserati,Quattroporte S Q4 GranSport (Italy),2018,ZF Italia S.r.l.
+Japan,Mazda,CX-5,2018,Mazda
+Japan,Mazda,CX-8,2018,Mazda
+Japan,Mitsubishi Fuso,eCanter,2018,BorgWarner Inc.
+ASEAN?India?Korea,Nissan,Almera (Thailand),2018,"Musashi Auto Parts Co., Ltd."
+ASEAN?India?Korea,Nissan,Note (Thailand),2018,"Musashi Auto Parts Co., Ltd."
+Europe,Porsche,Cayenne (Slovakia),2018,ZF Friedrichshafen AG
+ASEAN?India?Korea,Renault Samsung,SM7 (Korea),2018,JATCO Ltd.
+China,SAIC GM Wuling,Baojun 310 (FF) (China),2018,"Liuzhou SAIC Automotive Transmission Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG ZS (FF) (China),2018,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+China,SAIC Volkswagen,Volkswagen Polo (FF) (China),2018,"ZF Transmissions Shanghai Co., Ltd."
+Americas,Toyota,Camry (USA),2018,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LC500,2018,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LC500h,2018,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS500,2018,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS500h,2018,Aisin (Formerly Aisin AW)
+Americas,Volkswagen,Amarok (Argentina),2018,Linamar de Mexico S.A. de C.V.
+Americas,Volkswagen,Atlas (USA),2018,Dana Incorporated (Formerly Dana Holding Corporation)
+China,Volvo Cars Asia Pacific,Volvo S60L T6 Drive-E Hybrid (FF) (China),2018,Aisin (Formerly Aisin AW)
+Europe,Alfa Romeo,Stelvio (Italy),2017,ZF Friedrichshafen AG
+Europe,Alfa Romeo,Stelvio Quadrifoglio (Italy),2017,ZF Friedrichshafen AG
+Europe,Audi,A8 (Germany),2017,ZF Friedrichshafen AG
+China,BAIC Motor,Wevan M20 (FR) (China),2017,"Shengrui Transmission Co., Ltd."
+Europe,Bentley,Mulsanne (UK),2017,ZF Friedrichshafen AG
+Europe,BMW,5 Series (Germany),2017,ZF Friedrichshafen AG
+Europe,BMW,MINI John Cooper Works Convertible (Netherlands),2017,Aisin (Formerly Aisin AW)
+Europe,BMW,M5 (Germany),2017,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)
+Americas,BMW,X3 (USA),2017,ZF Friedrichshafen AG
+Europe,BMW,Z4 (Austria),2017,ZF Friedrichshafen AG
+China,Changan,Raeton (FF) (China),2017,"Aisin Tianjin Automotive Parts Co., Ltd. (Formerly AW Tianjin Automotive Parts Co., Ltd.)"
+China,Chery,Cowin X3 (FF) (China),2017,"Shengrui Transmission Co., Ltd."
+Americas,Ford,Expedition (USA),2017,Keystone Powdered Metal Company
+Americas,Ford,F-250 (USA),2017,Keystone Powdered Metal Company
+Americas,Ford,F-350 (USA),2017,Keystone Powdered Metal Company
+Americas,Ford,F-450 (USA),2017,Keystone Powdered Metal Company
+Americas,Ford,F-550 (USA),2017,Keystone Powdered Metal Company
+China,GAC Motor,Trumpchi GA3 (FF) (China),2017,"Aisin Suzhou Co., Ltd. (Formerly AW Suzhou Co., Ltd.)"
+Americas,GM,Chevrolet Camaro (USA),2017,GM
+Americas,GM,Chevrolet Camaro ZL1 (USA),2017,GM
+Americas,GM,Chevrolet Equinox (Canada),2017,Dana Incorporated (Formerly Dana Holding Corporation)
+Europe,Jaguar Land Rover,Jaguar E-Pace (Austria),2017,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type SVR (UK),2017,ZF Friedrichshafen AG
+Americas,Jeep,Cherokee (USA),2017,ZF Friedrichshafen AG
+China,Jiangling Holding,Landwind X5 (FF) (China),2017,"Shengrui Transmission Co., Ltd."
+China,Jiangling Holding,Landwind X7 (FF) (China),2017,"Shengrui Transmission Co., Ltd."
+China,Lifan,Xuanlang (FF) (China),2017,"Shengrui Transmission Co., Ltd."
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra XUV500 (India),2017,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Mazda,CX-9,2017,Mazda
+Japan,Mitsubishi,Delica D:5,2017,JATCO Ltd.
+Japan,Nissan,NV150 AD,2017,JATCO Ltd.
+Japan,Nissan,NV150 AD,2017,JATCO Ltd.
+Japan,Nissan,Infiniti QX70,2017,JATCO Ltd.
+Americas,Nissan,Titan XD (USA),2017,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Porsche,Cayenne (Germany),2017,ZF Friedrichshafen AG
+Europe,Porsche,Panamera (Germany),2017,ZF Friedrichshafen AG
+Americas,Ram Trucks,Ram 3500 (Mexico),2017,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Rolls-Royce,Phantom (UK),2017,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Wraith Black Badge (UK),2017,ZF Friedrichshafen AG
+Americas,Toyota,Camry (USA),2017,Aisin (Formerly Aisin AW)
+Americas,Toyota,Highlander (USA),2017,Aisin (Formerly Aisin AW)
+Americas,Toyota,Highlander (USA),2017,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LC500,2017,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LC500h,2017,Aisin (Formerly Aisin AW)
+Americas,Toyota,Sienna (USA),2017,Aisin (Formerly Aisin AW)
+Americas,Volkswagen,Amarok (Argentina),2017,Linamar de Mexico S.A. de C.V.
+Europe,Volkswagen,Polo (Spain),2017,Schaeffler AG
+China,Zotye,SR9 (FF) (China),2017,"Shengrui Transmission Co., Ltd."
+Japan,Abarth,124 Spider,2016,Aisin (Formerly Aisin AW)
+Europe,Alfa Romeo,Giulia Quadrifoglio (Italy),2016,ZF Friedrichshafen AG
+Europe,Alpina,B3 Bi-Turbo (Germany),2016,ZF Friedrichshafen AG
+Europe,Alpina,B3 Bi-Turbo (Germany),2016,ZF Friedrichshafen AG
+Europe,Alpina,D3 Bi-Turbo (Germany),2016,ZF Friedrichshafen AG
+Europe,Aston Martin,DB11 (UK),2016,ZF Friedrichshafen AG
+Europe,Aston Martin,Rapide S (UK),2016,ZF Friedrichshafen AG
+Europe,Audi,Q5 (Germany),2016,ZF Friedrichshafen AG
+Europe,Audi,Q7 (Slovakia),2016,ZF Friedrichshafen AG
+China,BAIC Motor,Beijing BJ80 (China),2016,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Bentley,Bentayga (UK),2016,ZF Friedrichshafen AG
+Europe,Bentley,Mulsanne Speed (UK),2016,ZF Friedrichshafen AG
+Europe,BMW,2 Series Active Tourer (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,BMW,2 Series Active Tourer (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,BMW,225xe (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,BMW,225xe (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,BMW,5 Series (Germany),2016,ZF Friedrichshafen AG
+Europe,BMW,7 Series (Germany),2016,ZF Friedrichshafen AG
+Europe,BMW,i8 (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,BMW,M235i Racing (Germany),2016,ZF Friedrichshafen AG
+Europe,BMW,MINI MINI (UK),2016,Aisin (Formerly Aisin AW)
+Europe,BMW,X1 (Germany),2016,Aisin (Formerly Aisin AW)
+China,Changhe,Q25 (China),2016,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Citroen,C4 (France),2016,Aisin (Formerly Aisin AW)
+Europe,Citroen,C4 Picasso (Spain),2016,Aisin (Formerly Aisin AW)
+Europe,Citroen,C5 (France),2016,Aisin (Formerly Aisin AW)
+Europe,Citroen,DS DS 4 (France),2016,Aisin (Formerly Aisin AW)
+Europe,Citroen,DS DS3 Cabrio So Parisienne (France),2016,Aisin (Formerly Aisin AW)
+Japan,Daihatsu,Atrai Wagon,2016,Daihatsu
+Europe,Daimler,Mercedes-Benz C-Class (Germany),2016,Star Assembly SRL
+Europe,Daimler,Mercedes-Benz E 350 BlueTEC (Germany),2016,Star Assembly SRL
+Europe,Daimler,Mercedes-Benz E-Class (Germany),2016,Metaldyne Performance Group Inc.
+Europe,Daimler,Mercedes-Benz E-Class (Germany),2016,Star Assembly SRL
+Americas,Daimler,Mercedes-Benz GLE Coupe (USA),2016,Star Assembly SRL
+Europe,DS Automobiles,DS DS 5 (France),2016,Aisin (Formerly Aisin AW)
+China,FAW-Volkswagen,Volkswagen Golf (China),2016,"Ryobi Die Casting Dalian Co., Ltd."
+Europe,Fiat,Tipo (Turkiye),2016,ZF Friedrichshafen AG
+Americas,GM,GMC Acadia (USA),2016,Metaldyne Performance Group Inc.
+Americas,GM,Cadillac CT6 (USA),2016,Metaldyne Performance Group Inc.
+Americas,GM,Cadillac CTS (USA),2016,Aisin (Formerly Aisin AW)
+Americas,GM,Cadillac Escalade Platinum (USA),2016,GM
+ASEAN?India?Korea,GM,Chevrolet Spark (Korea),2016,Aisin (Formerly Aisin AW)
+Japan,Honda,CR-V,2016,Honda
+Japan,Honda,Legend Hybrid,2016,Honda
+Americas,Honda,Acura MDX (USA),2016,ZF Friedrichshafen AG
+Americas,Honda,Pilot (USA),2016,ZF Friedrichshafen AG
+Americas,Honda,Pilot (USA),2016,ZF Friedrichshafen AG
+Japan,Honda,Vamos,2016,Honda
+Europe,Jaguar Land Rover,Land Rover Discovery (UK),2016,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Pace (UK),2016,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Pace (UK),2016,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Evoque (UK),2016,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport SVR (UK),2016,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XF (UK),2016,ZF Friedrichshafen AG
+Americas,Jeep,Renegade (Brazil),2016,Aisin (Formerly Aisin AW)
+China,Jiangling Motors,JMC Yusheng S350 Diesel (FR) (China),2016,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)
+ASEAN?India?Korea,Kia,Carens (Korea),2016,"Sambo Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Carens (Korea),2016,"Sambo Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Carens (Korea),2016,"Sambo Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Cerato (Korea),2016,"Sambo Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Cerato (Korea),2016,"Sambo Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Cerato (Korea),2016,"Sambo Motors Co., Ltd."
+ASEAN?India?Korea,Kia,K7 (Korea),2016,Kia
+ASEAN?India?Korea,Kia,Optima (Korea),2016,"Sambo Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Optima (Korea),2016,"Sambo Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Optima (Korea),2016,"Sambo Motors Co., Ltd."
+China,Leopaard,CS10 (FF) (China),2016,"Shanghai Automobile Gear Works Co., Ltd. (SAGW)"
+China,Leopaard,CS10 (FF) (China),2016,"Shengrui Transmission Co., Ltd."
+Europe,Lotus,Evora 400 (UK),2016,Aisin (Formerly Aisin AW)
+Europe,Magyar Suzuki,Suzuki Escudo (Hungary),2016,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra XUV500 (India),2016,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra XUV500 (India),2016,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Maserati,Ghibli (Italy),2016,ZF Friedrichshafen AG
+Europe,Maserati,Levante (Italy),2016,ZF Friedrichshafen AG
+Japan,Mazda,Atenza Sedan,2016,Mazda
+Japan,Mazda,Atenza Wagon,2016,Mazda
+Japan,Mazda,Axela Sedan,2016,Mazda
+Japan,Mazda,Axela Sport,2016,Mazda
+Japan,Mazda,Biante,2016,Mazda
+Japan,Mazda,Biante,2016,Mazda
+Japan,Mazda,CX-3,2016,Mazda
+Japan,Mazda,CX-5,2016,Mazda
+Japan,Mazda,Demio,2016,Mazda
+Japan,Mazda,Premacy,2016,JATCO Ltd.
+Japan,Mazda,Premacy,2016,JATCO Ltd.
+Japan,Mazda,Premacy,2016,Mazda
+Japan,Mazda,Premacy,2016,Mazda
+Japan,Mazda,Roadster,2016,Aisin (Formerly Aisin AW)
+Japan,Mazda,Scrum Wagon,2016,JATCO Ltd.
+Japan,Mitsubishi,Delica D:3,2016,JATCO Ltd.
+Japan,Mitsubishi,Dignity,2016,JATCO Ltd.
+Japan,Mitsubishi,Pajero,2016,Aisin (Formerly Aisin AW)
+Japan,Mitsubishi,Proudia,2016,JATCO Ltd.
+Japan,Mitsubishi,Town Box,2016,JATCO Ltd.
+Japan,Nissan,Cima Hybrid,2016,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2016,JATCO Ltd.
+Americas,Nissan,Frontier (USA),2016,JATCO Ltd.
+Japan,Nissan,Fuga,2016,JATCO Ltd.
+Japan,Nissan,Fuga Hybrid,2016,JATCO Ltd.
+Japan,Nissan,Lafesta Highway Star,2016,JATCO Ltd.
+Japan,Nissan,Lafesta Highway Star,2016,JATCO Ltd.
+Japan,Nissan,NV100 Clipper Rio,2016,JATCO Ltd.
+Japan,Nissan,NV200 Vanette Wagon,2016,JATCO Ltd.
+Japan,Nissan,NV350 Caravan Wagon,2016,JATCO Ltd.
+Europe,Nissan,Datsun on-DO (Russia),2016,JATCO Ltd.
+Japan,Nissan,Infiniti Q70L,2016,JATCO Ltd.
+Japan,Nissan,Skyline 200GT-t,2016,JATCO Ltd.
+Japan,Nissan,Skyline 350GT Hybrid,2016,JATCO Ltd.
+Japan,Nissan,Skyline Crossover,2016,JATCO Ltd.
+Japan,Nissan,Wingroad,2016,JATCO Ltd.
+Europe,Peugeot,3008 (France),2016,Aisin (Formerly Aisin AW)
+Europe,Peugeot,308 (France),2016,Aisin (Formerly Aisin AW)
+Europe,Peugeot,5008 (France),2016,Aisin (Formerly Aisin AW)
+Europe,Peugeot,508 (France),2016,Aisin (Formerly Aisin AW)
+Europe,Peugeot,508 GT BlueHDi (France),2016,Aisin (Formerly Aisin AW)
+Europe,Peugeot,508SW GT BlueHDi (France),2016,Aisin (Formerly Aisin AW)
+Europe,Porsche,Cayenne (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,Porsche,Panamera (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,Renault,Megane (Spain),2016,Dana Incorporated (Formerly Dana Holding Corporation)
+Europe,Rolls-Royce,Dawn (UK),2016,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Ghost (UK),2016,ZF Friedrichshafen AG
+Europe,SEAT,Leon (Spain),2016,Aisin (Formerly Aisin AW)
+Europe,Skoda,Fabia (Czech Republic),2016,Aisin (Formerly Aisin AW)
+Europe,Skoda,Octavia (Czech Republic),2016,Aisin (Formerly Aisin AW)
+Japan,Subaru,BRZ,2016,Aisin (Formerly Aisin AW)
+Japan,Subaru,Dias Wagon,2016,Daihatsu
+Japan,Suzuki,Escudo,2016,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Escudo,2016,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Every Wagon,2016,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Every Wagon,2016,JATCO Ltd.
+Japan,Suzuki,Jimny,2016,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Jimny Sierra,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,86,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Alphard,2016,Toyota
+Japan,Toyota,Camry,2016,"Keihin Seimitsu Kogyo Co., Ltd."
+Japan,Toyota,Crown Athlete,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown Athlete,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown Royal,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown Royal Saloon,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Estima,2016,Toyota
+Japan,Toyota,Lexus GS350,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Hiace Wagon,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS F,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS200t,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS250,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS350,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser 200,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser Prado,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460L,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LX570,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Mark X,2016,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Mark X,2016,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus NX200t,2016,Toyota
+Japan,Toyota,Prius,2016,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus RC F,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus RC200t,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus RC200t F Sport,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus RC350,2016,Aisin (Formerly Aisin AW)
+Americas,Toyota,Lexus RX 350 (Canada),2016,Aisin (Formerly Aisin AW)
+Americas,Toyota,Lexus RX 350 F Sport (Canada),2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus RX200t,2016,Toyota
+Japan,Toyota,Lexus RX350,2016,Aisin (Formerly Aisin AW)
+Japan,Toyota,Vellfire,2016,Toyota
+Americas,Volkswagen,Amarok (Argentina),2016,Linamar de Mexico S.A. de C.V.
+Europe,Volkswagen,Golf (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Golf (Germany),2016,Ryobi Aluminium Casting (UK) Ltd.
+Americas,Volkswagen,Jetta (Mexico),2016,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Passat (Germany),2016,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Tiguan (Germany),2016,Dana Incorporated (Formerly Dana Holding Corporation)
+Europe,Volkswagen,Touareg (Slovakia),2016,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Touran (Germany),2016,Dana Incorporated (Formerly Dana Holding Corporation)
+Europe,Volvo Cars,Volvo S60 (Sweden),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo S60 Cross Country (Belgium),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V40 (Belgium),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V40 R-DESIGN Carbon Edition (Belgium),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V60 (Sweden),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V60 Cross Country (Sweden),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V70 (Sweden),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC40 (Belgium),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 (Belgium),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC70 (Sweden),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC90 (Sweden),2016,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC90 T8 Twin Engine AWD Inscription (Sweden),2016,Aisin (Formerly Aisin AW)
+Europe,Alfa Romeo,Giulia (Italy),2015,ZF Friedrichshafen AG
+Europe,Alpina,B6 Bi-Turbo Gran Coupe Allrad (Germany),2015,ZF Friedrichshafen AG
+Europe,Aston Martin,Vanquish (UK),2015,ZF Friedrichshafen AG
+Europe,Audi,A4 (Germany),2015,ZF Friedrichshafen AG
+Europe,Audi,Q7 (Slovakia),2015,ZF Friedrichshafen AG
+China,Beijing Hyundai,Hyundai Avante (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Beijing Hyundai,Hyundai Elantra HDC (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Beijing Hyundai,Hyundai ix25 (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Beijing Hyundai,Hyundai ix35 (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Beijing Hyundai,Hyundai Mistra (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Beijing Hyundai,Hyundai Santa Fe (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Beijing Hyundai,Hyundai Sonata (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Beijing Hyundai,Hyundai Tucson (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Beijing Hyundai,Hyundai Verna HB (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+Europe,Bentley,Bentayga (UK),2015,ZF Friedrichshafen AG
+Europe,BMW,2 Series Gran Tourer (Germany),2015,Aisin (Formerly Aisin AW)
+Europe,BMW,2 Series Gran Tourer (Germany),2015,Aisin (Formerly Aisin AW)
+Europe,BMW,225i Active Tourer (Germany),2015,Aisin (Formerly Aisin AW)
+Europe,BMW,330e (Germany),2015,ZF Friedrichshafen AG
+Europe,BMW,6 Series (Germany),2015,ZF Friedrichshafen AG
+Americas,BMW,X5 (USA),2015,ZF Friedrichshafen AG
+Americas,BMW,X5 xDrive40e xLine (USA),2015,ZF Friedrichshafen AG
+China,Chery Jaguar Land Rover,Land Rover Range Rover Evoque (4WD) (China),2015,ZF Friedrichshafen AG
+Americas,Chrysler,200 (USA),2015,Chrysler
+Americas,Chrysler,200 (USA),2015,ZF Friedrichshafen AG
+Japan,Daihatsu,Atrai Wagon,2015,Daihatsu
+Japan,Daihatsu,Be-go,2015,Daihatsu
+China,Dongfeng Honda,Honda Civic (FF) (China),2015,Aikitec Autoparts Foshan
+China,Dongfeng Honda,Honda CR-V (FF) (China),2015,Aikitec Autoparts Foshan
+China,Dongfeng Honda,Honda Elysion (FF) (China),2015,Aikitec Autoparts Foshan
+China,Dongfeng Honda,Honda Jade (FF) (China),2015,Aikitec Autoparts Foshan
+China,Dongfeng Honda,Honda Spirior (FF) (China),2015,Aikitec Autoparts Foshan
+China,Dongfeng Honda,Honda XR-V (China),2015,Aikitec Autoparts Foshan
+China,Dongfeng Nissan,Nissan March (China),2015,JATCO (Guangzhou) Automatic Transmission Ltd.
+China,Dongfeng Nissan,Infiniti Q50L (FR) (China),2015,JATCO (Guangzhou) Automatic Transmission Ltd.
+China,Dongfeng Yueda Kia,Kia Cerato (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia Forte (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia K2 (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia K3 (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia K3S (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia K4 Cachet (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia K5 (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia Soul (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia Sportage (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+China,Dongfeng Yueda Kia,Kia Sportage R (FF) (China),2015,"Hyundai Transys (Shandong) Co., Ltd. (Formerly Hyundai Powertech (Shandong) Co., Ltd.)"
+Americas,Fiat,500 Abarth (Mexico),2015,Aisin Europe S.A.
+Europe,Fiat,500X Cross Plus (Italy),2015,ZF Friedrichshafen AG
+ASEAN?India?Korea,Ford,Falcon (Australia),2015,Georg Fischer AG
+China,GAC Fiat Chrysler,Jeep Cherokee (FF) (China),2015,ZF Friedrichshafen AG
+China,GAC Honda,Honda Accord (FF) (China),2015,Aikitec Autoparts Foshan
+China,GAC Honda,Honda City (FF) (China),2015,Aikitec Autoparts Foshan
+China,GAC Honda,Honda Crider (FF) (China),2015,Aikitec Autoparts Foshan
+China,GAC Honda,Honda Crosstour (FF) (China),2015,Aikitec Autoparts Foshan
+China,GAC Honda,Honda Fit (FF) (China),2015,Aikitec Autoparts Foshan
+China,GAC Honda,Honda Odyssey (FF) (China),2015,Aikitec Autoparts Foshan
+China,GAC Honda,Honda Vezel (FF) (China),2015,Aikitec Autoparts Foshan
+China,Geely,King Kong (FF) (China),2015,JATCO (Guangzhou) Automatic Transmission Ltd.
+Americas,GM,Cadillac ATS (USA),2015,GM
+Americas,GM,Cadillac ATS (USA),2015,GM
+Americas,GM,Chevrolet Camaro (USA),2015,GM
+Americas,GM,Chevrolet Camaro (USA),2015,GM
+Americas,GM,Chevrolet Camaro (USA),2015,"Metaldyne Powertrain Components, Inc. - Twinsburg"
+Americas,GM,Chevrolet Camaro (USA),2015,"Metaldyne Sintered Ridgway, LLC"
+Americas,GM,Chevrolet Camaro (USA),2015,"Metaldyne Sintered Ridgway, LLC"
+Americas,GM,Chevrolet Camaro (USA),2015,Schaeffler Group USA Inc.
+Americas,GM,Chevrolet Corvette (USA),2015,GM
+Americas,GM,Chevrolet Corvette Stingray (USA),2015,GM
+Americas,GM,Chevrolet Corvette Z06 (USA),2015,GM
+Americas,GM,Cadillac CT6 (USA),2015,GM
+Americas,GM,Cadillac CT6 (USA),2015,GM
+Americas,GM,Cadillac CT6 (USA),2015,"Metaldyne Powertrain Components, Inc. - Twinsburg"
+Americas,GM,Cadillac CT6 (USA),2015,"Metaldyne Sintered Ridgway, LLC"
+Americas,GM,Cadillac CT6 (USA),2015,"Metaldyne Sintered Ridgway, LLC"
+Americas,GM,Cadillac CT6 (USA),2015,Schaeffler Group USA Inc.
+Americas,GM,Cadillac CTS (USA),2015,GM
+Americas,GM,Cadillac CTS (USA),2015,GM
+Americas,GM,Cadillac Escalade (USA),2015,GM
+Americas,GM,Chevrolet Malibu (USA),2015,Metaldyne Performance Group Inc.
+Americas,GM,GMC Sierra (USA),2015,GM
+Americas,GM,GMC Yukon Denali (USA),2015,GM
+Americas,GM,GMC Yukon XL Denali (USA),2015,GM
+ASEAN?India?Korea,Honda,Accord (Thailand),2015,"FCC (North America), Inc."
+ASEAN?India?Korea,Honda,Accord (Thailand),2015,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Brio (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+ASEAN?India?Korea,Honda,Brio (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+ASEAN?India?Korea,Honda,Brio (Thailand),2015,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Brio Amaze (Thailand),2015,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,City (Thailand),2015,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,City CNG (Thailand),2015,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Civic (Thailand),2015,"FCC (Thailand) Co., Ltd."
+Japan,Honda,CR-V,2015,Honda
+ASEAN?India?Korea,Honda,CR-V (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+ASEAN?India?Korea,Honda,CR-V (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+ASEAN?India?Korea,Honda,CR-V (Thailand),2015,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Freed (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+ASEAN?India?Korea,Honda,Freed (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+Japan,Honda,Freed Spike,2015,Honda
+ASEAN?India?Korea,Honda,Jazz (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+ASEAN?India?Korea,Honda,Jazz (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+ASEAN?India?Korea,Honda,Jazz (Thailand),2015,"FCC (Thailand) Co., Ltd."
+ASEAN?India?Korea,Honda,Mobilio (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+ASEAN?India?Korea,Honda,Mobilio (Indonesia),2015,P.T. Honda Precision Parts Manufacturing
+Americas,Honda,Odyssey (USA),2015,In-house Production at Honda
+Americas,Honda,Acura TLX (USA),2015,ZF Friedrichshafen AG
+Japan,Honda,Vamos,2015,Honda
+China,JAC,Refine M5 (FR) (China),2015,JATCO (Guangzhou) Automatic Transmission Ltd.
+Europe,Jaguar Land Rover,Land Rover Discovery Sport (UK),2015,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover (UK),2015,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover (UK),2015,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport (UK),2015,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XE (UK),2015,ZF Friedrichshafen AG
+Europe,Jeep,Renegade (Italy),2015,ZF Friedrichshafen AG
+Europe,Jeep,Renegade Trailhawk (Italy),2015,ZF Friedrichshafen AG
+Europe,Lotus,Exige S (UK),2015,Aisin (Formerly Aisin AW)
+Europe,Lotus,Exige S Roadster (UK),2015,Aisin (Formerly Aisin AW)
+Europe,Maserati,Quattroporte (Italy),2015,ZF Friedrichshafen AG
+Europe,Maserati,Quattroporte S Q4 (Italy),2015,ZF Friedrichshafen AG
+Japan,Mazda,Atenza Sedan,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Atenza Sedan,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Atenza Sedan,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Atenza Wagon,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Atenza Wagon,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Atenza Wagon,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Axela Sedan,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Axela Sport,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Axela Sport,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Biante,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Biante,2015,Mazda
+Japan,Mazda,CX-3,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,CX-5,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,CX-5,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,CX-5,2015,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Mazda,CX-5 (Malaysia),2015,"Mazda Powertrain Manufacturing (Thailand) Co., Ltd."
+Japan,Mazda,Demio,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Demio,2015,Aisin (Formerly Aisin AW)
+ASEAN?India?Korea,Mazda,Mazda2 (Thailand),2015,"Mazda Powertrain Manufacturing (Thailand) Co., Ltd."
+ASEAN?India?Korea,Mazda,Mazda3 (Thailand),2015,"Mazda Powertrain Manufacturing (Thailand) Co., Ltd."
+Japan,Mazda,MPV,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,MPV,2015,Mazda
+Japan,Mazda,Premacy,2015,Aisin (Formerly Aisin AW)
+Japan,Mazda,Premacy,2015,Mazda
+Japan,Mazda,Roadster,2015,Aisin (Formerly Aisin AW)
+Japan,Mitsubishi,Delica D:5,2015,JATCO Ltd.
+Japan,Nissan,370Z,2015,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2015,JATCO Ltd.
+Americas,Nissan,Frontier (USA),2015,JATCO Ltd.
+Japan,Nissan,Fuga,2015,JATCO Ltd.
+Japan,Nissan,Fuga,2015,JATCO Ltd.
+Japan,Nissan,NV200 Vanette Wagon,2015,JATCO Ltd.
+Japan,Nissan,NV350 Caravan,2015,JATCO Ltd.
+Japan,Nissan,Patrol,2015,JATCO Ltd.
+Japan,Nissan,Patrol,2015,JATCO Ltd.
+Japan,Nissan,Skyline,2015,JATCO Ltd.
+Japan,Nissan,Skyline Coupe,2015,JATCO Ltd.
+Japan,Nissan,Skyline Crossover,2015,JATCO Ltd.
+Japan,Nissan,Skyline Crossover,2015,JATCO Ltd.
+Japan,Nissan,Wingroad,2015,JATCO Ltd.
+Europe,Peugeot,208 Style (France),2015,Aisin (Formerly Aisin AW)
+Europe,Peugeot,308 (France),2015,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Rolls-Royce,Dawn (UK),2015,ZF Friedrichshafen AG
+Japan,Subaru,BRZ,2015,Subaru
+ASEAN?India?Korea,Toyota,Hilux (Thailand),2015,Aisin (Formerly Aisin AW)
+Americas,Toyota,Lexus RX 350 (Canada),2015,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Volvo Cars,Volvo S60 D4 Polestar (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo S60 D4 R-Design (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo S60 D4 SE (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V40 Cross Country D4 (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V40 Cross Country D4 SE (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V40 Cross Country T5 AWD (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V40 D4 (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V40 D4 SE (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V40 T3 (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V60 D4 R-Design (Sweden),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V60 D4 SE (Sweden),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V60 T6 Polestar (Sweden),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 D4 (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 D4 R-Design (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 D4 SE (Belgium),2015,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC90 T6 (Sweden),2015,Aisin (Formerly Aisin AW)
+Europe,Audi,A3 (Germany),2014,Aisin (Formerly Aisin AW)
+Europe,Audi,A4 (Germany),2014,Dana Incorporated (Formerly Dana Holding Corporation)
+Europe,Audi,A4 (Germany),2014,ZF Friedrichshafen AG
+Europe,Audi,A6 Hybrid (Germany),2014,ZF Friedrichshafen AG
+Europe,Audi,A8 (Germany),2014,ZF Friedrichshafen AG
+Europe,Audi,TT (Hungary),2014,Aisin (Formerly Aisin AW)
+Europe,AvtoVAZ,Lada Granta (Russia),2014,JATCO Ltd.
+Europe,AvtoVAZ,Lada Granta Liftback (Russia),2014,JATCO Ltd.
+Europe,AvtoVAZ,Lada Kalina (Russia),2014,JATCO Ltd.
+China,BAIC Motor,Senova X65 (China),2014,"Aisin (China) Investment Co., Ltd."
+Europe,BMW,2 Series (Germany),2014,ZF Friedrichshafen AG
+Europe,BMW,2 Series Active Tourer (Germany),2014,ZF Friedrichshafen AG
+Europe,BMW,4 Series (Germany),2014,ZF Friedrichshafen AG
+Europe,BMW,520d (Germany),2014,ZF Friedrichshafen AG
+Europe,BMW,6 Series (Germany),2014,ZF Friedrichshafen AG
+Europe,BMW,i8 (Germany),2014,Dowlais Group plc
+Europe,BMW,M235i Racing (Germany),2014,ZF Friedrichshafen AG
+Americas,BMW,X4 (USA),2014,ZF Friedrichshafen AG
+China,BMW Brilliance,BMW 316i (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 320i (FR) (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 320Li (FR) (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 328i (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 328Li (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 520Li (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 525Li (FR) (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 530Li (FR) (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 535Li (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW X1 sDrive20i (China),2014,"ZF Transmissions Shanghai Co., Ltd."
+China,BYD,F3 (FF) (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+China,Changan,CS35 (FF) (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+China,Changan,CS75 (FF) (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+China,Changan,Eado (FF) (China),2014,"Aisin (China) Investment Co., Ltd."
+Americas,Chrysler,200 (USA),2014,ZF Friedrichshafen AG
+Americas,Chrysler,300 (Canada),2014,ZF Friedrichshafen AG
+Europe,Citroen,Grand C4 Picasso Seduction (Spain),2014,Aisin (Formerly Aisin AW)
+Japan,Daihatsu,Atrai Wagon,2014,Daihatsu
+Japan,Daihatsu,Be-go,2014,Daihatsu
+Japan,Daihatsu,Hijet Cargo,2014,Daihatsu
+Japan,Daihatsu,Hijet Truck,2014,Daihatsu
+Americas,Dodge,Durango (USA),2014,ZF Friedrichshafen AG
+China,Dongfeng Honda,Honda Ciimo (China),2014,"Honda Auto Parts Manufacturing Co., Ltd."
+China,Dongfeng Honda,Honda Ciimo (China),2014,"Honda Auto Parts Manufacturing Co., Ltd."
+China,Dongfeng Honda,Honda Elysion (FF) (China),2014,"Honda Auto Parts Manufacturing Co., Ltd."
+China,Dongfeng Honda,Honda Elysion (FF) (China),2014,"Honda Auto Parts Manufacturing Co., Ltd."
+China,Dongfeng Honda,Honda Jade (FF) (China),2014,"Honda Auto Parts Manufacturing Co., Ltd."
+China,Dongfeng Honda,Honda Jade (FF) (China),2014,"Honda Auto Parts Manufacturing Co., Ltd."
+China,Dongfeng Honda,Honda Spirior (FF) (China),2014,"Honda Auto Parts Manufacturing Co., Ltd."
+China,Dongfeng Honda,Honda Spirior (FF) (China),2014,"Honda Auto Parts Manufacturing Co., Ltd."
+China,Dongfeng Nissan,Venucia D50 (FF) (China),2014,JATCO (Guangzhou) Automatic Transmission Ltd.
+China,Dongfeng Nissan,Nissan March (China),2014,JATCO Ltd.
+China,FAW Haima,Haima 7 (China),2014,"Shengrui Transmission Co., Ltd."
+China,FAW Toyota,Toyota Crown (FR) (China),2014,"Tianjin Aisin Automatic Transmission Co., Ltd.¡]Formerly Tianjin AW Automatic Transmission Co., Ltd.¡^"
+China,FAW Toyota,Toyota Reiz (FR) (China),2014,"Tianjin Aisin Automatic Transmission Co., Ltd.¡]Formerly Tianjin AW Automatic Transmission Co., Ltd.¡^"
+China,FAW Toyota,Toyota Vios (FF) (China),2014,"Aisin (China) Investment Co., Ltd."
+Europe,Fiat,500X (Italy),2014,ZF Friedrichshafen AG
+Americas,Ford,Edge (Canada),2014,Metaldyne Performance Group Inc.
+Americas,Ford,F-150 (USA),2014,Metaldyne Performance Group Inc.
+China,GAC Motor,Trumpchi GS5 (FF) (China),2014,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+China,GAC Toyota,Toyota Yaris (China),2014,Aisin (Formerly Aisin AW)
+Americas,GM,GMC Canyon (USA),2014,Magna International Inc.
+Americas,GM,GMC Canyon (USA),2014,Magna International Inc.
+Americas,GM,GMC Canyon (USA),2014,Magna International Inc.
+Americas,GM,GMC Canyon (USA),2014,Magna International Inc.
+Americas,GM,GMC Canyon (USA),2014,Stackpole International
+Americas,GM,GMC Canyon (USA),2014,Stackpole International
+Americas,GM,Chevrolet Cruze (USA),2014,Aisin (Formerly Aisin AW)
+Americas,GM,Cadillac Escalade (USA),2014,Metaldyne Performance Group Inc.
+ASEAN?India?Korea,GM,Chevrolet Malibu Diesel (Korea),2014,"Aisin Korea Corporation (Formerly Aisin Korea Co., Ltd.)"
+ASEAN?India?Korea,GM,Chevrolet Spark (Korea),2014,Aisin (Formerly Aisin AW)
+Americas,GM,Cadillac SRX (Mexico),2014,"AISIN North Carolina Corporation (Formerly AW North Carolina, Inc.)"
+Americas,GM,Chevrolet Tahoe (USA),2014,Metaldyne Performance Group Inc.
+Americas,GM,GMC Yukon XL (USA),2014,Metaldyne Performance Group Inc.
+Americas,GM,GMC Yukon XL (USA),2014,Metaldyne Performance Group Inc.
+China,Great Wall,Haval H8 (FF) (China),2014,ZF Friedrichshafen AG
+Americas,Honda,Accord (USA),2014,In-house Production at Honda
+Americas,Honda,Accord Coupe (USA),2014,In-house Production at Honda
+Japan,Honda,Acty Truck,2014,In-house Production at Honda
+Japan,Honda,Acty Van,2014,In-house Production at Honda
+Japan,Honda,Vamos Hobio,2014,In-house Production at Honda
+Japan,Honda,Vamos Hobio,2014,In-house Production at Honda
+ASEAN?India?Korea,Hyundai,Accent (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Avante (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Avante (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Click (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Equus (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Equus (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Genesis Coupe (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Genesis Coupe (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Genesis Coupe (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Grandeur (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Hyundai,i10 (Turkiye),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Hyundai,i20 (Turkiye),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,i30 (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Tucson ix (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,Verna (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Hyundai,Verna (Korea),2014,"DL Motors Co., Ltd."
+Americas,Iveco,Daily (Brazil),2014,ZF Friedrichshafen AG
+China,JAC,J5 (FF) (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+China,JAC,J6 (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+Europe,Jaguar Land Rover,Land Rover Discovery Sport (UK),2014,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type (UK),2014,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Evoque (UK),2014,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Hybrid (UK),2014,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport Hybrid (UK),2014,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XE (UK),2014,ZF Friedrichshafen AG
+Americas,Jeep,Cherokee (USA),2014,Chrysler
+Americas,Jeep,Cherokee (USA),2014,ZF Friedrichshafen AG
+Americas,Jeep,Grand Cherokee (USA),2014,ZF Friedrichshafen AG
+China,Jonway,A380 (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+ASEAN?India?Korea,Kia,Carens (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Carens (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Carnival (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Carnival (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Carnival (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,cee'd (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Cerato (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Forte (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Forte (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Forte Koup (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Grand Carnival (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K3 (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K5 (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K7 (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,K9 (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Lotze (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Lotze (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Mohave (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Mohave (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Morning (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Opirus (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Opirus (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Pride (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Pride (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Pride (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Ray (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sedona (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sedona (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Sorento (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Sorento (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sorento R (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Sorento R (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Sorento R (Korea),2014,"DL Motors Co., Ltd."
+ASEAN?India?Korea,Kia,Sorento R (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Soul (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Soul (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sportage (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Kia,Sportage (Slovakia),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+ASEAN?India?Korea,Kia,Sportage R (Korea),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Kia,Venga (Slovakia),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Europe,Kia,Venga (Slovakia),2014,"Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)"
+Japan,Mazda,CX-9,2014,Aisin (Formerly Aisin AW)
+Japan,Nissan,Atlas F24,2014,JATCO Ltd.
+Japan,Nissan,Atlas F24,2014,JATCO Ltd.
+Japan,Nissan,Atlas F24,2014,JATCO Ltd.
+Japan,Nissan,Cima Hybrid,2014,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2014,JATCO Ltd.
+Japan,Nissan,Fuga,2014,JATCO Ltd.
+Japan,Nissan,Fuga Hybrid,2014,JATCO Ltd.
+Japan,Nissan,Infiniti Q50,2014,JATCO Ltd.
+Japan,Nissan,Infiniti QX70,2014,JATCO Ltd.
+Japan,Nissan,Skyline Hybrid,2014,JATCO Ltd.
+Americas,Ram Trucks,Ram 1500 (USA),2014,Chrysler
+Americas,Ram Trucks,Ram 1500 (USA),2014,ZF Friedrichshafen AG
+Americas,Ram Trucks,Ram 2500 (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 2500 (Mexico),2014,Chrysler
+Americas,Ram Trucks,Ram 3500 (Diesel) (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 3500 (Gasoline) (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 3500 (Mexico),2014,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Ram Trucks,Ram 3500 (Mexico),2014,Chrysler
+Americas,Ram Trucks,Ram 3500 (Mexico),2014,Chrysler
+Americas,Ram Trucks,Ram 3500 Chassis Cab (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 3500 Chassis Cab (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 3500 Pickup (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 4500 (Diesel) (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 4500 (Gasoline) (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 4500 (Mexico),2014,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Ram Trucks,Ram 4500 (Mexico),2014,Chrysler
+Americas,Ram Trucks,Ram 4500 Chassis Cab (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 5500 (Diesel) (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 5500 (Gasoline) (Mexico),2014,"Aisin Drivetrain, Inc."
+Americas,Ram Trucks,Ram 5500 (Mexico),2014,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Ram Trucks,Ram 5500 (Mexico),2014,Chrysler
+Americas,Ram Trucks,Ram 5500 Chassis Cab (Mexico),2014,"Aisin Drivetrain, Inc."
+Europe,Renault,Megane (Spain),2014,JATCO Ltd.
+Japan,Subaru,Dias Wagon,2014,Daihatsu
+Japan,Subaru,Sambar Truck,2014,Daihatsu
+Japan,Subaru,Sambar Van,2014,Daihatsu
+ASEAN?India?Korea,Suzuki,Ertiga (Indonesia),2014,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus GS460,2014,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460,2014,Aisin (Formerly Aisin AW)
+Japan,Toyota,Pixis Truck,2014,Daihatsu
+Japan,Toyota,Pixis Van,2014,Daihatsu
+Japan,Toyota,Rush,2014,Daihatsu
+Americas,Toyota,Lexus RX 350 F Sport (Canada),2014,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus RX350 F Sport,2014,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Golf (Germany),2014,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Touran (Germany),2014,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 (Belgium),2014,Aisin Europe S.A.
+China,Zhejiang Youngman Passenger Car,Lotus L3 (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+China,Zhejiang Youngman Passenger Car,Lotus L5 (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+China,Zhengzhou Nissan,Nissan Succe (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+China,Zhongxing,CP2 (China),2014,"Harbin Dongan Auto Engine Co., Ltd."
+Europe,Audi,A5 (Germany),2013,ZF Friedrichshafen AG
+Europe,Audi,A7 Sportback (Germany),2013,ZF Friedrichshafen AG
+Europe,Audi,Q5 hybrid quattro (Germany),2013,ZF Friedrichshafen AG
+Europe,AvtoVAZ,Lada Granta (Russia),2013,JATCO Ltd.
+Europe,AvtoVAZ,Lada Kalina (Russia),2013,JATCO Ltd.
+China,BAIC Motor,Beijing E Series NB (China),2013,"Aisin (China) Investment Co., Ltd."
+Europe,BMW,1 Series (Germany),2013,ZF Friedrichshafen AG
+Europe,BMW,5 Series (Germany),2013,ZF Friedrichshafen AG
+Europe,BMW,5 Series Gran Turismo (Germany),2013,ZF Friedrichshafen AG
+Europe,BMW,6 Series (Germany),2013,ZF Friedrichshafen AG
+Europe,BMW,7 Series (Germany),2013,ZF Friedrichshafen AG
+Europe,BMW,ActiveHybrid 7 (Germany),2013,ZF Friedrichshafen AG
+Americas,BMW,X3 (USA),2013,ZF Friedrichshafen AG
+Americas,BMW,X5 (USA),2013,ZF Friedrichshafen AG
+Americas,BMW,X6 (USA),2013,ZF Friedrichshafen AG
+Europe,BMW,Z4 (Germany),2013,ZF Friedrichshafen AG
+China,BMW Brilliance,BMW 3 Series (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW 5 Series (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+China,BMW Brilliance,BMW X1 (FF) (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+Americas,Chrysler,300 (Canada),2013,ZF Friedrichshafen AG
+Europe,Citroen,C5 (France),2013,JATCO France SAS
+Europe,Citroen,DS5 (France),2013,Aisin (Formerly Aisin AW)
+Americas,Dodge,Charger (Canada),2013,ZF Friedrichshafen AG
+Americas,Dodge,Dart (USA),2013,ZF Friedrichshafen AG
+China,Dongfeng Nissan,Nissan March (China),2013,JATCO Ltd.
+China,FAW-Volkswagen,Audi A4L (4WD) (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+China,FAW-Volkswagen,Audi A6 (4WD) (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+China,FAW-Volkswagen,Audi Q5 (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+Americas,Ford,Explorer (USA),2013,Huron Inc.
+Americas,Ford,Explorer (USA),2013,Keystone Powdered Metal Company
+Americas,Ford,Explorer (USA),2013,"MacLean-Fogg Component Solutions, LLC"
+Americas,Ford,Explorer (USA),2013,Metaldyne Performance Group Inc.
+China,GAC Motor,Trumpchi GA3 (FF) (China),2013,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+China,GAC Toyota,Toyota YARiS (China),2013,"Aisin (China) Investment Co., Ltd."
+Europe,GAZ,LiAZ-5292 (Russia),2013,ZF Friedrichshafen AG
+China,Geely,Emgrand EC8 (China),2013,"Hunan Jisheng International Power Transmission System Co., Ltd."
+China,Geely,Emgrand EC8 (China),2013,"Hunan Jisheng International Power Transmission System Co., Ltd."
+China,Geely,Emgrand EC8 (China),2013,"Shandong Disheng Transmission Co., Ltd."
+China,Geely,Gleagle GC7 (China),2013,"Hunan Jisheng International Power Transmission System Co., Ltd."
+China,Geely,Gleagle GX2 (China),2013,"Zhejiang Xuanfu Automatic Transmission Co., Ltd."
+China,Geely,Gleagle GX7 (China),2013,"Hunan Jisheng International Power Transmission System Co., Ltd."
+China,Geely,Panda (FF) (China),2013,"Zhejiang Xuanfu Automatic Transmission Co., Ltd."
+China,Geely,Englon SC7 (China),2013,"Hunan Jisheng International Power Transmission System Co., Ltd."
+China,Geely,Englon SC7 (China),2013,"Hunan Jisheng International Power Transmission System Co., Ltd."
+China,Geely,Gleagle Vision (China),2013,"Hunan Jisheng International Power Transmission System Co., Ltd."
+Americas,GM,Chevrolet Corvette (USA),2013,Metaldyne Performance Group Inc.
+Americas,GM,Chevrolet Impala (Canada),2013,BorgWarner Inc.
+Americas,GM,Chevrolet Impala (Canada),2013,Metaldyne Performance Group Inc.
+Americas,GM,Chevrolet Silverado (Mexico),2013,Pancon MIE (Formerly Sunstone Components Group)
+China,Great Wall,Haval H8 (FF) (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+China,Great Wall,Haval H9 (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+Europe,Jaguar Land Rover,Land Rover Discovery (UK),2013,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar F-Type Coupe (UK),2013,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover (UK),2013,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Evoque (UK),2013,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Hybrid (UK),2013,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport Hybrid (UK),2013,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XJ (UK),2013,ZF Friedrichshafen AG
+Americas,Jeep,Cherokee (USA),2013,ZF Friedrichshafen AG
+Americas,Jeep,Grand Cherokee (USA),2013,ZF Friedrichshafen AG
+China,Jiangling,Landwind X5 (FF) (China),2013,"Shengrui Transmission Co., Ltd."
+China,Jiangling Motors,JMC Yusheng S330 (FF) (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+ASEAN?India?Korea,Kia,Carens (Korea),2013,Hyundai Kefico Corporation
+Europe,Maserati,Quattroporte (Italy),2013,ZF Friedrichshafen AG
+Japan,Nissan,AD,2013,JATCO Ltd.
+Japan,Nissan,Cima Hybrid,2013,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2013,JATCO Ltd.
+Japan,Nissan,Fuga Hybrid,2013,JATCO Ltd.
+Japan,Nissan,Infiniti FX50,2013,JATCO Ltd.
+Japan,Nissan,Moco,2013,JATCO Ltd.
+Japan,Nissan,NV200 Vanette,2013,JATCO Ltd.
+Japan,Nissan,NV350 Caravan,2013,JATCO Ltd.
+Americas,Nissan,Pathfinder (USA),2013,JATCO Ltd.
+Japan,Nissan,Patrol,2013,JATCO Ltd.
+Japan,Nissan,Infiniti Q50,2013,JATCO Ltd.
+Japan,Nissan,Skyline,2013,JATCO Ltd.
+Japan,Nissan,Skyline,2013,JATCO Ltd.
+Japan,Nissan,Skyline Coupe,2013,JATCO Ltd.
+Japan,Nissan,Skyline Crossover,2013,JATCO Ltd.
+Japan,Nissan,Sylphy,2013,JATCO Ltd.
+Japan,Nissan,X-Trail,2013,JATCO Ltd.
+Europe,Peugeot,3008 (France),2013,JATCO France SAS
+Americas,Ram Trucks,Ram 1500 (USA),2013,ZF Friedrichshafen AG
+Americas,Ram Trucks,Ram 2500 (Mexico),2013,Chrysler
+Americas,Ram Trucks,Ram 3500 (Mexico),2013,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Americas,Ram Trucks,Ram 3500 (Mexico),2013,Chrysler
+ASEAN?India?Korea,Renault Samsung,SM5 (Korea),2013,JATCO Ltd.
+ASEAN?India?Korea,Renault Samsung,SM7 (Korea),2013,JATCO Ltd.
+Europe,Rolls-Royce,Wraith (UK),2013,ZF Friedrichshafen AG
+China,SAIC Passenger Vehicle,Roewe W5 (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+China,Shanghai Volkswagen,Volkswagen Passat B5 (China),2013,"ZF Transmissions Shanghai Co., Ltd."
+Japan,Suzuki,Alto,2013,JATCO Ltd.
+Japan,Suzuki,Wagon R Stingray,2013,JATCO Ltd.
+Japan,Toyota,Lexus RX,2013,Aisin (Formerly Aisin AW)
+Americas,Toyota,Lexus RX 350 F Sport (Canada),2013,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Phaeton (Germany),2013,ZF Friedrichshafen AG
+Europe,Alpina,B5 (Germany),2012,ZF Friedrichshafen AG
+Europe,Alpina,B6 (Germany),2012,ZF Friedrichshafen AG
+Europe,Alpina,D5 (Germany),2012,ZF Friedrichshafen AG
+Europe,Audi,A4 (Germany),2012,ZF Friedrichshafen AG
+Europe,Audi,A6 (Germany),2012,ZF Friedrichshafen AG
+Europe,Audi,A7 Sportback (Germany),2012,ZF Friedrichshafen AG
+Europe,Audi,A8 (Germany),2012,ZF Friedrichshafen AG
+Europe,Audi,Q5 (Germany),2012,ZF Friedrichshafen AG
+Europe,AvtoVAZ,Lada Granta (Russia),2012,JATCO Ltd.
+China,BAIC Motor,Beijing E Series (China),2012,"Aisin (China) Investment Co., Ltd."
+China,Beijing Hyundai,Hyundai ix35 (FF) (China),2012,Beijing Hyundai
+Europe,Bentley,Continental GT (UK),2012,ZF Friedrichshafen AG
+Europe,Bentley,Mulsanne (UK),2012,ZF Friedrichshafen AG
+Europe,BMW,1 Series (Germany),2012,ZF Friedrichshafen AG
+Europe,BMW,3 Series (Germany),2012,ZF Friedrichshafen AG
+Europe,BMW,5 Series (Germany),2012,ZF Friedrichshafen AG
+Europe,BMW,5 Series Gran Turismo (Germany),2012,ZF Friedrichshafen AG
+Europe,BMW,6 Series (Germany),2012,ZF Friedrichshafen AG
+Europe,BMW,7 Series (Germany),2012,ZF Friedrichshafen AG
+Europe,BMW,X1 (Germany),2012,ZF Friedrichshafen AG
+Americas,BMW,X3 (USA),2012,ZF Friedrichshafen AG
+Americas,BMW,X5 (USA),2012,ZF Friedrichshafen AG
+Americas,BMW,X6 (USA),2012,ZF Friedrichshafen AG
+Europe,BMW,Z4 (Germany),2012,ZF Friedrichshafen AG
+Americas,Chrysler,300 (Canada),2012,ZF Friedrichshafen AG
+Europe,Citroen,DS DS5 Hybrid (France),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Americas,Dodge,Charger (Canada),2012,ZF Friedrichshafen AG
+China,Dongfeng Nissan,Nissan March (China),2012,JATCO Ltd.
+Americas,Ford,Escape (USA),2012,Stant Corporation
+Americas,Ford,Fusion (Mexico),2012,Federal-Mogul Holdings LLC
+Americas,Ford,Fusion (Mexico),2012,"Metaldyne Powertrain Components, Inc. - Twinsburg"
+Americas,Ford,Lincoln MKZ (Mexico),2012,"MacLean-Fogg Component Solutions, LLC"
+Americas,Ford,Lincoln MKZ (Mexico),2012,Metaldyne Performance Group Inc.
+Americas,GM,Chevrolet Equinox (Canada),2012,BorgWarner Inc.
+Americas,GM,Chevrolet Equinox (Canada),2012,Metaldyne Performance Group Inc.
+Americas,GM,Chevrolet Trax (Mexico),2012,BorgWarner Inc.
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2012,Valeo Group
+Europe,Jaguar Land Rover,Land Rover Discovery (UK),2012,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Freelander 2 (UK),2012,Aisin (Formerly Aisin AW)
+Europe,Jaguar Land Rover,Land Rover Range Rover (UK),2012,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Land Rover Range Rover Sport (UK),2012,ZF Friedrichshafen AG
+Europe,Jaguar Land Rover,Jaguar XF (UK),2012,ZF Friedrichshafen AG
+Americas,Lancia,Thema (Canada),2012,ZF Friedrichshafen AG
+Japan,Nissan,Cima Hybrid,2012,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2012,JATCO Ltd.
+Japan,Nissan,Fuga,2012,JATCO Ltd.
+Japan,Nissan,Fuga Hybrid,2012,JATCO Ltd.
+Japan,Nissan,NV200 Vanette,2012,JATCO Ltd.
+Japan,Nissan,NV350 Caravan,2012,JATCO Ltd.
+Japan,Nissan,Skyline,2012,JATCO Ltd.
+Japan,Nissan,Skyline Coupe,2012,JATCO Ltd.
+Japan,Nissan,Skyline Crossover,2012,JATCO Ltd.
+Japan,Nissan,X-Trail,2012,JATCO Ltd.
+Europe,Opel,Insignia (Germany),2012,Aisin (Formerly Aisin AW)
+Europe,Peugeot,3008 HYbrid4 (France),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Peugeot,508 (France),2012,Aisin (Formerly Aisin AW)
+Americas,Ram Trucks,Ram 1500 (USA),2012,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Ghost (UK),2012,ZF Friedrichshafen AG
+Europe,Rolls-Royce,Phantom (UK),2012,ZF Friedrichshafen AG
+Europe,Saab,9-5 (Sweden),2012,Aisin (Formerly Aisin AW)
+China,SAIC Passenger Vehicle,Roewe W5 (China),2012,ZF Group (China)
+China,Shanghai Volkswagen,Skoda Superb (China),2012,"Aisin (China) Investment Co., Ltd."
+Japan,Toyota,Alphard,2012,"Aisin Keikinzoku Co., Ltd."
+Japan,Toyota,Corolla,2012,"Aisin Keikinzoku Co., Ltd."
+Japan,Toyota,Crown,2012,"Aisin Keikinzoku Co., Ltd."
+Japan,Toyota,Crown Majesta,2012,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus GS460,2012,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS F,2012,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460,2012,Aisin (Formerly Aisin AW)
+Japan,Toyota,Noah,2012,"Aisin Keikinzoku Co., Ltd."
+Japan,Toyota,RAV4,2012,"Aisin Keikinzoku Co., Ltd."
+Japan,Toyota,Voxy,2012,"Aisin Keikinzoku Co., Ltd."
+Europe,Volkswagen,Amarok (Germany),2012,ZF Friedrichshafen AG
+Europe,Volvo Cars,Volvo C30 (Belgium),2012,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo C70 (Sweden),2012,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo S40 (Belgium),2012,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo S80 (Sweden),2012,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V50 (Belgium),2012,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V60 (Sweden),2012,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo V70 (Sweden),2012,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC60 (Belgium),2012,Aisin (Formerly Aisin AW)
+Europe,Volvo Cars,Volvo XC70 (Sweden),2012,Aisin (Formerly Aisin AW)
+Europe,BMW,1 Series (Germany),2011,ZF Friedrichshafen AG
+Europe,BMW,5 Series (Germany),2011,ZF Friedrichshafen AG
+Europe,BMW,6 Series (Germany),2011,ZF Friedrichshafen AG
+Europe,BMW,6 Series Cabriolet (Germany),2011,ZF Friedrichshafen AG
+Europe,BMW,7 Series (Germany),2011,ZF Friedrichshafen AG
+Europe,BMW,X1 (Germany),2011,ZF Friedrichshafen AG
+Americas,BMW,X3 (USA),2011,ZF Friedrichshafen AG
+Americas,BMW,X5 (USA),2011,ZF Friedrichshafen AG
+Americas,BMW,X6 (USA),2011,ZF Friedrichshafen AG
+Europe,BMW,Z4 (Germany),2011,ZF Friedrichshafen AG
+Europe,Citroen,DS DS4 (France),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Daihatsu,Atrai Wagon,2011,Daihatsu
+Japan,Daihatsu,Be-go,2011,Daihatsu
+Japan,Daihatsu,Boon Luminas,2011,Daihatsu
+Japan,Daihatsu,Coo,2011,Daihatsu
+Japan,Daihatsu,Coo,2011,Daihatsu
+Japan,Daihatsu,Copen,2011,Daihatsu
+Japan,Daihatsu,Esse,2011,Daihatsu
+Japan,Daihatsu,Hijet Cargo,2011,Daihatsu
+Japan,Daihatsu,Hijet Truck,2011,Daihatsu
+Japan,Daihatsu,Mira Van,2011,Daihatsu
+Japan,Daihatsu,Terios Kid,2011,Daihatsu
+Americas,GM,Chevrolet Malibu (USA),2011,Metaldyne Performance Group Inc.
+Japan,Honda,Acty Truck,2011,Honda
+Japan,Honda,Acty Van,2011,Honda
+Japan,Honda,Acty Van,2011,Honda
+Japan,Honda,Elysion,2011,Honda
+Japan,Honda,Elysion,2011,Honda
+Japan,Honda,Freed,2011,Honda
+Japan,Honda,Inspire,2011,Honda
+Japan,Honda,Legend,2011,Honda
+Japan,Honda,Life,2011,Honda
+Japan,Honda,Odyssey,2011,Honda
+Japan,Honda,Step WGN,2011,Honda
+Japan,Honda,Stream,2011,Honda
+Japan,Honda,Stream,2011,Honda
+Japan,Honda,Vamos,2011,Honda
+Japan,Honda,Vamos,2011,Honda
+Japan,Honda,Vamos Hobio,2011,Honda
+Japan,Honda,Vamos Hobio,2011,Honda
+Japan,Honda,Zest,2011,Honda
+Europe,Jaguar Land Rover,Land Rover Range Rover Evoque (UK),2011,Georg Fischer AG
+Japan,Mazda,Atenza,2011,Aisin (Formerly Aisin AW)
+Japan,Mazda,Atenza,2011,Mazda
+Japan,Mazda,Atenza,2011,Mazda
+Japan,Mazda,Atenza Sport,2011,Aisin (Formerly Aisin AW)
+Japan,Mazda,Atenza Sport,2011,Mazda
+Japan,Mazda,Atenza Sport Wagon,2011,Aisin (Formerly Aisin AW)
+Japan,Mazda,Atenza Sport Wagon,2011,Mazda
+Japan,Mazda,Atenza Sport Wagon,2011,Mazda
+Japan,Mazda,Biante,2011,Mazda
+Japan,Mazda,Biante,2011,Mazda
+Japan,Mazda,Biante,2011,Mazda
+Japan,Mazda,Bongo Truck,2011,JATCO Ltd.
+Japan,Mazda,Bongo Van,2011,JATCO Ltd.
+Japan,Mazda,CX-7,2011,Aisin (Formerly Aisin AW)
+Japan,Mazda,CX-9,2011,Aisin (Formerly Aisin AW)
+Japan,Mazda,Demio,2011,Mazda
+Japan,Mazda,MPV,2011,Aisin (Formerly Aisin AW)
+Japan,Mazda,MPV,2011,Mazda
+Japan,Mazda,Premacy,2011,Mazda
+Japan,Mazda,Premacy,2011,Mazda
+Japan,Mazda,Roadster,2011,Aisin (Formerly Aisin AW)
+Japan,Mazda,RX-8,2011,Aisin (Formerly Aisin AW)
+Japan,Mitsubishi,Delica Truck,2011,JATCO Ltd.
+Japan,Mitsubishi,Delica Van,2011,JATCO Ltd.
+Japan,Mitsubishi,eK Sport,2011,JATCO Ltd.
+Japan,Mitsubishi,eK Wagon,2011,JATCO Ltd.
+Japan,Mitsubishi,i,2011,JATCO Ltd.
+Japan,Mitsubishi,Minica Van,2011,JATCO Ltd.
+Japan,Mitsubishi,Minicab Truck,2011,JATCO Ltd.
+Japan,Mitsubishi,Minicab Van,2011,JATCO Ltd.
+Japan,Mitsubishi,Pajero,2011,JATCO Ltd.
+Japan,Mitsubishi,Pajero,2011,JATCO Ltd.
+Japan,Mitsubishi,Pajero,2011,JATCO Ltd.
+Japan,Mitsubishi,Toppo,2011,JATCO Ltd.
+Japan,Mitsubishi,Town Box,2011,JATCO Ltd.
+Japan,Nissan,AD,2011,JATCO Ltd.
+Japan,Nissan,AD,2011,JATCO Ltd.
+Japan,Nissan,AD,2011,JATCO Ltd.
+Japan,Nissan,AD Expert,2011,JATCO Ltd.
+Japan,Nissan,AD Expert,2011,JATCO Ltd.
+Japan,Nissan,AD Expert,2011,JATCO Ltd.
+Japan,Nissan,Atlas F24,2011,JATCO Ltd.
+Japan,Nissan,Bluebird Sylphy,2011,JATCO Ltd.
+Japan,Nissan,Caravan,2011,JATCO Ltd.
+Japan,Nissan,Caravan,2011,JATCO Ltd.
+Japan,Nissan,Caravan,2011,JATCO Ltd.
+Japan,Nissan,Cedric,2011,JATCO Ltd.
+Japan,Nissan,Civilian,2011,JATCO Ltd.
+Japan,Nissan,Civilian,2011,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2011,JATCO Ltd.
+Japan,Nissan,Fuga,2011,JATCO Ltd.
+Japan,Nissan,Fuga,2011,JATCO Ltd.
+Japan,Nissan,Fuga Hybrid,2011,JATCO Ltd.
+Japan,Nissan,Infiniti FX,2011,JATCO Ltd.
+Japan,Nissan,Infiniti FX,2011,JATCO Ltd.
+Japan,Nissan,Note,2011,JATCO Ltd.
+Japan,Nissan,NV200 Vanette,2011,JATCO Ltd.
+Japan,Nissan,Patrol,2011,JATCO Ltd.
+Japan,Nissan,Skyline,2011,JATCO Ltd.
+Japan,Nissan,Skyline,2011,JATCO Ltd.
+Japan,Nissan,Skyline,2011,JATCO Ltd.
+Japan,Nissan,Skyline Coupe,2011,JATCO Ltd.
+Japan,Nissan,Skyline Crossover,2011,JATCO Ltd.
+Japan,Nissan,Tiida,2011,JATCO Ltd.
+Japan,Nissan,Tiida Latio,2011,JATCO Ltd.
+Japan,Nissan,Wingroad,2011,JATCO Ltd.
+Japan,Nissan,X-Trail,2011,JATCO Ltd.
+Europe,Peugeot,508 (France),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Subaru,Exiga,2011,Subaru
+Japan,Subaru,Forester,2011,Subaru
+Japan,Subaru,Forester,2011,Subaru
+Japan,Subaru,Forester,2011,Subaru
+Japan,Subaru,Impreza,2011,Subaru
+Japan,Subaru,Impreza,2011,Subaru
+Japan,Subaru,Legacy B4,2011,Subaru
+Japan,Subaru,Legacy Outback,2011,Subaru
+Japan,Subaru,Legacy Touring Wagon,2011,Subaru
+Japan,Subaru,Sambar Truck,2011,Subaru
+Japan,Subaru,Sambar Van,2011,Subaru
+Japan,Suzuki,Alto,2011,JATCO Ltd.
+Japan,Suzuki,Carry,2011,Suzuki
+Japan,Suzuki,Escudo,2011,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Every,2011,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Every,2011,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Every Wagon,2011,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Jimny,2011,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Jimny Sierra,2011,Aisin (Formerly Aisin AW)
+Japan,Suzuki,SX4,2011,Aisin (Formerly Aisin AW)
+Japan,Suzuki,Wagon R,2011,JATCO Ltd.
+Japan,Toyota,4Runner,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,4Runner,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Alphard,2011,Toyota
+Japan,Toyota,bB,2011,Daihatsu
+Japan,Toyota,bB,2011,Daihatsu
+Japan,Toyota,Belta,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Blade,2011,Toyota
+Japan,Toyota,Camry,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Camry,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Century,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Coaster,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Crown,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown Athlete,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown Athlete,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown Majesta,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown Majesta,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown RoyalSaloon,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Crown RoyalSaloon,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Dyna,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Dyna,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Dyna,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus ES,2011,Toyota
+Japan,Toyota,Estima,2011,Toyota
+Japan,Toyota,FJ Cruiser,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus GS,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus GS,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus GX,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Harrier,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Hiace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Hiace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Hiace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus IS,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS F,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser Prado,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Land Cruiser Prado,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LX,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Mark X,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Mark X,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Mark X Zio,2011,Toyota
+Japan,Toyota,Passo Sette,2011,Daihatsu
+Japan,Toyota,Porte,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Porte,2011,Toyota
+Japan,Toyota,Probox Van,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Probox Van,2011,Toyota
+Japan,Toyota,Probox Wagon,2011,Toyota
+Japan,Toyota,Raum,2011,Toyota
+Japan,Toyota,Regius Ace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Regius Ace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Regius Ace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Rush,2011,Daihatsu
+Japan,Toyota,Lexus RX,2011,Toyota
+Japan,Toyota,Succeed Van,2011,Toyota
+Japan,Toyota,Succeed Wagon,2011,Toyota
+Japan,Toyota,Toyoace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Toyoace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Toyoace,2011,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Vanguard,2011,Aisin (Formerly Aisin AW)
+Japan,Toyota,Vellfire,2011,Toyota
+Japan,Toyota,Scion xB,2011,Toyota
+Europe,Volkswagen,Amarok (Germany),2011,Georg Fischer AG
+Europe,Audi,Q7 (Slovakia),2010,Aisin (Formerly Aisin AW)
+Americas,Dodge,Charger (Canada),2010,Stant Corporation
+Americas,Ford,Explorer (USA),2010,Metaldyne Performance Group Inc.
+Americas,Ford,Fusion (Mexico),2010,Stant Corporation
+Europe,Porsche,Cayenne (Germany),2010,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Touareg (Slovakia),2010,Aisin (Formerly Aisin AW)
+Japan,Hino,Dutro,2009 TMS,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Isuzu,Elf,2009 TMS,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Mitsubishi,Outlander,2009 TMS,JATCO Ltd.
+Japan,Mitsubishi Fuso,Canter,2009 TMS,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Mitsubishi Fuso,Rosa,2009 TMS,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Nissan,Fairlady Z,2009 TMS,JATCO Ltd.
+Japan,Nissan,Infiniti FX50,2009 TMS,JATCO Ltd.
+Europe,Nissan,Qashqai (UK),2009 TMS,JATCO Ltd.
+Japan,Nissan,Skyline,2009 TMS,JATCO Ltd.
+Japan,Nissan,Skyline Coupe,2009 TMS,JATCO Ltd.
+Japan,Nissan,Skyline Crossover,2009 TMS,JATCO Ltd.
+Americas,Ram Trucks,Ram 1500 (USA),2009 TMS,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Europe,Renault,Laguna (France),2009 TMS,JATCO Ltd.
+Europe,Renault,Scenic (France),2009 TMS,JATCO Ltd.
+Japan,Toyota,Camry,2009 TMS,Aisin (Formerly Aisin AW)
+Japan,Toyota,Coaster,2009 TMS,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,Lexus GS460,2009 TMS,Aisin (Formerly Aisin AW)
+Japan,Toyota,Highlander,2009 TMS,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS F,2009 TMS,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460,2009 TMS,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460L,2009 TMS,Aisin (Formerly Aisin AW)
+Japan,Mitsubishi,Toppo,2009,JATCO Ltd.
+Japan,Mitsubishi,Toppo,2009,JATCO Ltd.
+Japan,Nissan,Fairlady Z,2009,JATCO Ltd.
+Japan,Nissan,Kix,2009,JATCO Ltd.
+Japan,Suzuki,Alto Lapin,2009,JATCO Ltd.
+Japan,Suzuki,Wagon R,2009,JATCO Ltd.
+Japan,Suzuki,Wagon R Stingray,2009,JATCO Ltd.
+Japan,Toyota,Crown Majesta,2009,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460,2009,Aisin (Formerly Aisin AW)
+Europe,Audi,A3 (Germany),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,BMW,MINI Cooper (UK),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,BMW,MINI Cooper Clubman (UK),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,BMW,MINI Cooper D (UK),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,BMW,MINI Cooper D Clubman (UK),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,BMW,MINI Cooper S (UK),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,BMW,MINI Cooper S Clubman (UK),2008 SAE,Aisin (Formerly Aisin AW)
+China,FAW-Volkswagen,Volkswagen Sagitar (FF) (China),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,SEAT,Altea (Spain),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,SEAT,Leon (Spain),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,SEAT,Toledo (Spain),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Skoda,Octavia (Czech Republic),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Skoda,Roomster (Czech Republic),2008 SAE,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus GS460,2008 SAE,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus IS F,2008 SAE,Aisin (Formerly Aisin AW)
+Japan,Toyota,Lexus LS460,2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Golf (Germany),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Golf (South Africa),2008 SAE,Aisin (Formerly Aisin AW)
+Americas,Volkswagen,Jetta (Mexico),2008 SAE,Aisin (Formerly Aisin AW)
+Americas,Volkswagen,New Beetle Cabriolet (Mexico),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Passat (Germany),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Polo (South Africa),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Polo (Spain),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Volkswagen,Tiguan (Germany),2008 SAE,Aisin (Formerly Aisin AW)
+Europe,Alfa Romeo,MiTo (Italy),2008,Valeo Group
+China,FAW-Volkswagen,Volkswagen Magotan (China),2008,Aisin (Formerly Aisin AW)
+Europe,Jaguar Land Rover,Jaguar X-Type (UK),2008,Aisin (Formerly Aisin AW)
+Europe,Renault,Laguna (France),2008,JATCO Ltd.
+Japan,Suzuki,Palette,2008,JATCO Ltd.

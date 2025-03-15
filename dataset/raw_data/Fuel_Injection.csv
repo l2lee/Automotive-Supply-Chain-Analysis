@@ -1,0 +1,1220 @@
+Region,Maker,Model,Model year,Supplier
+Americas,Ford,Explorer (USA),2025,Robert Bosch LLC - Charleston
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra XUV700 (India),2025,Bosch Ltd.
+Europe,Skoda,Kodiaq (Czech Republic),2025,Hirschvogel Group (Hirschvogel Holding GmbH)
+China,Changan,UNI-Z iDD (FF) (China),2024,"Phinia Delphi Automotive Systems (Shanghai) Co., Ltd. (Formerly BorgWarner Shanghai Automotive Fuel Systems Co., Ltd.)"
+Americas,Citroen,Basalt (Brazil),2024,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+China,Deepal,G318 (4WD) (China),2024,"Phinia Delphi Automotive Systems (Shanghai) Co., Ltd. (Formerly BorgWarner Shanghai Automotive Fuel Systems Co., Ltd.)"
+China,Deepal,G318 (RR) (China),2024,"Phinia Delphi Automotive Systems (Shanghai) Co., Ltd. (Formerly BorgWarner Shanghai Automotive Fuel Systems Co., Ltd.)"
+Americas,Ford,Escape (USA),2024,Robert Bosch LLC - Charleston
+Americas,Ford,Explorer (USA),2024,Robert Bosch LLC - Charleston
+Americas,Ford,Mustang (USA),2024,Robert Bosch LLC - Charleston
+ASEAN?India?Korea,Hyundai,Creta (India),2024,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Exter (India),2024,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Grand i10 Nios (India),2024,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Venue (India),2024,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Venue (Korea),2024,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Verna (India),2024,Hyundai Kefico Corporation
+Americas,Kia,K3 Sedan (Mexico),2024,"Hyundai Kefico M?xico, S. de R.L. de C.V."
+ASEAN?India?Korea,Mahindra & Mahindra,Mahindra XUV700 (India),2024,Bosch Ltd.
+Japan,Mazda,Mazda3 Fastback Hybrid,2024,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Mercedes-Benz,CLE 300 4MATIC Coupe (Germany),2024,Bosch (Robert Bosch GmbH)
+Japan,Mitsubishi,Eclipse Cross,2024,Denso Corporation
+ASEAN?India?Korea,Nissan,Magnite (India),2024,Bosch (Robert Bosch GmbH)
+Europe,Skoda,Kodiaq (Czech Republic),2024,Hirschvogel Group (Hirschvogel Holding GmbH)
+Japan,Subaru,BRZ,2024,Denso Corporation
+Japan,Subaru,Forester SPORT,2024,Denso Corporation
+Japan,Subaru,Legacy Outback,2024,Denso Corporation
+Japan,Subaru,Levorg,2024,Denso Corporation
+Japan,Subaru,Levorg Layback,2024,Denso Corporation
+Americas,Toyota,Camry (USA),2024,"Denso International America, Inc."
+Japan,Toyota,GR Corolla,2024,Denso Corporation
+Japan,Toyota,GR Yaris,2024,Denso Corporation
+Japan,Toyota,GR86,2024,Denso Corporation
+Japan,Toyota,Prius,2024,Denso Corporation
+Europe,DS Automobiles,DS DS 7 E-Tense (France),2023,Bosch (Robert Bosch GmbH)
+Americas,Ford,Lincoln Corsair (USA),2023,Robert Bosch LLC - Charleston
+Americas,Ford,Escape (USA),2023,Robert Bosch LLC - Charleston
+Americas,Ford,Mustang (USA),2023,Robert Bosch LLC - Charleston
+ASEAN?India?Korea,Hyundai,Kona (Korea),2023,Hyundai Kefico Corporation
+ASEAN?India?Korea,Kia,Carnival (Korea),2023,Hyundai Kefico Corporation
+Americas,Kia,K5 (USA),2023,"Hyundai Kefico M?xico, S. de R.L. de C.V."
+Japan,Mazda,CX-30,2023,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Mazda,Mazda3 Fastback Hybrid,2023,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Mitsubishi,Eclipse Cross,2023,Denso Corporation
+Americas,Nissan,Kicks (Mexico),2023,"Denso International America, Inc."
+Americas,Subaru,Ascent (USA),2023,Bosch (Robert Bosch LLC)
+Japan,Subaru,BRZ,2023,Denso Corporation
+Japan,Subaru,Forester SPORT,2023,Denso Corporation
+Japan,Subaru,Legacy Outback,2023,Denso Corporation
+Japan,Subaru,Levorg,2023,Denso Corporation
+Americas,Toyota,Camry (USA),2023,"Denso International America, Inc."
+Japan,Toyota,Corolla Hatchback,2023,Denso Corporation
+Japan,Toyota,GR Corolla,2023,Denso Corporation
+Japan,Toyota,GR Yaris,2023,Denso Corporation
+Japan,Toyota,GR86,2023,Denso Corporation
+Americas,BMW,X3 (USA),2022,Hirschvogel Komponenten GmbH
+China,Changan,UNI-T (FF) (China),2022,"Bosch Automotive Products (Suzhou) Co., Ltd."
+China,Changan,UNI-T (FF) (China),2022,"Bosch Automotive Products (Suzhou) Co., Ltd."
+China,Changan Ford,Lincoln Corsair (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Changan Ford,Ford EVOS (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Jetour X90 PLUS (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,DFSK,Dongfeng Fengon 580 (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,DFSK,Dongfeng Fengon 580 (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,FAW,Hongqi H5 (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,FAW,Hongqi HS5 (4WD) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,FAW,Hongqi HS5 (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,GAC Motor,Trumpchi GS4 (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,GAC Motor,Trumpchi GS4 (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,GAC Motor,Trumpchi GS4 (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,LYNK & CO 02 Plus (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,LYNK & CO 02 Pro (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,LYNK & CO 03 Plus (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,LYNK & CO 03 Pro (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Boyue X (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Haoyue (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Haoyue (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,JiaJi (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,POER (4WD) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+Americas,Hyundai,Accent (Mexico),2022,Hyundai Kefico Corporation
+Americas,Hyundai,Elantra (USA),2022,"Hyundai Kefico M?xico, S. de R.L. de C.V."
+Americas,Hyundai,Santa Cruz (USA),2022,"Hyundai Kefico M?xico, S. de R.L. de C.V."
+Americas,Hyundai,Sonata (USA),2022,"Hyundai Kefico M?xico, S. de R.L. de C.V."
+ASEAN?India?Korea,Kia,Carnival (Korea),2022,Hyundai Kefico Corporation
+ASEAN?India?Korea,Kia,K3 (Korea),2022,Hyundai Kefico Corporation
+Americas,Kia,Rio (Mexico),2022,"Hyundai Kefico M?xico, S. de R.L. de C.V."
+Japan,Mazda,CX-30,2022,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Mazda,Mazda3 Fastback Hybrid,2022,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Mitsubishi,Delica D:2 Hybrid,2022,Denso Corporation
+Japan,Mitsubishi,Eclipse Cross,2022,Denso Corporation
+China,SAIC GM,Chevrolet Malibu XL (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun RS-3 SOODA (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun RS-3 SOODA (FF) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Maxus,Maxus G10 (FR) (China),2022,"United Automotive Electronic Systems Co., Ltd."
+Japan,Subaru,BRZ,2022,Denso Corporation
+Japan,Subaru,Forester SPORT,2022,Denso Corporation
+Japan,Subaru,Legacy Outback,2022,Denso Corporation
+Japan,Subaru,Levorg,2022,Denso Corporation
+Japan,Suzuki,Solio,2022,Denso Corporation
+Japan,Suzuki,Solio Hybrid,2022,Denso Corporation
+Japan,Toyota,Alphard,2022,OTICS Corporation
+Japan,Toyota,Alphard,2022,OTICS Corporation
+Japan,Toyota,Alphard Hybrid,2022,OTICS Corporation
+Japan,Toyota,C-HR,2022,OTICS Corporation
+ASEAN?India?Korea,Toyota,C-HR (Thailand),2022,"OTICS (Thailand) Co., Ltd."
+Americas,Toyota,Camry (USA),2022,"Denso International America, Inc."
+Japan,Toyota,Corolla,2022,OTICS Corporation
+ASEAN?India?Korea,Toyota,Corolla Altis (Thailand),2022,"OTICS (Thailand) Co., Ltd."
+Japan,Toyota,Corolla Sport,2022,OTICS Corporation
+Japan,Toyota,Corolla Touring,2022,OTICS Corporation
+Japan,Toyota,Crown,2022,OTICS Corporation
+Japan,Toyota,Crown Hybrid,2022,OTICS Corporation
+Japan,Toyota,GR Corolla,2022,Denso Corporation
+Japan,Toyota,GR Corolla,2022,OTICS Corporation
+Japan,Toyota,GR Yaris,2022,Denso Corporation
+Japan,Toyota,GR Yaris,2022,OTICS Corporation
+Japan,Toyota,GR86,2022,Denso Corporation
+Japan,Toyota,Lexus GX460,2022,OTICS Corporation
+Japan,Toyota,Lexus IS300,2022,OTICS Corporation
+Japan,Toyota,Lexus IS300h,2022,OTICS Corporation
+Japan,Toyota,Lexus IS350,2022,OTICS Corporation
+Japan,Toyota,Land Cruiser,2022,OTICS Corporation
+Japan,Toyota,Lexus LC500h,2022,OTICS Corporation
+Japan,Toyota,Lexus LM300h,2022,OTICS Corporation
+Japan,Toyota,Lexus LM350,2022,OTICS Corporation
+Japan,Toyota,Lexus LS500,2022,OTICS Corporation
+Japan,Toyota,Lexus LS500h,2022,OTICS Corporation
+Japan,Toyota,Lexus LX600,2022,OTICS Corporation
+Japan,Toyota,Lexus NX350,2022,OTICS Corporation
+Japan,Toyota,Lexus RC300,2022,OTICS Corporation
+Japan,Toyota,Lexus RC300h,2022,OTICS Corporation
+Japan,Toyota,Lexus RC350,2022,OTICS Corporation
+Japan,Toyota,Lexus RX350,2022,OTICS Corporation
+Japan,Toyota,Lexus RX450h,2022,Denso Corporation
+Japan,Toyota,Lexus RX450hL,2022,Denso Corporation
+Japan,Toyota,Lexus RX500h,2022,OTICS Corporation
+Americas,Toyota,Tacoma (Mexico),2022,Denso Corporation
+Japan,Toyota,Vellfire,2022,OTICS Corporation
+Japan,Toyota,Vellfire Hybrid,2022,OTICS Corporation
+Americas,Volkswagen,Atlas (USA),2022,Marelli Europe S.p.A - Modugno
+Americas,Volkswagen,Atlas Cross Sport (USA),2022,Marelli Europe S.p.A - Modugno
+Europe,Audi,A3 Sportback (Germany),2021,Benteler Group (Benteler Automobiltechnik GmbH)
+Europe,Audi,A3 Sportback (Germany),2021,Continental AG
+Europe,Audi,Q2 (Germany),2021,Robert Bosch odbytova s.r.o.
+China,BAIC Motor,Beijing X3 (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Beiqi Foton,Foton Grand General (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Qin Plus DM-i (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Seal U (Song Plus) (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Seal U (Song Plus) DM-i (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song Classic Edition (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song Classic Edition (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song MAX (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song MAX (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song MAX DM (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song Pro (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song Pro (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song Pro (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song Pro DM (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song Pro DM-i (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Tang (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Tang DM (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,CS55 PLUS (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,UNI-T (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,UNI-T (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,Oshan X5 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,Oshan X5 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Changan Ford,Ford Escort (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Changan Ford,Ford EVOS (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Arrizo 5 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Arrizo 5 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Arrizo GX (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Exeed Lanyue (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3x (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3x (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3x (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3x (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3x (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3x Plus (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3x Plus (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 5x (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 5x (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 5x (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 5X Hero (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 7 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 7 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 7 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 7 Fly (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 Plus (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 Plus (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 8 Plus (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Exeed TX (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+Americas,Chrysler,300 (Canada),2021,Bosch (Robert Bosch LLC)
+Americas,Chrysler,300 (Canada),2021,Bosch (Robert Bosch LLC)
+Japan,Daihatsu,Mira e:S,2021,Denso Corporation
+Europe,Daimler,Mercedes-Benz CLA (Hungary),2021,Hirschvogel Group (Hirschvogel Holding GmbH)
+China,DFSK,Dongfeng Fengon ix7 (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+Americas,Dodge,Challenger (Canada),2021,Bosch (Robert Bosch LLC)
+Americas,Dodge,Challenger (Canada),2021,Bosch (Robert Bosch LLC)
+Americas,Dodge,Charger (Canada),2021,Bosch (Robert Bosch LLC)
+Americas,Dodge,Charger (Canada),2021,Bosch (Robert Bosch LLC)
+China,Dongfeng Liuzhou Motor,Dongfeng Forthing T5 EVO (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Dongfeng Peugeot Citroen,Citroen C5 Aircross (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW,Hongqi H5 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW,Hongqi H5 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW,Hongqi H7 (FR) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW,Hongqi H7 (FR) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Bestune,Bestune B70 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Bestune,Bestune B70 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Bestune,Bestune T55 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Bestune,Bestune T77 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Bestune,Bestune T77 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Toyota,Toyota Coaster (MR) (China),2021,"Aisan Industry Co., Ltd."
+Americas,Fiat,Pulse (Brazil),2021,Marelli Sistemas Automotivos Ind?stria e Com?rcio Brasil LTDA
+Americas,Ford,Lincoln Aviator (USA),2021,Cooper-Standard Holdings Inc.
+ASEAN?India?Korea,Ford,EcoSport (India),2021,Bosch Ltd.
+Americas,Ford,F-150 (USA),2021,Bosch (Robert Bosch LLC)
+Europe,Ford,Kuga (Spain),2021,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Ford,Kuga Hybrid (Spain),2021,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Ford,Kuga Plug-In Hybrid (Spain),2021,Hirschvogel Group (Hirschvogel Holding GmbH)
+Americas,Ford,Lincoln Navigator (USA),2021,Bosch (Robert Bosch LLC)
+China,GAC Honda,Honda Crider Sport Turbo (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,GAC Motor,Trumpchi GS4 PLUS (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,GAC Motor,Trumpchi M6 Pro (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,LYNK & CO 05 PHEV (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,LYNK & CO 06 (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Bin Rui (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Bin Rui (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Borui (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Boyue (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GL (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GL (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GL (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GL (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GL PHEV (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GS (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GS (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GS (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,GX3 Pro (Vision X3 Pro) (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,GX3 Pro (Vision X3 Pro) (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Vision (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Vision (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Vision X6 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Vision X6 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Vision X6 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Tank 300 (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval H6S (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval H6S (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval H7 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,WEY Latte DHT (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval M6 PLUS (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,WEY Macchiato PHEV (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,WEY Mocca (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,WEY Mocca (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,POER (FR) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval Red Rabbit (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval Shenshou (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval Shenshou (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval Shenshou (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Haima,6P PHEV (China),2021,"United Automotive Electronic Systems Co., Ltd."
+Americas,Honda,CR-V (Canada),2021,"Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)"
+ASEAN?India?Korea,Hyundai,Avante (Korea),2021,Hyundai Kefico Corporation
+Americas,Hyundai,Creta (Brazil),2021,BorgWarner Brasil Ltda.
+ASEAN?India?Korea,Hyundai,Genesis G70 (Korea),2021,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Genesis G80 (Korea),2021,Motonic Corporation
+ASEAN?India?Korea,Hyundai,Genesis G90 (Korea),2021,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Palisade (Korea),2021,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Santa Fe (Korea),2021,Hyundai Kefico Corporation
+Europe,Hyundai,Solaris (Russia),2021,Hyundai Kefico Corporation
+ASEAN?India?Korea,Hyundai,Sonata (Korea),2021,Motonic Corporation
+China,JAC Group,SOL E40X (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,JAC Group,SOL E40X (China),2021,"United Automotive Electronic Systems Co., Ltd."
+Americas,Jeep,Grand Cherokee (USA),2021,Bosch (Robert Bosch LLC)
+Americas,Jeep,Wrangler (USA),2021,Bosch (Robert Bosch LLC)
+China,Kaiyi,X3 (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+ASEAN?India?Korea,Kia,Morning (Korea),2021,Hyundai Kefico Corporation
+ASEAN?India?Korea,Kia,Ray (Korea),2021,Hyundai Kefico Corporation
+Americas,Kia,Rio (Mexico),2021,Hyundai Kefico Corporation
+ASEAN?India?Korea,Kia,Seltos (Korea),2021,Motonic Corporation
+ASEAN?India?Korea,Kia,Sorento (Korea),2021,Hyundai Kefico Corporation
+ASEAN?India?Korea,Kia,Stinger (Korea),2021,Hyundai Kefico Corporation
+Americas,Kia,Telluride (USA),2021,Hyundai Kefico Corporation
+ASEAN?India?Korea,Kia,THE K9 (Korea),2021,Hyundai Kefico Corporation
+Japan,Mazda,Bongo Brawny Van,2021,Denso Corporation
+Japan,Mazda,CX-30,2021,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Mazda,Mazda3 Fastback Hybrid,2021,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Mitsubishi,Eclipse Cross,2021,Denso Corporation
+Europe,Peugeot,3008 (France),2021,Bosch (Robert Bosch GmbH)
+Americas,Ram Trucks,Ram 1500 (USA),2021,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 1500 (USA),2021,Bosch (Robert Bosch LLC)
+ASEAN?India?Korea,Renault,Arkana E-TECH Hybrid (Korea),2021,Denso Corporation
+China,SAIC GM Wuling,Wuling Asta (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Asta (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Zhengtu (FR) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Maxus,Maxus D90 Pro (FR) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Maxus,Maxus EUNIQ 6 PLUG IN (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG6 PHEV (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,MG Pilot PHEV (China),2021,"United Automotive Electronic Systems Co., Ltd."
+ASEAN?India?Korea,Skoda,Kushaq (India),2021,Bosch (Robert Bosch GmbH)
+Japan,Subaru,BRZ,2021,Denso Corporation
+Japan,Subaru,Levorg,2021,Denso Corporation
+Japan,Subaru,Pleo +,2021,Denso Corporation
+Japan,Toyota,C-HR Hybrid,2021,Denso Corporation
+Japan,Toyota,GR Corolla,2021,Denso Corporation
+Japan,Toyota,GR Yaris,2021,Denso Corporation
+Japan,Toyota,GR86,2021,Denso Corporation
+Japan,Toyota,Hiace Van,2021,Denso Corporation
+Japan,Toyota,Pixis Epoch,2021,Denso Corporation
+China,VOYAH Motor,VOYAH FREE REEV (4WD) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Yema,Bojun (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Yema,SPICA (FF) (China),2021,"United Automotive Electronic Systems Co., Ltd."
+China,Beiqi Foton,Foton Tunland Diesel (4WD) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Europe,BMW,320i (Germany),2020,Bosch (Robert Bosch GmbH)
+Europe,BMW,320i (Germany),2020,Bosch (Robert Bosch GmbH)
+Europe,BMW,4 Series Coupe (Germany),2020,Hirschvogel Group (Hirschvogel Holding GmbH)
+Americas,BMW,X3 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,BMW,X3 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,BMW,X4 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,BMW,X4 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,BMW,X7 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,BMW,X7 (USA),2020,Bosch (Robert Bosch LLC)
+China,Brilliance,V3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,BYD,Song Pro (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,CS55 PLUS (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,CS55 PLUS (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,Raeton CC (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,Raeton CC (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,Ruixing EM80 (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,Oshan Xingka (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Exeed TX (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 3x (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Tiggo 7 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Jetour X70 (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Jetour X70 (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Jetour X70M (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Americas,Chrysler,300 (Canada),2020,Bosch (Robert Bosch LLC)
+Americas,Chrysler,300 (Canada),2020,Bosch (Robert Bosch LLC)
+China,DENZA New Energy,Denza X PHEV (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,DFSK,Dongfeng Fengon 370 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,DFSK,Sokon D51 (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,DFSK,Dongfeng Fengon ix7 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Americas,Dodge,Challenger (Canada),2020,Bosch (Robert Bosch LLC)
+Americas,Dodge,Challenger (Canada),2020,Bosch (Robert Bosch LLC)
+Americas,Dodge,Charger (Canada),2020,Bosch (Robert Bosch LLC)
+Americas,Dodge,Charger (Canada),2020,Bosch (Robert Bosch LLC)
+Americas,Dodge,Durango (USA),2020,Bosch (Robert Bosch LLC)
+China,Dongfeng Liuzhou Motor,Dongfeng Forthing Joyear S50 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Dongfeng Liuzhou Motor,Dongfeng Forthing Lingzhi (FR) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Dongfeng Peugeot Citroen,Citroen C5 Aircross (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Dongfeng Peugeot Citroen,Citroen C5 Aircross (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Dongfeng Peugeot Citroen,Citroen C6 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Bestune,Bestune T77 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Bestune,Bestune T99 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,FAW Jilin,FAW Xenia R8 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Audi A3 Sportback (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Volkswagen CC (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Audi Q5L (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Americas,Ford,Lincoln Corsair (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ford,Lincoln Corsair (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ford,F-150 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ford,F-150 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ford,Lincoln Navigator (USA),2020,Bosch (Robert Bosch LLC)
+China,GAC Motor,Trumpchi GS3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,GAC Motor,Trumpchi GS3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,GAC Motor,Trumpchi GS4 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,GAC Motor,Trumpchi GS4 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,LYNK & CO 01 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Borui (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Boyue (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Boyue (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Emgrand GL (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,ICON (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Vision X6 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Vision X6 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Xingyue PHEV (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Americas,GM,GMC Acadia (USA),2020,Bosch (Robert Bosch LLC)
+Americas,GM,Chevrolet Blazer (Mexico),2020,"Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)"
+Americas,GM,Chevrolet Camaro (USA),2020,"Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)"
+Americas,GM,GMC Canyon (USA),2020,Bosch (Robert Bosch LLC)
+Americas,GM,Chevrolet Colorado (USA),2020,"Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)"
+Americas,GM,Chevrolet Equinox (Canada),2020,Continental AG
+Americas,GM,Chevrolet Equinox (Mexico),2020,Bosch (Robert Bosch LLC)
+Americas,GM,Chevrolet Malibu (USA),2020,Bosch (Robert Bosch LLC)
+Americas,GM,Chevrolet Malibu (USA),2020,Continental AG
+Americas,GM,GMC Terrain (Mexico),2020,Continental AG
+Americas,GM,Cadillac XT6 (USA),2020,"Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)"
+China,Great Wall,Haval F7 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval F7 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval H4 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval H4 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval H6 Coupe (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,Haval H6 Coupe (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,WEY VV5 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,WEY VV7 GT PHEV (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Great Wall,WEY VV7 PHEV (4WD) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Japan,Honda,Fit e:HEV,2020,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Honda,Odyssey (USA),2020,"Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)"
+Americas,Hyundai,Santa Fe (USA),2020,Bosch (Robert Bosch LLC)
+China,JAC,Jiayue A5 (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Americas,Jeep,Grand Cherokee (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Jeep,Grand Cherokee (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Jeep,Grand Cherokee (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Jeep,Grand Cherokee (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Jeep,Grand Cherokee (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Jeep,Wrangler (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Jeep,Wrangler (USA),2020,Bosch (Robert Bosch LLC)
+China,Jiangling Holding,Landwind Rongyao (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Jiangling Motors,JMC Yuhu 9 (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Americas,Kia,Telluride (USA),2020,Continental AG
+Japan,Mazda,CX-30,2020,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Peugeot,508 SW (France),2020,Bosch (Robert Bosch GmbH)
+China,Qoros,5 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Americas,Ram Trucks,Ram 1500 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 1500 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 1500 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 1500 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 1500 (USA),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 2500 (Mexico),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 2500 (Mexico),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 3500 (Mexico),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 4500 (Mexico),2020,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 5500 (Mexico),2020,Bosch (Robert Bosch LLC)
+China,SAIC GM,Buick Regal (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun 310 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun 510 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun 530 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun 530 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun 730 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Hongguang PLUS (FR) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Hongguang S (FR) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Hongguang S3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Hongguang V (FR) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Rongguang V (FR) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun RS-3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Baojun RS-3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Sunshine Pickup (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC GM Wuling,Wuling Sunshine V (FR) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Maxus,Maxus D60 (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Maxus,Maxus EUNIQ 5 PULG IN (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe i6 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe i6 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG eHS PHEV (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG ZS (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,MG MG ZS (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe RX3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe RX3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe RX5 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe RX5 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Passenger Vehicle,Roewe RX5 MAX PHEV (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,SAIC Volkswagen,Volkswagen Tharu (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Europe,Skoda,Octavia (Czech Republic),2020,Continental AG
+Europe,Skoda,Octavia (Czech Republic),2020,Hirschvogel Group (Hirschvogel Holding GmbH)
+Japan,Subaru,BRZ,2020,Denso Corporation
+Japan,Subaru,Legacy Outback,2020,OTICS Corporation
+Japan,Subaru,WRX S4,2020,OTICS Corporation
+Japan,Toyota,4Runner,2020,"Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)"
+Japan,Toyota,86,2020,Denso Corporation
+Japan,Toyota,86,2020,OTICS Corporation
+Japan,Toyota,Alphard,2020,OTICS Corporation
+Japan,Toyota,Alphard,2020,OTICS Corporation
+Japan,Toyota,Alphard Hybrid,2020,OTICS Corporation
+Japan,Toyota,C-HR,2020,OTICS Corporation
+Americas,Toyota,Camry (USA),2020,"Denso International America, Inc."
+Japan,Toyota,Corolla,2020,OTICS Corporation
+Japan,Toyota,Corolla Sport,2020,OTICS Corporation
+Japan,Toyota,Corolla Touring,2020,OTICS Corporation
+Japan,Toyota,Crown,2020,OTICS Corporation
+Japan,Toyota,GR Yaris,2020,OTICS Corporation
+Japan,Toyota,Lexus IS300,2020,OTICS Corporation
+Japan,Toyota,Lexus IS300h,2020,OTICS Corporation
+Japan,Toyota,Lexus IS350,2020,OTICS Corporation
+Japan,Toyota,Land Cruiser,2020,OTICS Corporation
+Japan,Toyota,Lexus LC500h,2020,OTICS Corporation
+Japan,Toyota,Lexus LM300h,2020,OTICS Corporation
+Japan,Toyota,Lexus LS500h,2020,OTICS Corporation
+Japan,Toyota,Lexus NX300,2020,OTICS Corporation
+Japan,Toyota,Lexus NX300h,2020,OTICS Corporation
+Japan,Toyota,Lexus RC300,2020,OTICS Corporation
+Japan,Toyota,Lexus RC300h,2020,OTICS Corporation
+Japan,Toyota,Lexus RC350,2020,OTICS Corporation
+Japan,Toyota,Lexus RX300,2020,OTICS Corporation
+Japan,Toyota,Lexus RX450h,2020,OTICS Corporation
+Japan,Toyota,Lexus RX450hL,2020,OTICS Corporation
+Japan,Toyota,Vellfire,2020,OTICS Corporation
+Japan,Toyota,Vellfire,2020,OTICS Corporation
+Japan,Toyota,Vellfire Hybrid,2020,OTICS Corporation
+Europe,Volkswagen,Golf (Germany),2020,BorgWarner Inc.
+Europe,Volkswagen,T-Roc (Portugal),2020,Hirschvogel Group (Hirschvogel Holding GmbH)
+China,Volvo Cars Asia Pacific,Volvo XC40 T3 (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+China,Yema,Bojun (FF) (China),2020,"United Automotive Electronic Systems Co., Ltd."
+Europe,Audi,A1 (Belgium),2019,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+ASEAN?India?Korea,BMW,X5 (India),2019,Bosch (Robert Bosch GmbH)
+Americas,BMW,X5 (USA),2019,Bosch (Robert Bosch LLC)
+Americas,BMW,X5 (USA),2019,Bosch (Robert Bosch LLC)
+Americas,BMW,X5 xDrive35d (USA),2019,Bosch (Robert Bosch GmbH)
+Americas,BMW,X7 (USA),2019,Bosch (Robert Bosch LLC)
+Americas,BMW,X7 (USA),2019,Bosch (Robert Bosch LLC)
+China,Brilliance Shineray,Shineray T20S (China),2019,"Vitesco Automotive (Changchun) Co., Ltd. (Formerly CPT Automotive Changchun Co., Ltd.)"
+China,Brilliance Shineray,Shineray T32S (MR) (China),2019,"Vitesco Automotive (Changchun) Co., Ltd. (Formerly CPT Automotive Changchun Co., Ltd.)"
+China,Changhe Suzuki,Suzuki Big Dipper X5 (FF) (China),2019,"Vitesco Automotive (Changchun) Co., Ltd. (Formerly CPT Automotive Changchun Co., Ltd.)"
+Americas,Chrysler,300 (Canada),2019,Bosch (Robert Bosch LLC)
+Americas,Dodge,Challenger (Canada),2019,Bosch (Robert Bosch LLC)
+Americas,Dodge,Charger (Canada),2019,Bosch (Robert Bosch LLC)
+Americas,Dodge,Durango (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Dodge,Grand Caravan (Canada),2019,Bosch (Robert Bosch LLC)
+Americas,Dodge,Journey (Mexico),2019,Bosch (Robert Bosch LLC)
+China,Dorcen Auto,Dorcen 660 (FF) (China),2019,"Vitesco Automotive (Changchun) Co., Ltd. (Formerly CPT Automotive Changchun Co., Ltd.)"
+Americas,Ford,F-150 (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Ford,F-150 (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Ford,Lincoln Navigator (USA),2019,Bosch (Robert Bosch LLC)
+Americas,GM,GMC Acadia (USA),2019,Bosch (Robert Bosch LLC)
+Americas,GM,GMC Canyon (USA),2019,Bosch (Robert Bosch LLC)
+Americas,GM,Chevrolet Cruze (USA),2019,Continental AG
+ASEAN?India?Korea,GM,Buick Encore (Korea),2019,Continental AG
+Americas,GM,Chevrolet Equinox (Canada),2019,Continental AG
+Americas,GM,Chevrolet Impala (USA),2019,Bosch (Robert Bosch LLC)
+Americas,GM,Chevrolet Impala (USA),2019,Bosch (Robert Bosch LLC)
+Americas,GM,Chevrolet Malibu (USA),2019,Bosch (Robert Bosch LLC)
+Americas,GM,Chevrolet Malibu (USA),2019,Continental AG
+Americas,GM,GMC Terrain (Mexico),2019,Continental AG
+Americas,GM,Chevrolet Trax (Mexico),2019,Continental AG
+Americas,GM,Cadillac XT4 (USA),2019,Bosch (Robert Bosch LLC)
+Japan,Honda,Accord Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Civic Sedan,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Clarity PHEV,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,CR-V,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Fit,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Fit Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Freed,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Freed +,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Freed + Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Freed Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Grace,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Grace Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Honda,HR-V (Mexico),2019,"Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)"
+Japan,Honda,Jade,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Jade Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Legend Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Honda,Acura NSX (USA),2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Odyssey,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Odyssey Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Honda,Ridgeline (USA),2019,Denso Corporation
+Japan,Honda,S660,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Shuttle,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Shuttle Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Step WGN,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Step WGN Spada Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Vezel,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Vezel Hybrid,2019,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Hyundai,Santa Fe (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Jeep,Grand Cherokee (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Jeep,Grand Cherokee (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Jeep,Grand Cherokee (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Jeep,Wrangler (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Jeep,Wrangler (USA),2019,Bosch (Robert Bosch LLC)
+ASEAN?India?Korea,Kia,Morning (Korea),2019,Hyundai Kefico Corporation
+Americas,Kia,Optima (USA),2019,Bosch (Robert Bosch LLC)
+ASEAN?India?Korea,Kia,Ray (Korea),2019,Hyundai Kefico Corporation
+Americas,Nissan,Infiniti QX50 (Mexico),2019,Benteler Group (Benteler Automobiltechnik GmbH)
+Americas,Ram Trucks,Ram 1500 (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 1500 (USA),2019,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram 2500 (Mexico),2019,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram ProMaster 1500 (Mexico),2019,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram ProMaster 2500 (Mexico),2019,Bosch (Robert Bosch LLC)
+Americas,Ram Trucks,Ram ProMaster 3500 (Mexico),2019,Bosch (Robert Bosch LLC)
+China,Soueast,DX3 (FF) (China),2019,"Phinia Delphi Automotive Systems (Shanghai) Co., Ltd. (Formerly BorgWarner Shanghai Automotive Fuel Systems Co., Ltd.)"
+Americas,Toyota,Camry (USA),2019,"Denso International America, Inc."
+Europe,Volkswagen,T-Roc (Portugal),2019,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+ASEAN?India?Korea,Volvo Cars,Volvo XC60 (India),2019,Denso India Pvt. Ltd. (Formerly Denso India Ltd.)
+Europe,Audi,A5 (Germany),2018,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+China,Changan,CS75 (FF) (China),2018,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Daimler,Mercedes-Benz G-Class (Austria),2018,Continental AG
+ASEAN?India?Korea,Maruti Suzuki,Celerio (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Maruti Suzuki,Celerio X (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Maruti Suzuki,Dzire (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Maruti Suzuki,Ertiga (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Maruti Suzuki,Swift (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Maruti Suzuki,Vitara Brezza (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Maruti Suzuki,Wagon R (India),2018,Denso International India Pvt. Ltd.
+Europe,Skoda,Kodiaq L&K (Czech Republic),2018,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+ASEAN?India?Korea,Tata,Nexon (India),2018,Bosch Ltd.
+ASEAN?India?Korea,Toyota,Camry (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Toyota,Corolla Altis (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Toyota,Etios Cross (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Toyota,Etios Liva (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Toyota,Fortuner (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Toyota,Innova Crysta (India),2018,Denso International India Pvt. Ltd.
+ASEAN?India?Korea,Toyota,Platinum Etios (India),2018,Denso International India Pvt. Ltd.
+Europe,Volkswagen,Touareg (Slovakia),2018,Continental AG
+Europe,Bentley,Continental GT (UK),2017,Continental AG
+Europe,Citroen,C3 Aircross (Spain),2017,Continental AG
+China,FAW-Volkswagen,Audi A3 Limousine (FF) (China),2017,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Audi A3 Sportback (FF) (China),2017,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Audi A4L (FF) (China),2017,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Audi A6L (FF) (China),2017,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Volkswagen Golf (China),2017,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Volkswagen Magotan (China),2017,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Audi Q3 (FF) (China),2017,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Audi Q5 (China),2017,"United Automotive Electronic Systems Co., Ltd."
+Americas,Honda,Accord (USA),2017,Denso Corporation
+China,Lifan,820 (FF) (China),2017,"United Automotive Electronic Systems Co., Ltd."
+Americas,Nissan,Micra (Mexico),2017,Denso Corporation
+Americas,Nissan,Versa (Mexico),2017,Denso Corporation
+Americas,Toyota,Camry (USA),2017,Denso Corporation
+Europe,Volkswagen,Arteon (Germany),2017,Continental AG
+Europe,Volkswagen,T-Roc (Portugal),2017,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Audi,A5 Coupe (Germany),2016,Continental AG
+Europe,Audi,A5 Coupe (Germany),2016,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Audi,Q2 (Germany),2016,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Bentley,Bentayga (UK),2016,Continental AG
+Europe,Bugatti,Chiron (France),2016,Bosch (Robert Bosch GmbH)
+China,Changan,Raeton (FF) (China),2016,"Shanghai E-xon Power System Co., Ltd."
+Europe,Citroen,C3 (France),2016,Bosch (Robert Bosch GmbH)
+Japan,Daihatsu,Altis Hybrid,2016,Denso Corporation
+Japan,Daihatsu,Atrai Wagon,2016,Denso Corporation
+Japan,Daihatsu,Atrai Wagon,2016,Nippon Injector Corporation
+Japan,Daihatsu,Mira e:S,2016,Denso Corporation
+Japan,Daihatsu,Move,2016,Denso Corporation
+Japan,Daihatsu,Move,2016,Nippon Injector Corporation
+Europe,Daimler,Mercedes-Benz B 200 Natural Gas Drive (Germany),2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Europe,Daimler,Mercedes-Benz E 200 Natural Gas Drive (Germany),2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Europe,Daimler,Mercedes-Benz E-Class (Germany),2016,Bosch (Robert Bosch GmbH)
+China,Dongfeng Peugeot Citroen,Citroen C-Quatre HB (China),2016,"Beijing NGV Technology Co., Ltd."
+China,Dongfeng Yueda Kia,Kia K5 Hybrid (FF) (China),2016,"Shanghai E-xon Power System Co., Ltd."
+Japan,Fiat,124 Spider,2016,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Americas,Ford,Explorer (USA),2016,Denso Corporation
+Europe,Ford,Fiesta (Germany),2016,Continental AG
+Japan,Honda,Accord Hybrid,2016,Denso Corporation
+Japan,Honda,Accord Hybrid,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,CR-V,2016,Denso Corporation
+Japan,Honda,CR-Z,2016,Denso Corporation
+Japan,Honda,Fit,2016,Denso Corporation
+Japan,Honda,Fit,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Fit,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Freed,2016,Denso Corporation
+Japan,Honda,Freed,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Grace,2016,Denso Corporation
+Japan,Honda,Grace,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Jade,2016,Denso Corporation
+Japan,Honda,Legend Hybrid,2016,Denso Corporation
+Japan,Honda,N-BOX,2016,Denso Corporation
+Japan,Honda,N-ONE,2016,Denso Corporation
+Japan,Honda,N-WGN,2016,Denso Corporation
+Japan,Honda,Odyssey,2016,Denso Corporation
+Americas,Honda,Odyssey (USA),2016,"Denso International America, Inc."
+Japan,Honda,S660,2016,Denso Corporation
+Japan,Honda,Shuttle,2016,Denso Corporation
+Japan,Honda,Shuttle,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Step WGN,2016,Denso Corporation
+Japan,Honda,Step WGN,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Vamos,2016,Denso Corporation
+Japan,Honda,Vezel,2016,Denso Corporation
+Japan,Honda,Vezel,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Hyundai,Sonata Plug-in Hybrid (USA),2016,Continental AG
+Europe,Jaguar Land Rover,Jaguar F-Pace (UK),2016,Bosch (Robert Bosch GmbH)
+China,Jiangxi Isuzu,Isuzu mu-X (FR) (China),2016,Denso Corporation
+China,Jiangxi Isuzu,Isuzu mu-X (FR) (China),2016,Denso Corporation
+China,Jiangxi Isuzu,Isuzu mu-X (FR) (China),2016,Denso Corporation
+China,Jiangxi Isuzu,Isuzu mu-X (FR) (China),2016,Denso Corporation
+Europe,Maserati,Levante (Italy),2016,Bosch (Robert Bosch GmbH)
+Japan,Mazda,Atenza,2016,Denso Corporation
+Japan,Mazda,Atenza Sedan,2016,Denso Corporation
+Japan,Mazda,Atenza Sedan,2016,Denso Corporation
+Japan,Mazda,Atenza Sedan,2016,Denso Corporation
+Japan,Mazda,Atenza Wagon,2016,Denso Corporation
+Japan,Mazda,Atenza Wagon,2016,Denso Corporation
+Japan,Mazda,Atenza Wagon,2016,Denso Corporation
+Japan,Mazda,Axela,2016,Denso Corporation
+Japan,Mazda,Axela Sedan,2016,Denso Corporation
+Japan,Mazda,Axela Sedan Hybrid,2016,Denso Corporation
+Japan,Mazda,Axela Sport,2016,Denso Corporation
+Japan,Mazda,Axela Sport,2016,Denso Corporation
+Japan,Mazda,Axela Sport,2016,Denso Corporation
+Japan,Mazda,Biante,2016,Denso Corporation
+Japan,Mazda,Biante,2016,Denso Corporation
+Japan,Mazda,CX-3,2016,Denso Corporation
+Japan,Mazda,CX-5,2016,Denso Corporation
+Japan,Mazda,CX-5,2016,Denso Corporation
+Japan,Mazda,CX-5,2016,Denso Corporation
+Japan,Mazda,CX-5,2016,Denso Corporation
+Japan,Mazda,CX-9,2016,Denso Corporation
+Japan,Mazda,Demio,2016,Denso Corporation
+Japan,Mazda,Demio,2016,Denso Corporation
+Japan,Mazda,Premacy,2016,Denso Corporation
+Japan,Mazda,Premacy,2016,Denso Corporation
+Japan,Mazda,Roadster,2016,Denso Corporation
+Japan,Mazda,Roadster,2016,Denso Corporation
+Japan,Mazda,Roadster,2016,Denso Corporation
+ASEAN?India?Korea,Mitsubishi,Attrage (Thailand),2016,Usui International Corporation (Thailand) Ltd.
+Japan,Mitsubishi,Delica D:5,2016,Denso Corporation
+ASEAN?India?Korea,Mitsubishi,Mirage (Thailand),2016,Usui International Corporation (Thailand) Ltd.
+Japan,Mitsubishi,Outlander,2016,Denso Corporation
+Japan,Mitsubishi,Pajero,2016,Denso Corporation
+Japan,Mitsubishi,RVR,2016,Denso Corporation
+Japan,Nissan,GT-R,2016,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Juke,2016,Denso Corporation
+Japan,Nissan,Lafesta Highway Star,2016,Denso Corporation
+ASEAN?India?Korea,Nissan,Navara (Thailand),2016,Usui International Corporation (Thailand) Ltd.
+Japan,Subaru,Dias Wagon,2016,Denso Corporation
+Japan,Subaru,Dias Wagon,2016,Nippon Injector Corporation
+Americas,Subaru,Impreza (USA),2016,"Denso International America, Inc."
+Americas,Subaru,Impreza (USA),2016,"Denso International America, Inc."
+Japan,Subaru,Legacy,2016,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Subaru,Outback (USA),2016,"Denso International America, Inc."
+Japan,Subaru,Pleo +,2016,Denso Corporation
+Japan,Subaru,Stella,2016,Denso Corporation
+Japan,Subaru,Stella,2016,Nippon Injector Corporation
+ASEAN?India?Korea,Suzuki,Celerio (Thailand),2016,Usui International Corporation (Thailand) Ltd.
+ASEAN?India?Korea,Suzuki,Ciaz (Thailand),2016,Usui International Corporation (Thailand) Ltd.
+Japan,Suzuki,Ignis Hybrid,2016,Bosch (Robert Bosch GmbH)
+Japan,Suzuki,Solio,2016,Bosch (Robert Bosch GmbH)
+Japan,Suzuki,Swift,2016,Bosch (Robert Bosch GmbH)
+ASEAN?India?Korea,Suzuki,Swift (Thailand),2016,Usui International Corporation (Thailand) Ltd.
+Japan,Toyota,Auris,2016,Denso Corporation
+Japan,Toyota,Camry,2016,Denso Corporation
+Japan,Toyota,Corolla,2016,"Aisan Industry Co., Ltd."
+Japan,Toyota,Corolla,2016,Denso Corporation
+Japan,Toyota,Lexus CT200h,2016,"Aisan Industry Co., Ltd."
+Japan,Toyota,Lexus GS,2016,Denso Corporation
+Japan,Toyota,Harrier,2016,Denso Corporation
+Japan,Toyota,Lexus IS,2016,"Aisan Industry Co., Ltd."
+Japan,Toyota,Pixis Epoch,2016,Denso Corporation
+Japan,Toyota,Porte,2016,Denso Corporation
+Japan,Toyota,Prius,2016,Denso Corporation
+Japan,Toyota,RAV4,2016,Denso Corporation
+Japan,Toyota,Lexus RX,2016,Denso Corporation
+Japan,Toyota,Spade,2016,Denso Corporation
+Americas,Volkswagen,Beetle Dune (Mexico),2016,Bosch (Robert Bosch GmbH)
+Americas,Volkswagen,Beetle Dune (Mexico),2016,Continental AG
+Americas,Volkswagen,Beetle Dune (Mexico),2016,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Volvo Cars,Volvo V60 Cross Country (Sweden),2016,Denso Corporation
+Europe,Audi,A4 (Germany),2015,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Audi,Q7 (Slovakia),2015,Continental AG
+Americas,BMW,X5 (USA),2015,Bosch (Robert Bosch GmbH)
+Americas,Daimler,Mercedes-Benz ML350 4MATIC Diesel (USA),2015,Bosch (Robert Bosch GmbH)
+Americas,Dodge,Journey (Mexico),2015,Bosch (Robert Bosch GmbH)
+Europe,Fiat,500X (Italy),2015,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Ford,Galaxy (Belgium),2015,Continental AG
+Japan,Honda,Step WGN,2015,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Nissan,March (Brazil),2015,Bosch (Robert Bosch GmbH)
+Europe,Opel,Astra (Poland),2015,Continental AG
+Europe,Porsche,Macan (Germany),2015,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Subaru,BRZ,2015,OTICS Corporation
+Japan,Toyota,86,2015,OTICS Corporation
+Europe,Volkswagen,T6 (Germany),2015,Bosch (Robert Bosch GmbH)
+Europe,Volkswagen,Tiguan (Germany),2015,Bosch (Robert Bosch GmbH)
+Europe,Volkswagen,Tiguan (Germany),2015,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Volkswagen,Touran (Germany),2015,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Volvo Cars,Volvo V40 Cross Country (Belgium),2015,Denso Corporation
+China,Zotye,Z300 (FF) (China),2015,"United Automotive Electronic Systems Co., Ltd."
+Europe,Audi,S5 (Germany),2014,Bosch (Robert Bosch LLC)
+Europe,Audi,TT (Hungary),2014,Bosch (Robert Bosch GmbH)
+Europe,Audi,TT (Hungary),2014,Continental AG
+Europe,BMW,2 Series (Germany),2014,Bosch (Robert Bosch GmbH)
+Europe,BMW,2 Series Active Tourer (Germany),2014,Bosch (Robert Bosch GmbH)
+Europe,BMW,MINI MINI ONE (UK),2014,Bosch (Robert Bosch GmbH)
+Americas,BMW,X5 (USA),2014,Winkelmann Powertrain Components GmbH & Co. KG
+China,BMW Brilliance,BMW 5 Series (China),2014,Benteler Group (Benteler Automobiltechnik GmbH)
+China,BMW Brilliance,BMW X1 (FF) (China),2014,Benteler Group (Benteler Automobiltechnik GmbH)
+China,Changan,Changan Kaicheng Changan Star (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Changan,Changan Kaicheng Changan Star (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Changhe,Frieda (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Changhe,Frieda (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Changhe,Fuyun (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Changhe,Fuyun (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Changhe,Idearl A+ (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Changhe,Idearl A+ (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Riich G5 (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Chery,Riich G5 (China),2014,Bosch (Robert Bosch LLC)
+China,DFSK,Dongfeng Fengon 360 (FF) (China),2014,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+China,FAW-Volkswagen,Audi A6L (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Audi A6L (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Volkswagen Bora (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Volkswagen Jetta (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,FAW-Volkswagen,Volkswagen Jetta (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+Europe,Ferrari,California T (Italy),2014,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Ford,Fiesta (Germany),2014,Bosch (Robert Bosch LLC)
+China,GAC Motor,Trumpchi GS5 (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Gleagle Free Cruiser (China),2014,"Aptiv (China) Investment Co., Ltd."
+China,Geely,Gleagle Free Cruiser (China),2014,"Aptiv (China) Investment Co., Ltd."
+China,Geely,Gleagle Free Cruiser (China),2014,"Aptiv (China) Investment Co., Ltd."
+China,Geely,Gleagle Free Cruiser (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Gleagle Free Cruiser (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Geely,Englon KingKong (China),2014,"Aptiv (China) Investment Co., Ltd."
+China,Geely,Englon KingKong (China),2014,"Aptiv (China) Investment Co., Ltd."
+China,Geely,Gleagle Vision (China),2014,"Aptiv (China) Investment Co., Ltd."
+Americas,GM,Chevrolet Cruze (USA),2014,Bosch (Robert Bosch LLC)
+Japan,Honda,Accord Hybrid,2014,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+ASEAN?India?Korea,Honda,City CNG (Thailand),2014,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,N-WGN,2014,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Europe,Jaguar Land Rover,Jaguar F-Type (UK),2014,Denso Corporation
+Europe,Lamborghini,Huracan (Italy),2014,Bosch (Robert Bosch GmbH)
+Europe,Lamborghini,Huracan (Italy),2014,Continental AG
+Japan,Nissan,Juke,2014,Bosch (Robert Bosch LLC)
+Europe,Peugeot,108 (Czech Republic),2014,Bosch (Robert Bosch GmbH)
+Europe,Peugeot,308 (France),2014,Aptiv Services 2 France SAS (Formerly Delphi Connection Systems France SAS)
+Europe,Peugeot,308 SW (France),2014,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Porsche,Cayman (Germany),2014,Bosch (Robert Bosch LLC)
+Europe,Porsche,Macan (Germany),2014,Bosch (Robert Bosch GmbH)
+Europe,Renault,Twingo (Slovenia),2014,Continental AG
+Europe,Renault,Twingo (Slovenia),2014,Continental AG
+China,Shanghai GM,Chevrolet Sail (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Shanghai Volkswagen,Volkswagen Passat (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Shanghai Volkswagen,Volkswagen Passat (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+China,Shanghai Volkswagen,Volkswagen Santana (FF) (China),2014,"United Automotive Electronic Systems Co., Ltd."
+Europe,Skoda,Fabia (Czech Republic),2014,Bosch (Robert Bosch GmbH)
+Japan,Toyota,Corolla Axio Hybrid/Corolla Fielder Hybrid,2014,"Aisan Industry Co., Ltd."
+Japan,Toyota,Corolla Axio Hybrid/Corolla Fielder Hybrid,2014,Denso Corporation
+Japan,Toyota,Harrier,2014,Denso Corporation
+Japan,Toyota,Noah,2014,"Kyosan Denki Co., Ltd."
+Japan,Toyota,RAV4,2014,Denso Corporation
+Europe,Volkswagen,Golf GTE (Germany),2014,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Volkswagen,Golf Sportsvan (Germany),2014,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Volkswagen,Golf Sportsvan (Germany),2014,Hirschvogel Group (Hirschvogel Holding GmbH)
+Americas,Volkswagen,Jetta (Mexico),2014,Bosch (Robert Bosch LLC)
+Europe,Volkswagen,Passat (Germany),2014,Bosch (Robert Bosch GmbH)
+Europe,Volvo Cars,Volvo S60 (Sweden),2014,Denso Europe B.V.
+Europe,Volvo Cars,Volvo V60 (Sweden),2014,Denso Europe B.V.
+Europe,Volvo Cars,Volvo XC60 (Belgium),2014,Denso Europe B.V.
+Europe,Citroen,C4 Picasso (Spain),2013,Continental AG
+Japan,Daihatsu,Mira e:S,2013,Denso Corporation
+Japan,Daihatsu,Mira e:S,2013,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Move,2013,Bosch (Bosch Corporation)
+Japan,Daihatsu,Move,2013,Denso Corporation
+Japan,Daihatsu,Move,2013,"Kyosan Denki Co., Ltd."
+Europe,Daimler,Mercedes-Benz E-Class (Germany),2013,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Europe,Daimler,Mercedes-Benz SL350 (Germany),2013,Valeo eAutomotive Germany GmbH (Formerly Valeo Siemens eAutomotive Germany GmbH)
+China,Dongfeng Honda,Honda Ciimo (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,Dongfeng Honda,Honda Civic (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,Dongfeng Honda,Honda CR-V (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,Dongfeng Honda,Honda Elysion (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,Dongfeng Honda,Honda Jade (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,Dongfeng Honda,Honda Spirior (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,FAW-Volkswagen,Volkswagen Sagitar GLI (FF) (China),2013,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Americas,Ford,Escape (USA),2013,Bosch (Robert Bosch GmbH)
+Americas,Ford,Escape (USA),2013,Bosch (Robert Bosch GmbH)
+Americas,Ford,Escape (USA),2013,Bosch (Robert Bosch GmbH)
+China,GAC Honda,Honda Accord (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,GAC Honda,Honda City (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,GAC Honda,Honda Crider (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,GAC Honda,Honda Crosstour (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,GAC Honda,Honda Fit (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,GAC Honda,Honda Odyssey (FF) (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,GAC Honda,Everus S1 (China),2013,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)"
+China,GAC Mitsubishi,Mitsubishi ASX (FF) (China),2013,"Mitsubishi Electric Automotive (China) Co., Ltd."
+Japan,Honda,Accord,2013,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+ASEAN?India?Korea,Honda,Brio (Thailand),2013,"Hitachi Astemo Ayutthaya Ltd. (Formerly Keihin Auto Parts (Thailand) Co., Ltd.)"
+ASEAN?India?Korea,Honda,Brio Amaze (Thailand),2013,"Hitachi Astemo Ayutthaya Ltd. (Formerly Keihin Auto Parts (Thailand) Co., Ltd.)"
+Japan,Honda,Fit,2013,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Fit Hybrid,2013,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,N-ONE,2013,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,N-WGN,2013,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Americas,Hyundai,Santa Fe (USA),2013,Bosch (Robert Bosch LLC)
+Japan,Mazda,Atenza,2013,Mitsubishi Electric Corporation
+Japan,Nissan,Note,2013,Bosch (Robert Bosch GmbH)
+Europe,Opel,Cascada (Poland),2013,Winkelmann Powertrain Components GmbH & Co. KG
+Europe,Opel,Zafira Tourer (Germany),2013,Denso Europe B.V.
+Europe,Peugeot,308 (France),2013,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Peugeot,308 (France),2013,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Peugeot,308 (France),2013,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Peugeot,308 (France),2013,Continental AG
+Europe,Porsche,Cayman (Germany),2013,Continental AG
+Europe,Renault,Captur (Spain),2013,Continental AG
+Europe,Renault,Captur (Spain),2013,Continental AG
+Europe,Renault,Clio (France),2013,Robert Bosch (France) S.A.S.
+Europe,Renault,Scenic (France),2013,Denso Automotive Deutschland GmbH
+China,Shanghai Volkswagen,Skoda Rapid (FF) (China),2013,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Subaru,Legacy,2013,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Toyota,Auris,2013,Denso Corporation
+Japan,Toyota,Auris,2013,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Porte/Spade,2013,Denso Corporation
+Japan,Toyota,Porte/Spade,2013,"Kyosan Denki Co., Ltd."
+Europe,Volkswagen,eco up! (Slovakia),2013,Bosch (Robert Bosch GmbH)
+Europe,Alfa Romeo,Giulietta (Italy),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Aston Martin,One-77 (UK),2012,Winkelmann Powertrain Components GmbH & Co. KG
+Europe,Audi,A3 Sportback (Germany),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,Q3 (Spain),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,RS 5 Cabrio (Germany),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+China,Chery,Cowin 2 (China),2012,Lovato Gas S.P.A.
+China,Chery,Cowin 3 (China),2012,"Beijing Landi Renzo Autogas Systems Co., Ltd."
+Europe,Daimler,Mercedes-Benz A-Class (Germany),2012,Bosch (Robert Bosch GmbH)
+Europe,Daimler,Mercedes-Benz SL-Class (Germany),2012,Bosch (Robert Bosch GmbH)
+Europe,Daimler,Mercedes-Benz SL-Class (Germany),2012,Bosch (Robert Bosch LLC)
+Europe,Daimler,Mercedes-Benz SL-Class (Germany),2012,Continental AG
+Europe,Fiat,Bravo Street (Italy),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Fiat,Panda (Italy),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Fiat,Panda (Italy),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Ford,B-Max (Romania),2012,Continental AG
+Europe,Ford,B-Max (Romania),2012,Continental AG
+China,GAC Fiat Chrysler,Fiat Viaggio (FF) (China),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+China,Great Wall,M4 (China),2012,Bosch (China) Investment Ltd.
+China,Hafei,Zhongyi (China),2012,"Aptiv (China) Investment Co., Ltd."
+Europe,Hyundai,ix35 (Czech Republic),2012,Bosch (Robert Bosch GmbH)
+ASEAN?India?Korea,Maruti Suzuki,SX4 (India),2012,Denso Corporation
+Europe,Maserati,Quattroporte (Italy),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Opel,Zafira Tourer (Germany),2012,Bosch (Robert Bosch GmbH)
+Europe,Porsche,911 Carrera 4S (Germany),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Porsche,Boxster (Germany),2012,Continental AG
+Europe,SEAT,Ibiza (Spain),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,SEAT,Leon (Spain),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,SEAT,Toledo (Spain),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+China,Shanghai Volkswagen,Volkswagen Passat (FF) (China),2012,Bosch (China) Investment Ltd.
+China,Shanghai Volkswagen,Volkswagen Santana Vista (China),2012,"Shanghai Boyang Electrical & Mechanical Technology Development Co., Ltd."
+Europe,Skoda,Rapid (Czech Republic),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Toyota,Camry,2012,Denso Corporation
+Japan,Toyota,Scion FR-S,2012,Denso Corporation
+Japan,Toyota,Lexus GS,2012,Denso Corporation
+Japan,Toyota,Highlander,2012,Denso Corporation
+Japan,Toyota,RAV4,2012,Denso Corporation
+Japan,Toyota,Lexus RX,2012,Denso Corporation
+Japan,Toyota,Venza,2012,Denso Corporation
+Europe,Volkswagen,Golf (Germany),2012,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Volkswagen,Golf (Germany),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Polo (South Africa),2012,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Volkswagen,up! 5 doors (Slovakia),2012,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Alfa Romeo,159 (Italy),2011,Bosch (Robert Bosch GmbH)
+Europe,Alfa Romeo,Giulietta (Italy),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Alfa Romeo,MiTo (Italy),2011,Bosch (Robert Bosch GmbH)
+Europe,Alfa Romeo,MiTo (Italy),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,A1 (Belgium),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,A3 (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,A4 (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,A5 (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,A6 (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Audi,A6 (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,A7 Sportback (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,Q3 (Spain),2011,Continental AG
+Europe,Audi,Q5 (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Audi,Q7 (Slovakia),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,BMW,5 Series (Germany),2011,Continental AG
+Europe,BMW,6 Series (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,BMW,M5 (Germany),2011,Continental AG
+Americas,BMW,X3 (USA),2011,Denso Corporation
+Americas,BMW,X6 (USA),2011,Continental AG
+Americas,Chrysler,300 (Canada),2011,Bosch (Robert Bosch GmbH)
+Europe,Citroen,C3 (France),2011,Valeo Group
+Europe,Citroen,C3 Picasso (Slovakia),2011,Valeo Group
+Europe,Citroen,C4 (France),2011,Continental AG
+Europe,Citroen,C4 Picasso (Spain),2011,Continental AG
+Europe,Citroen,C5 (France),2011,Bosch (Robert Bosch GmbH)
+Europe,Citroen,C5 (France),2011,Valeo Group
+Europe,Citroen,DS3 (France),2011,Continental AG
+Europe,Citroen,DS DS4 (France),2011,Continental AG
+Europe,Dacia,Sandero (Romania),2011,Bosch (Robert Bosch GmbH)
+Europe,Dacia,Sandero (Romania),2011,Continental AG
+Europe,Daimler,Mercedes-Benz B-Class (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Daimler,Mercedes-Benz CLS (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Daimler,Mercedes-Benz E-Class (Germany),2011,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Europe,Daimler,Mercedes-Benz E-Class (Germany),2011,Continental AG
+Europe,Daimler,Mercedes-Benz GLK-Class (Germany),2011,Continental AG
+Europe,Daimler,Mercedes-Benz SLK-Class (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Daimler,Mercedes-Benz SLK-Class (Germany),2011,Continental AG
+Americas,Dodge,Caliber (USA),2011,Continental AG
+Americas,Dodge,Journey (Mexico),2011,Continental AG
+Americas,Dodge,Viper (USA),2011,Continental AG
+Europe,Fiat,500 (Poland),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Fiat,Bravo (Italy),2011,Bosch (Robert Bosch GmbH)
+Europe,Fiat,Panda (Italy),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Fiat,Punto (Italy),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Americas,Ford,F-Series (USA),2011,Bosch (Robert Bosch GmbH)
+Americas,Ford,Fusion (Mexico),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Ford,Galaxy (Belgium),2011,Bosch (Robert Bosch GmbH)
+Americas,Ford,Lincoln MKS (USA),2011,Bosch (Robert Bosch GmbH)
+Americas,Ford,Lincoln MKT (Canada),2011,Bosch (Robert Bosch GmbH)
+Europe,Ford,Mondeo (Belgium),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+ASEAN?India?Korea,GM,Chevrolet Aveo (Korea),2011,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+Americas,GM,Chevrolet Sonic (USA),2011,BorgWarner Inc. - Auburn Hills (Formerly Delphi Technologies PLC)
+ASEAN?India?Korea,Honda,City (Thailand),2011,"Hitachi Astemo Ayutthaya Ltd. (Formerly Keihin Auto Parts (Thailand) Co., Ltd.)"
+Japan,Honda,CR-Z,2011,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+ASEAN?India?Korea,Honda,Freed (Indonesia),2011,"Hitachi Astemo Ayutthaya Ltd. (Formerly Keihin Auto Parts (Thailand) Co., Ltd.)"
+ASEAN?India?Korea,Hyundai,ix35 (Korea),2011,Bosch (Robert Bosch GmbH)
+Europe,Hyundai,Solaris (Russia),2011,Bosch (China) Investment Ltd.
+ASEAN?India?Korea,Hyundai,Tucson (Korea),2011,Bosch (Robert Bosch GmbH)
+Europe,Jaguar Land Rover,Land Rover Freelander (UK),2011,Hirschvogel Group (Hirschvogel Holding GmbH)
+Europe,Jaguar Land Rover,Jaguar XJ/XK (UK),2011,Denso Corporation
+Americas,Jeep,Patriot (USA),2011,Continental AG
+Europe,Lancia,Ypsilon (Poland),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Lancia,Ypsilon (Poland),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Magyar Suzuki,Suzuki Swift (Hungary),2011,Denso Corporation
+Americas,Nissan,Altima (USA),2011,Bosch (Robert Bosch GmbH)
+Europe,Nissan,Juke (UK),2011,Bosch (Robert Bosch GmbH)
+Americas,Nissan,March (Mexico),2011,Bosch (Robert Bosch GmbH)
+Americas,Nissan,Pathfinder (USA),2011,Bosch (Robert Bosch GmbH)
+Europe,Opel,Astra (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Opel,Corsa (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Opel,Insignia (Germany),2011,Continental AG
+Europe,Opel,Meriva (Spain),2011,Bosch (Robert Bosch GmbH)
+Europe,Opel,Zafira (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Opel,Zafira (Germany),2011,Continental AG
+Europe,Opel,Zafira (Germany),2011,Denso Corporation
+Europe,Peugeot,206 (France),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Peugeot,207 (France),2011,Valeo Group
+Europe,Peugeot,3008 (France),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Peugeot,308 (France),2011,Valeo Group
+Europe,Peugeot,508 (France),2011,Continental AG
+Europe,Porsche,Boxster/Cayman (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Porsche,Panamera (Germany),2011,Continental AG
+Europe,Porsche,Panamera (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Renault,Clio (Turkiye),2011,Bosch (Robert Bosch GmbH)
+Europe,Renault,Kangoo (France),2011,Bosch (Robert Bosch GmbH)
+Europe,Renault,Kangoo (France),2011,Continental AG
+Europe,Renault,Megane (Spain),2011,Continental AG
+Europe,Renault,Modus (Spain),2011,Bosch (Robert Bosch GmbH)
+Europe,SEAT,Ibiza (Spain),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,SEAT,Leon (Spain),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Skoda,Octavia (Czech Republic),2011,Bosch (Robert Bosch GmbH)
+Europe,Skoda,Octavia (Czech Republic),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Skoda,Superb (Czech Republic),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Skoda,Yeti (Czech Republic),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Japan,Toyota,4Runner,2011,"Aisan Industry Co., Ltd."
+Americas,Toyota,Camry (USA),2011,Denso Corporation
+Japan,Toyota,Lexus CT200h,2011,"Aisan Industry Co., Ltd."
+Japan,Toyota,Lexus GS,2011,Denso Corporation
+Japan,Toyota,Highlander,2011,Denso Corporation
+Japan,Toyota,Lexus IS,2011,"Aisan Industry Co., Ltd."
+Americas,Toyota,RAV4 (Canada),2011,Denso Corporation
+Americas,Toyota,Lexus RX (Canada),2011,Denso Corporation
+Americas,Toyota,Venza (USA),2011,Denso Corporation
+Europe,Toyota,Verso (Turkiye),2011,Bosch (Robert Bosch GmbH)
+Europe,Volkswagen,Caddy (Poland),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Eos (Portugal),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Passat (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Scirocco (Portugal),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Sharan (Portugal),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Tiguan (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Touareg (Slovakia),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Touareg (Slovakia),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Touran (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Volkswagen,Touran (Germany),2011,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
+Europe,Volkswagen,Transporter (Germany),2011,Bosch (Robert Bosch GmbH)
+Europe,Volvo Cars,Volvo V70 (Sweden),2011,Bosch (Robert Bosch GmbH)
+Europe,Citroen,C4 (France),2010,Continental AG
+Europe,Citroen,DS3 (France),2010,Continental AG
+Europe,Dacia,Sandero (Romania),2010,Bosch (Robert Bosch GmbH)
+Japan,Daihatsu,Atrai Wagon,2010,Bosch (Bosch Corporation)
+Japan,Daihatsu,Atrai Wagon,2010,Denso Corporation
+Japan,Daihatsu,Atrai Wagon,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Be-go,2010,Denso Corporation
+Japan,Daihatsu,Be-go,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Boon,2010,Denso Corporation
+Japan,Daihatsu,Boon,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Coo,2010,Denso Corporation
+Japan,Daihatsu,Coo,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Copen,2010,Denso Corporation
+Japan,Daihatsu,Copen,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Esse,2010,Denso Corporation
+Japan,Daihatsu,Esse,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Hijet Cargo,2010,Bosch (Bosch Corporation)
+Japan,Daihatsu,Hijet Cargo,2010,Denso Corporation
+Japan,Daihatsu,Hijet Cargo,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Hijet Truck,2010,Bosch (Bosch Corporation)
+Japan,Daihatsu,Hijet Truck,2010,Denso Corporation
+Japan,Daihatsu,Hijet Truck,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Mira,2010,Bosch (Bosch Corporation)
+Japan,Daihatsu,Mira,2010,Denso Corporation
+Japan,Daihatsu,Mira,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Mira Van,2010,Denso Corporation
+Japan,Daihatsu,Mira Van,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Move,2010,Bosch (Bosch Corporation)
+Japan,Daihatsu,Move,2010,Denso Corporation
+Japan,Daihatsu,Move,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Move Conte,2010,Denso Corporation
+Japan,Daihatsu,Move Conte,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Tanto,2010,Bosch (Bosch Corporation)
+Japan,Daihatsu,Tanto,2010,Denso Corporation
+Japan,Daihatsu,Tanto,2010,"Kyosan Denki Co., Ltd."
+Japan,Daihatsu,Terios Kid,2010,Denso Corporation
+Japan,Daihatsu,Terios Kid,2010,"Kyosan Denki Co., Ltd."
+Americas,Ford,Flex (Canada),2010,Bosch (Robert Bosch GmbH)
+Americas,Ford,Lincoln MKS (USA),2010,Bosch (Robert Bosch GmbH)
+Americas,Ford,Lincoln MKT (Canada),2010,Bosch (Robert Bosch GmbH)
+Japan,Honda,Acty Truck,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Acty Van,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Elysion,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Freed,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Insight,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Inspire,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Legend,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Life,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Odyssey,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Step WGN,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Stream,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Vamos,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Vamos Hobio,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Honda,Zest,2010,"Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+Japan,Mazda,Demio,2010,Denso Corporation
+Japan,Mazda,RX-8,2010,Denso Corporation
+Japan,Mazda,Verisa,2010,Denso Corporation
+Japan,Mitsubishi,Delica D:5,2010,"Kyosan Denki Co., Ltd."
+Japan,Mitsubishi,Lancer Cargo,2010,"Kyosan Denki Co., Ltd."
+Japan,Mitsubishi,Lancer Evolution X,2010,"Kyosan Denki Co., Ltd."
+Japan,Mitsubishi,Outlander,2010,"Kyosan Denki Co., Ltd."
+Japan,Mitsubishi,Pajero,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Elgrand,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Fairlady Z,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Fuga,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Infiniti FX,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,GT-R,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,GT-R,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Murano,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Skyline,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Skyline Coupe,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Teana,2010,"Kyosan Denki Co., Ltd."
+Japan,Nissan,Teana,2010,"Nikki Co., Ltd."
+Europe,Opel,Astra (Germany),2010,Bosch (Robert Bosch GmbH)
+Europe,Opel,Meriva (Spain),2010,Bosch (Robert Bosch GmbH)
+Japan,Subaru,Stella,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Alto,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Alto Lapin,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Carry,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Escudo,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Every,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Every Wagon,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Jimny,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Jimny Sierra,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Kizashi,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,MR Wagon,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Palette,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Solio,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Swift,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,SX4,2010,Mitsubishi Electric Corporation
+Japan,Suzuki,Wagon R,2010,Mitsubishi Electric Corporation
+Japan,Toyota,4Runner,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,4Runner,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Allion,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Allion,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Alphard,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Auris,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Auris,2010,Denso Corporation
+Japan,Toyota,Auris,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,bB,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Belta,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Belta,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Blade,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Camry,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Century,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Coaster,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Coaster,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Crown,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Crown Athlete,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Crown Athlete,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Crown Hybrid,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Crown Hybrid,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Crown Majesta,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Crown RoyalSaloon,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Crown RoyalSaloon,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Dyna,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Lexus ES,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Estima,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Estima Hybrid,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,FJ Cruiser,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Lexus GS,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Lexus GS,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Lexus GX,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Lexus GX,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Harrier,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Harrier Hybrid,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Hiace,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Hiace,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,iQ,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Lexus IS,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Lexus IS,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Isis,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,ist,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,ist,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Land Cruiser,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Land Cruiser Prado,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Land Cruiser Prado,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Lexus LS,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Lexus LX,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Mark X,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Mark X Zio,2010,Denso Corporation
+Japan,Toyota,Mark X Zio,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Noah,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Passo,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Porte,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Porte,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Premio,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Premio,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Probox,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Probox,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Ractis,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Ractis,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Raum,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Raum,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,RAV4,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Regius Ace,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Regius Ace,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Rush,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Lexus SC430,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Sienta,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Sienta,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Succeed,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Scion tC,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Toyoace,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Vanguard,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Vitz,2010,"Aisan Industry Co., Ltd."
+Japan,Toyota,Vitz,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Voxy,2010,"Kyosan Denki Co., Ltd."
+Japan,Toyota,Wish,2010,"Kyosan Denki Co., Ltd."
+Europe,Audi,A4 (Germany),2009,Bosch (Robert Bosch GmbH)
+Europe,BMW,7 Series (Germany),2009,Winkelmann Powertrain Components GmbH & Co. KG
+Europe,Audi,A4 (Germany),2008,Bosch (Robert Bosch GmbH)
+Europe,Audi,A4 (Germany),2008,UFI Filters S.p.A.
+Europe,Citroen,C5 (France),2008,Bosch (Robert Bosch GmbH)
+Europe,Citroen,C5 (France),2008,Valeo Group
+China,Dongfeng Peugeot Citroen,Citroen Elysee (FF) (China),2008,Bosch (China) Investment Ltd.
+China,Dongfeng Peugeot Citroen,Citroen Elysee (FF) (China),2008,Valeo Group (China)
+Europe,Fiat,500 (Poland),2008,Bosch (Robert Bosch GmbH)
+Europe,Fiat,Bravo (Italy),2008,Bosch (Robert Bosch GmbH)
+Europe,Ford,Focus (Germany),2008,Cooper-Standard Holdings Inc.
+Europe,Peugeot,308 (France),2008,Bosch (Robert Bosch GmbH)
+Europe,Renault,Grand Modus (Spain),2008,Robert Bosch (France) S.A.S.
+ASEAN?India?Korea,Tata,Indica Vista (India),2008,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)
