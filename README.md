@@ -27,9 +27,9 @@
 
 This repository contains the final project for DSC202 - Data Management for Data Science.
 The objective of this project is to explore automotive components and supply chain analysis in MarkLines. We investigate the industry's structure and relationships by addressing three key questions:
-#### 1. Who are the key suppliers in the automotive industry (per product)?
-#### 2. Which companies compete in the same component markets? How similar are automakers in their supply relationships
-#### 3. Who are the dominant automakers, and how have their positions evolved over time?
+#### 1. Supply chain overview: Who are the primary suppliers for each product, and what is the structure of the key supply network?
+#### 2. Key suppliers: Who are the key autosuppliers, and how have their positions evolved over time?
+#### 3. Maker's similarity: Who are the dominant automakers, and how have their positions evolved over time?
 
 To answer these questions, we leverage PostgreSQL, Neo4j, and Python for data preprocessing, statistical analysis, and network visualization. Our analysis spans from 2015 to 2025, offering insights into supply chain trends and competitive dynamics.
 
