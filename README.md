@@ -40,41 +40,47 @@ This repository utilizes datasets from MarkLines, focusing on supply relationshi
 * Processed data: Stored in the `dataset/preprocessed_data` directory.
 
 ### Data Processing Steps
-1. Combining Datasets & Assigning Trading Volumes
+1. Combine Datasets & Assign Trading Volumes
 * All CSV files are merged, and trading volumes are randomly assigned in Python for further analysis.
 * Script: `preprocessing/combine.py`
-2. Standardizing Regions, Calculating Yearly Trading Volumes, and Combine Supply Group Data
-* The process regularizes region values, computes yearly trading volumes, and combine the supply group data from the `supplier.csv` at both the model and maker levels.
-* Scripts: `preprocessing/country.sql` & `preprocessing/groupby_model_new.sql` & `preprocessing/groupby_maker_new.sql`
+2. Standardize Regions, Calculate Yearly Trading Volumes, and Combine Supply Group Data
+* The process regularizes model region data with the formatted country data. Output is stored in `preprocessing/combined_preprocessed.csv`.
+* Scripts: `preprocessing/country.sql` & `preprocessing/combined_preprocessed.sql`
+3. Extract parent company / supplier group data from supplier data
+* Take supplier group name from supply group data for further analysis. Output is stored in `preprocessing/supplier.csv`.
+* Script: `?????`
 
 ### Processed Data Outputs
-* `groupby_model_new.csv` – Supply relationship dataset grouped by model
-* `groupby_maker_new.csv` – Supply relationship dataset grouped by maker
+* `combined_preprocessed.csv` – Supply dataset with region, maker, model, model year, supplier, product, yearly volume conlums.
+* `supplier.csv` – Supplier and the respective group's name.
 
 ## 📖 Methodology <a name="methodology"></a>
 
 The following are the example results in answering the questions.
-#### 1. Who are the key suppliers in the automotive industry (per product)?
+#### 1. Supply chain overview: Who are the primary suppliers for each product, and what is the structure of the key supply network?
 
-#### (a) Supply Relationship Frequency Analysis
-This method identifies the top three suppliers for each automotive component based on the number of supply relationships:
+#### (a) Total trading volume analysis
+This approach identifies market leaders based on 5-year aggregated trading volume using the following files:
+* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
+* Analysis Script: `Analysis/Supply-chain-overview/groupby_supplier-group.sql`
 
-* Data Processing: We categorized supply relationships into 5-year intervals (2005-2010, 2011-2015, 2016-2020, 2021-2025) using PostgreSQL to enhance temporal pattern recognition
-* Supplier Ranking: We identified the most connected suppliers for each component category across time periods using Neo4j graph analysis
+#### Implementation:a
+1. Use `combined_preprocessed.csv`, join supplier group data from `supplier.csv`, and categorize years into 5-year intervals (2005-2010, 2011-2015, 2016-2020, 2021-2025)
+2. Follow `groupby_supplier-group.sql` to categorize years into 5-year intervals, aggregate trading volumes, and get the top 5 suppliers in each product
+
+#### (b) Key Supply Network Analysis
+This method identifies the top suppliers for each automotive component based on the number of supply relationships. In this example, we extract the top 3 suppliers in 'transmission shaft' using the following files:
+* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
+* Analysis Scripts:
+    * `Analysis/Supply-chain-overview/groupby_maker.sql`
+    * `Analysis/Supply-chain-overview/top_3_transmission_shaft.cypher`
 
 #### Implementation:
-* Dataset: groupby_maker_new.csv
-* Analysis Scripts (execute in sequence):
-    * `groupby_maker_year_range.sql`
-    * `key_supplier (automated_manual_transmission).cypher`
+1. Follow the `groupby_maker.sql` to categorize supply relationships into 5-year intervals
+2. Supplier Ranking: We identified the most connected suppliers for each component category across time periods using Neo4j graph analysis
 
-#### (b) Annual trading volume analysis to determine leading suppliers
-This approach identifies market leaders based on annual trading volume:
-* Volume Calculation: We aggregated annual trading volumes for each supplier-component combination using PostgreSQL
 
-#### Implementation:
-* Dataset: `groupby_maker_new.csv`
-* Analysis Script: `groupby_maker_annual_volume.sql`
+
 
 #### 2. Which companies compete in the same component markets? How similar are automakers in their supply relationships
 
