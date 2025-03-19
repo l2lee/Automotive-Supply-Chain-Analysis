@@ -13,6 +13,9 @@
     <br> 
 </p>
 
+## Presentation Recording
+Our presentation can be found here: link
+
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
