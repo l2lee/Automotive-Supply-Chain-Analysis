@@ -41,7 +41,7 @@ This repository utilizes datasets from MarkLines, focusing on supply relationshi
 
 ### Data Processing Steps
 1. Combine Datasets & Assign Trading Volumes
-* All CSV files are merged, and trading volumes are randomly assigned in Python for further analysis.
+* All CSV files are merged, and trading volumes are randomly generate from Uniform distribution U(100, 1000) in Python for further analysis.
 * Script: `preprocessing/combine.py`
 2. Standardize Regions, Calculate Yearly Trading Volumes, and Combine Supply Group Data
 * The process regularizes model region data with the formatted country data. Output is stored in `preprocessing/combined_preprocessed.csv`.
@@ -51,8 +51,8 @@ This repository utilizes datasets from MarkLines, focusing on supply relationshi
 * Script: `?????`
 
 ### Processed Data Outputs
-* `combined_preprocessed.csv` – Supply dataset with region, maker, model, model year, supplier, product, yearly volume conlums.
-* `supplier.csv` – Supplier and the respective group's name.
+* `preprocessing/combined_preprocessed.csv` – Supply dataset with region, maker, model, model year, supplier, product, yearly volume conlums.
+* `preprocessing/supplier.csv` – Supplier and the respective group's name.
 
 ## 📖 Methodology <a name="methodology"></a>
 
@@ -60,45 +60,49 @@ The following are the example results in answering the questions.
 #### 1. Supply chain overview: Who are the primary suppliers for each product, and what is the structure of the key supply network?
 
 #### (a) Total trading volume analysis
-This approach identifies market leaders based on 5-year aggregated trading volume using the following files:
-* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
-* Analysis Script: `Analysis/Supply-chain-overview/groupby_supplier-group.sql`
+This approach identifies the top 5 suppliers based on 5-year aggregated trading volume.
 
-#### Implementation:
-1. Use `combined_preprocessed.csv`, join supplier group data from `supplier.csv`, and categorize years into 5-year intervals (2005-2010, 2011-2015, 2016-2020, 2021-2025)
-2. Follow `groupby_supplier-group.sql` to categorize years into 5-year intervals, aggregate trading volumes, and get the top 5 suppliers in each product
+#### Data Location
+* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
+* Analysis Script: `Analysis/Supply-chain-overview/groupby_supplier-group_year_range.sql`
+
+#### Implementation
+1. Import all datasets into PostgreSQL
+2. Follow `groupby_supplier-group_year_range.sql` to conduct the following analysis:
+   * Combine combined_preprocessed with supplier_group data
+   * Categorize years into 5-year intervals (2005-2010, 2011-2015, 2016-2020, 2021-2025)
+   * Aggregate trading volumes
+   * Get the top 5 suppliers in each product
+
+#### Outputs
+* `Analysis/Supply-chain-overview/groupby_supplier-group_year_range.csv` – Top 5 suppliers in each product category in a given year range
 
 #### (b) Key Supply Network Analysis
 This method identifies the top suppliers for each automotive component based on **the number of trade count**, or **the total trading volume**.
-In this example, we extract the top 3 suppliers in 'transmission shaft' using the following files:
+In this example, we extract the top 3 suppliers in 'transmission shaft' and visualize the key supply network over time.
+
+#### Data Location
 * Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
 * Analysis Scripts:
     * `Analysis/Supply-chain-overview/groupby_maker.sql`
     * `Analysis/Supply-chain-overview/top_3_transmission_shaft.cypher`
 
-#### Implementation:
-1. Follow the `groupby_maker.sql` to categorize supply relationships into 5-year intervals
-2. Implement the first part of `top_3_transmission_shaft.cypher` to load csv into Neo4j as follows:
-```cypher
-LOAD CSV WITH HEADERS FROM 'file:///groupby_maker.csv' AS row
-MERGE (m:Maker {name: row.maker})
-MERGE (s:Supplier {name: row.supplier_group})
-MERGE (p:Product {name: row.product})
-MERGE (m)-[r:SUPPLIES {year_range: row.year_range, trade_year_cnt: toInteger(row.trade_year_cnt), total_volume: toInteger(row.total_volume)}]->(s)
-ON CREATE SET r.product = row.product;
-```
-3. Extract top 3 suppliers
-
-    3-1. If based on **the number of trade count**, implement part (a) or (b) to:
-    * Merge nodes and edges
-    * Set the supply product information in the edges
-    * Specify certain products
-    * Aggregate the trade count to find the top 3 suppliers
-    * Match the edges back
+#### Implementation
+1. Import all datasets in PostgreSQL
+2. Follow the `groupby_maker.sql` to process the data in the following steps:
+   * Aggregate the annual volume in combined_preprocess
+   * Combine data with supplier_group data
+   * Categorize years into 5-year intervals (2005-2010, 2011-2015, 2016-2020, 2021-2025)
+   * Aggregate trade count as trade_year_cnt and trading volumes as total_volume
+3. Implement `top_3_transmission_shaft.cypher` to generate the visualization in the following steps:
+    * Load the groupby_maker table we just created in PostgreSQL into Neo4j
+    * Merge nodes and edges, set the supply product information in the edges
+    * Keep product type = 'transmission_shaft'
+    * Aggregate the trade_year_cnt (or total_volume) to find the top 3 suppliers
     * Create virtual edges
-    * Return the nodes of top 3 suppliers, makers, and the respective edges
+    * Return makers, top 3 suppliers, and the edges
 
-    3-2. Similarly, if based on **the total trading volume**, implement part (c) to aggregate the total volume instead.
+Noted that you can either select the top 3 suppliers based on trade_year_cnt or total_volume. You should implement the corresponding cypher code in the file. 
 
 #### 2. Which companies compete in the same component markets? How similar are automakers in their supply relationships
 
@@ -107,13 +111,10 @@ ON CREATE SET r.product = row.product;
 
 ## 📖 Demonstration <a name="demonstration"></a>
 
-### 1. Key suppliers
+### 1. Supply chain overview
 #### (a) Total Trading Volume Analysis
-The final output consists of the top five suppliers in each of the automotive component each year range based on annual supply volume.
-A screenshot of the data is as follow, full data could be found in `groupby_supplier-group.csv`
-<p align="center">
-<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/Analysis/Key%20Supplier/key_supplier_annual_volume.png">
-</p>
+The final output consists of the top 5 suppliers in each of the automotive component each year range based on the trading volume.
+Full data could be found in `groupby_supplier-group.csv`
 
 ### (b) Key Supply Network Analysis
 The following is the example result of our analysis, which shows the top 3 suppliers in 'transmission_shaft' across different time frames:
