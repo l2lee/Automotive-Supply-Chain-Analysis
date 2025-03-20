@@ -127,7 +127,7 @@ The following is the example result of our analysis, which shows the top 3 suppl
 * Edge colors differentiate supply relationships across different time frames, with red (2005-2010), yellow (2011-2015), green (2016-2020), blue (2021-2025).
 
 <p align="center">
-<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/Analysis/Supply-chain-overview/top_3_year_trade_cnt_transmission_shaft_1.png" width="70%">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/analysis/Supply-Chain-Overview/top_3_year_trade_cnt_transmission_shaft_1.png" width="70%">
 </p>
 
 Similarly, the following show the same supply network in 'transmission_shaft', with only the size of edge is changing to show the different count of supply record:
@@ -136,7 +136,7 @@ Similarly, the following show the same supply network in 'transmission_shaft', w
 * Edges indicate that there is a "SUPPLIES_TO" relationship, where a supplier provides a specific automotive component to an automaker in the given year range.
 * Edge width represents the frequency of supply within the given year range, on a scale from 1 to 5. A value of 1 indicates that the supply occurred in only one year, while a value of 5 means the supply was continuous throughout the entire year range.
 <p align="center">
-<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/Analysis/Supply-chain-overview/top_3_year_trade_cnt_transmission_shaft_2.png" width="70%">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/analysis/Supply-Chain-Overview/top_3_year_trade_cnt_transmission_shaft_2.png" width="70%">
 </p>
 
 On the other hand, we also use the total trading volume to extract the top 3 suppliers in 'transmission_shaft'.\:
@@ -145,7 +145,7 @@ On the other hand, we also use the total trading volume to extract the top 3 sup
 * Edges indicate that there is a "SUPPLIES_TO" relationship, where a supplier provides a specific automotive component to an automaker in the given year range.
 * Edge colors differentiate supply relationships across different time frames, with red (2005-2010), yellow (2011-2015), green (2016-2020), blue (2021-2025).
 <p align="center">
-<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/Analysis/Supply-chain-overview/top_3_total_volume_transmission_shaft.png" width="70%">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/analysis/Supply-Chain-Overview/top_3_total_volume_transmission_shaft.png" width="70%">
 </p>
 
 The network visualization highlights a significant transformation in the automotive supplier ecosystem from 2005 to the landscape of 2025.
