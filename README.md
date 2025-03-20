@@ -67,7 +67,7 @@ This approach identifies the top 5 suppliers based on 5-year aggregated trading 
 
 #### Data Location
 * Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
-* Analysis Script: `Analysis/Supply-chain-overview/groupby_supplier-group_year_range.sql`
+* Analysis Script: `analysis/Supply-chain-overview/groupby_supplier-group.sql`
 
 #### Implementation
 1. Import all datasets into PostgreSQL
@@ -78,7 +78,7 @@ This approach identifies the top 5 suppliers based on 5-year aggregated trading 
    * Get the top 5 suppliers in each product
 
 #### Outputs
-* `Analysis/Supply-chain-overview/groupby_supplier-group_year_range.csv` – Top 5 suppliers in each product category in a given year range
+* `analysis/Supply-chain-overview/groupby_supplier-group.csv` – Top 5 suppliers in each product category in a given year range
 
 #### (b) Key Supply Network Analysis
 This method identifies the top suppliers for each automotive component based on **the number of trade count**, or **the total trading volume**.
@@ -87,8 +87,8 @@ In this example, we extract the top 3 suppliers in 'transmission shaft' and visu
 #### Data Location
 * Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
 * Analysis Scripts:
-    * `Analysis/Supply-chain-overview/groupby_maker.sql`
-    * `Analysis/Supply-chain-overview/top_3_transmission_shaft.cypher`
+    * `analysis/Supply-chain-overview/groupby_maker.sql`
+    * `analysis/Supply-chain-overview/top_3_transmission_shaft.cypher`
 
 #### Implementation
 1. Import all datasets in PostgreSQL
