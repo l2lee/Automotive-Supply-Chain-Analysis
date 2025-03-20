@@ -14,7 +14,7 @@
 </p>
 
 ## Presentation Recording
-Our presentation can be found here: [link](https://www.youtube.com/watch?v=J7cBdm22pNc)
+Our presentation video can be found [here!](https://www.youtube.com/watch?v=J7cBdm22pNc)
 
 ## 📝 Table of Contents
 
