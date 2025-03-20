@@ -119,7 +119,7 @@ Noted that you can either select the top 3 suppliers based on trade_year_cnt or 
 The final output consists of the top 5 suppliers in each of the automotive component each year range based on the trading volume.
 Full data could be found in `groupby_supplier-group.csv`
 
-### (b) Key Supply Network Analysis
+#### (b) Key Supply Network Analysis
 The following is the example result of our analysis, which shows the top 3 suppliers in 'transmission_shaft' across different time frames:
 * Green nodes represent automakers, which corresponds to the 'maker' data in csv.
 * Brown nodes represent suppliers, which corresponds to the 'supplier_group' data in csv.
@@ -147,15 +147,6 @@ On the other hand, we also use the total trading volume to extract the top 3 sup
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/analysis/Supply-Chain-Overview/top_3_total_volume_transmission_shaft.png" width="70%">
 </p>
-
-The network visualization highlights a significant transformation in the automotive supplier ecosystem from 2005 to the landscape of 2025.
-
-* Early Period (2005–2010): Neumay dominated the transmission shaft market, primarily supplying European manufacturers.
-* Transition Period (2011–2015): Bosch expanded its presence by establishing relationships with Chinese automakers such as SAIC, Dongfeng, and BAIC, while Qianchao Sunway Co., Ltd. developed connections with joint ventures like SAIC Volkswagen and FAW-Volkswagen.
-* Mature Period (2016–2020): SKF emerged as a key hub, forming extensive connections with manufacturers in the United States and Japan.
-* Recent Period (2021–2025): Japanese supplier Aichi has strengthened its relationships with domestic manufacturers, including Toyota and Mitsubishi, indicating a shift toward more specialized Asian supplier networks.
-
-This analysis reveals a clear geographic shift in the transmission shaft supply chain over time. The transition from Neumay to SKF reflects manufacturers’ evolving sourcing strategies and efforts to diversify trading relationships, particularly for North American brands. Initially, European suppliers primarily served European manufacturers. Over time, Chinese joint ventures integrated into the supply chain, and in recent years, Japanese suppliers have entered the market, competing with dominant players over Asian automakers.
 
 ### 2. Maker's similarity
 
