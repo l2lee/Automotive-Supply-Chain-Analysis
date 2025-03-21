@@ -10,7 +10,7 @@
 ---
 
 <p align="center"> Final project of DSC202 - Data Management for Data Science (2025 WINTER)
-    <br> 
+    <br>
 </p>
 
 ## Presentation Recording & Report
@@ -106,7 +106,7 @@ In this example, we extract the top 3 suppliers in 'transmission shaft' and visu
     * Create virtual edges
     * Return makers, top 3 suppliers, and the edges
 
-Noted that you can either select the top 3 suppliers based on trade_year_cnt or total_volume. You should implement the corresponding cypher code in the file. 
+Noted that you can either select the top 3 suppliers based on trade_year_cnt or total_volume. You should implement the corresponding cypher code in the file.
 
 #### Outputs
 * `result/Supply-chain-overview/top_3_year_trade_cnt_transmission_shaft_1.png` – Top 3 suppliers based on trade_year_cnt in 'transmission shaft' in a given year range
@@ -159,7 +159,7 @@ As Bosch and ZF emerged as two of the strongest performers over time, we further
 #### Implementation
 1. Follow the `Case Study.sql` to process the data in the following steps:
    * Applied a CASE statement to align model regions with broader maker region segments for consistency in regional analysis
-2. For Bosch’s Changes in Maker Regional Distribution: 
+2. For Bosch’s Changes in Maker Regional Distribution:
    * Paste the results after running `Case Study.sql`
    * Filter the parent_company with `Bosch`
    * Select `region` as column, `model_year` as row and `share` as value to visualze the results in Excel.
@@ -171,7 +171,7 @@ As Bosch and ZF emerged as two of the strongest performers over time, we further
    * Paste the results after running `Case Study.sql`
    * Filter the parent_company with `Bosch`
    * Select `product` as column, `model_year` as row and `share` as value to visualze the results in Excel.
-5. For ZF’s Changes in Maker Regional Distribution: 
+5. For ZF’s Changes in Maker Regional Distribution:
    * Paste the results after running `Case Study.sql`
    * Filter the parent_company with `ZF`
    * Select `region` as column, `model_year` as row and `share` as value to visualze the results in Excel.
@@ -209,7 +209,28 @@ In this section, we analyze the competitiveness of different automotive componen
 #### Implementation
 1. Run the `Component Competition Analysis.sql` to gain the data of Component Competition Analysis
 
-#### 3. Which companies compete in the same component markets? How similar are automakers in their supply relationships
+#### 3. Maker Analysis
+##### Data Location
+* Dataset: `preprocessing/combined_preprocessed.csv`
+
+##### Steps to reproduce:
+###### Loading data:
+1. Make sure you have `preprocessing/combined_preprocessed.csv` in the folder of the Neo4j server.
+2. Use `analysis/Maker-Analysis/load_data.cypher` to load the data into create the graphical databse.
+   * Note that we recommend changing the following in order to fit the data within a single query:
+     * `server.memory.heap.initial_size=16G`
+     * `server.memory.heap.max_size=16G`
+     * `dbms.memory.transaction.total.max=12G`
+   * The graph contains 16941 nodes and 49993 edges.
+###### Global Jaccard Analysis
+1. Run `analysis/Maker-Analysis/calc_global_jaccard.cypher`
+###### Product-level Jaccard Analysi
+1. Run `analysis/Maker-Analysis/calc_product_jaccard.cypher`
+###### Weighted Jaccard
+1. From the outputs of the previous step save the CSV from Neo4j into the same directory of the notebook
+2. Run `analysis/Maker-Analysis/weighted_sum_analysis.ipynb`, changing the name of the CSV if necessary
+3. There is a sample provided looking at the similarities between Nissan and Toyota
+4. There is a function `maker_weighted_sim(df, maker_1, maker_2, weights)`, with sample calls shown in the notebook
 
 ## 📖 Demonstration <a name="demonstration"></a>
 
