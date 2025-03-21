@@ -271,21 +271,21 @@ In addition, we also use the total trading volume to extract the top 3 suppliers
 ### 2. Time series analysis
 #### (a) 2025 Top 10 Automotive Suppliers
 * Identify 2025 Top 10 Suppliers
-  From the results, we observed:
-– Bosch leads the market, contributing nearly a quarter of the total supply chain.
-– Faurecia and FinDreams demonstrate significant YoY growth, nearly tripling their sales from the previous year.
+      From the results, we observed:
+        – Bosch leads the market, contributing nearly a quarter of the total supply chain.
+        – Faurecia and FinDreams demonstrate significant YoY growth, nearly tripling their sales from the previous year.
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Identify 2025 Top 10 Suppliers.png" width="70%">
 </p>
 
 * Drivers Behind Faurecia’s and FinDreams’s High YoY Growth
-  A closer examination of Faurecia and FinDreams reveals that their impressive YoY growth in 2025 is largely driven by strong collaborations with Chinese and Indian manufacturers.
+      A closer examination of Faurecia and FinDreams reveals that their impressive YoY growth in 2025 is largely driven by strong collaborations with Chinese and Indian manufacturers.
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Supplier Collaborations by Region and Product.png" width="70%">
 </p>
 
 * Market Share Trends
-  The chart reveals key trends in supplier market share over time.
+      The chart reveals key trends in supplier market share over time.
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Market Share Trends.png" width="70%">
 </p>
