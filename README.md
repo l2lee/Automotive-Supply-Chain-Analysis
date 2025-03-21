@@ -131,7 +131,7 @@ The following is the example result of our analysis, which shows the top 3 suppl
 * Edge colors differentiate supply relationships across different time frames, with red (2005-2010), yellow (2011-2015), green (2016-2020), blue (2021-2025).
 
 <p align="center">
-<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/analysis/Supply-Chain-Overview/top_3_year_trade_cnt_transmission_shaft_1.png" width="70%">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Supply-Chain-Overview/top_3_year_trade_cnt_transmission_shaft_1.png" width="70%">
 </p>
 
 Similarly, the following show the same supply network in 'transmission_shaft', with only the size of edge is changing to show the different count of supply record:
