@@ -31,8 +31,8 @@ Our presentation video can be found [here!](https://www.youtube.com/watch?v=J7cB
 This repository contains the final project for DSC202 - Data Management for Data Science.
 The objective of this project is to explore automotive components and supply chain analysis in MarkLines. We investigate the industry's structure and relationships by addressing three key questions:
 #### 1. Supply chain overview: Who are the primary suppliers for each product, and what is the structure of the key supply network?
-#### 2. Key suppliers: Who are the key autosuppliers, and how have their positions evolved over time?
-#### 3. Maker's similarity: Who are the dominant automakers, and how have their positions evolved over time?
+#### 2. Time series analysis: Who are the key autosuppliers, and how have their positions evolved over time?
+#### 3. Maker's similarity: How can we quantify similarity of makers? How similar are automakers in their supply relationships?
 
 To answer these questions, we leverage PostgreSQL, Neo4j, and Python for data preprocessing, statistical analysis, and network visualization. Our analysis spans from 2005 to 2025, offering insights into supply chain trends and competitive dynamics.
 
@@ -59,7 +59,7 @@ This repository utilizes datasets from MarkLines, focusing on supply relationshi
 ## 📖 Methodology <a name="methodology"></a>
 
 The following are the example results in answering the questions.
-#### 1. Supply chain overview: Who are the primary suppliers for each product, and what is the structure of the key supply network?
+#### 1. Supply chain overview
 
 #### (a) Total trading volume analysis
 This approach identifies the top 5 suppliers based on 5-year aggregated trading volume.
@@ -76,7 +76,7 @@ This approach identifies the top 5 suppliers based on 5-year aggregated trading 
    * Aggregate trading volumes
    * Get the top 5 suppliers in each product
 
-#### Outputs
+#### Output
 * `result/Supply-chain-overview/groupby_supplier-group.csv` – Top 5 suppliers in each product category in a given year range
 
 #### (b) Key Supply Network Analysis
@@ -111,7 +111,7 @@ Noted that you can either select the top 3 suppliers based on trade_year_cnt or 
 * `result/Supply-chain-overview/top_3_year_trade_cnt_transmission_shaft_2.png` – Top 3 suppliers based on trade_year_cnt  in 'transmission shaft' in a given year range
 * `result/Supply-chain-overview/top_3_total_volume_transmission_shaft.png` – Top 3 suppliers based on total_volume  in 'transmission shaft' in a given year range
 
-#### 2. Who are the dominant automakers, and how have their positions evolved over time?
+#### 2. Time series analysis
 
 #### (a) 2025 Top 10 Automotive Suppliers
 Our primary goal here is to examine the trend among the top 10 automotive suppliers in 2025.
@@ -228,7 +228,7 @@ In addition, we also use the total trading volume to extract the top 3 suppliers
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Supply-Chain-Overview/top_3_total_volume_transmission_shaft.png" width="70%">
 </p>
 
-### 2. Dominant automakers
+### 2. Time series analysis
 
 
 
