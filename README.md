@@ -277,42 +277,51 @@ In addition, we also use the total trading volume to extract the top 3 suppliers
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Identify 2025 Top 10 Suppliers.png" width="70%">
 </p>
+
 * Drivers Behind Faurecia’s and FinDreams’s High YoY Growth
   A closer examination of Faurecia and FinDreams reveals that their impressive YoY growth in 2025 is largely driven by strong collaborations with Chinese and Indian manufacturers.
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Supplier Collaborations by Region and Product.png" width="70%">
 </p>
+
 * Market Share Trends
   The chart reveals key trends in supplier market share over time.
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Market Share Trends.png" width="70%">
 </p>
+
 #### (b) Supplier-Automaker Collaborations
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Average Maker Amount.png" width="70%">
 </p>
 
 #### (c) Case Study: Bosch & ZF
+
 * Bosch’s Changes in Maker Regional Distribution
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Bosch’s Changes in Maker Regional Distribution.png" width="70%">
 </p>
+
 * Bosch’s Changes in Model Regional Distribution
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Bosch’s Changes in Model Regional Distribution.png" width="70%">
 </p>
+
 * Bosch’s Changes in Product Focus
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Bosch’s Changes in Product Focus.png" width="70%">
 </p>
+
 * ZF’s Changes in Maker Regional Distribution
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/ZF’s Changes in Maker Regional Distribution.png" width="70%">
 </p>
+
 * ZF’s Changes in Model Regional Distribution
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/ZF’s Changes in Model Regional Distribution.png" width="70%">
 </p>
+
 * ZF’s Changes in Product Focus
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/ZF’s Changes in Product Focus.png" width="70%">
