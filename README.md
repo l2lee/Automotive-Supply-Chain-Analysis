@@ -275,7 +275,7 @@ In addition, we also use the total trading volume to extract the top 3 suppliers
 – Bosch leads the market, contributing nearly a quarter of the total supply chain.
 – Faurecia and FinDreams demonstrate significant YoY growth, nearly tripling their sales from the previous year.
 <p align="center">
-<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Identify 2025 Top 10 Suppliers.png.png" width="70%">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Identify 2025 Top 10 Suppliers.png" width="70%">
 </p>
 * Drivers Behind Faurecia’s and FinDreams’s High YoY Growth
   A closer examination of Faurecia and FinDreams reveals that their impressive YoY growth in 2025 is largely driven by strong collaborations with Chinese and Indian manufacturers.
