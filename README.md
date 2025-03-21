@@ -13,8 +13,10 @@
     <br> 
 </p>
 
-## Presentation Recording
-Our presentation video can be found [here!](https://www.youtube.com/watch?v=J7cBdm22pNc)
+## Presentation Recording & Report
+* Our presentation video can be found [here!](https://www.youtube.com/watch?v=J7cBdm22pNc)
+* Slides can be found in `introduction/Presentation_Automotive Supply Chain Analysis.pdf`
+* Full report can also be found in `introduction/???`
 
 ## 📝 Table of Contents
 
