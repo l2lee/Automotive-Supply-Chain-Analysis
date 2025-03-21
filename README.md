@@ -184,13 +184,30 @@ As Bosch and ZF emerged as two of the strongest performers over time, we further
    * Filter the parent_company with `ZF`
    * Select `product` as column, `model_year` as row and `share` as value to visualze the results in Excel.
 
-#### (d) Top 3 suppliers in each product category
-In this section, we further analyze the dominant suppliers in each product category by identifying those that consistently rank among the top 3 over multiple years.
+#### (d) Top 3 Suppliers in Each Product Category
+This approach provides a clearer view of sustained market presence rather than volatile year-over-year fluctuations.
 
 #### Data Location
 * Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
 * Analysis Scripts:
     * `analysis/Time-Series-Analysis/Top 3 Suppliers in Each Product Category.sql`
+
+#### Implementation
+1. Follow the `Top 3 Suppliers in Each Product Category.sql` to process the data in the following steps:
+   * Rank Suppliers by Product and Year
+   * Identify Consistently High-Ranking Suppliers
+   * Rank Suppliers by Market Presence
+
+#### (e) Component Competition Analysis
+In this section, we analyze the competitiveness of different automotive components by examining the number of suppliers for each product category over time.
+
+#### Data Location
+* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
+* Analysis Scripts:
+    * `analysis/Time-Series-Analysis/Component Competition Analysis.sql`
+
+#### Implementation
+1. Run the `Component Competition Analysis.sql` to gain the data of Component Competition Analysis
 
 #### 3. Which companies compete in the same component markets? How similar are automakers in their supply relationships
 
