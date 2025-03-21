@@ -50,7 +50,7 @@ This repository utilizes datasets from MarkLines, focusing on supply relationshi
 * Scripts: `preprocessing/country.sql` & `preprocessing/combined_preprocessed.sql`
 3. Extract parent company / supplier group data from supplier data
 * Take supplier group name from supply group data for further analysis. Output is stored in `preprocessing/supplier.csv`.
-* Script: `?????`
+* Script: `preprocessing/supplier.sql`
 
 ### Processed Data Outputs
 * `preprocessed_data/combined_preprocessed.csv` – Supply dataset with region, maker, model, model year, supplier, product, yearly volume conlums.
@@ -111,10 +111,32 @@ Noted that you can either select the top 3 suppliers based on trade_year_cnt or 
 * `result/Supply-chain-overview/top_3_year_trade_cnt_transmission_shaft_2.png` – Top 3 suppliers based on trade_year_cnt  in 'transmission shaft' in a given year range
 * `result/Supply-chain-overview/top_3_total_volume_transmission_shaft.png` – Top 3 suppliers based on total_volume  in 'transmission shaft' in a given year range
 
-#### 2. Which companies compete in the same component markets? How similar are automakers in their supply relationships
+#### 2. Who are the dominant automakers, and how have their positions evolved over time?
+
+#### (a) 2025 Top 10 Automotive Suppliers
+Our primary goal is to examine the trend among the top 10 automotive suppliers in 2025. To
+achieve this, we first structure a query to identify 2025 top 10 suppliers:
+
+#### Data Location
+* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
+* Analysis Scripts:
+    * `analysis/Time-Series-Analysis/Identify 2025 Top 10 Suppliers.sql`
+    * `analysis/Time-Series-Analysis/Market Share Trends of 2025’s Top 10 Suppliers Over Time.sql`
+
+#### Implementation
+1. Import all datasets in PostgreSQL
+2. Follow the `Identify 2025 Top 10 Suppliers.sql` to process the data in the following steps:
+   * Rank suppliers by annual sales volume using a window function.
+   * Calculate year-over-year (YoY) changes by linking each supplier’s data to the previous year.
+   * Filter the top 10 suppliers in 2025 to focus on dominant market players.
+3. 
+4. Implement `Market Share Trends of 2025’s Top 10 Suppliers Over Time` to generate the visualization in the following steps:
+   * 
+#### (b) Supplier-Automaker Collaborations
 
 
-#### 3. Who are the dominant automakers, and how have their positions evolved over time?
+
+#### 3. Which companies compete in the same component markets? How similar are automakers in their supply relationships
 
 ## 📖 Demonstration <a name="demonstration"></a>
 
@@ -152,9 +174,11 @@ In addition, we also use the total trading volume to extract the top 3 suppliers
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Supply-Chain-Overview/top_3_total_volume_transmission_shaft.png" width="70%">
 </p>
 
-### 2. Maker's similarity
+### 2. Dominant automakers
 
-### 3. Dominant automakers
+
+
+### 3. Maker's similarity
 
 
 ## ✍️ Authors <a name="authors"></a>
