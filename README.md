@@ -24,7 +24,7 @@ Our presentation video can be found [here!](https://www.youtube.com/watch?v=J7cB
 - [📖 Methodology ](#-methodology-)
 - [✨ Demostration ](#-demonstration-)
 - [✍️ Authors ](#️-authors-)
-- [✨ Reference ](#-reference-)
+- [🌐 Reference ](#-reference-)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -163,5 +163,5 @@ In addition, we also use the total trading volume to extract the top 3 suppliers
 - [@Jeanhsu0707](https://github.com/Jeanhsu0707) - Hua Jin Hsu
 
 
-## ✨ Reference <a name="reference"></a>
+## 🌐 Reference <a name="reference"></a>
 - [MarkLines](https://www.marklines.com/en/)
