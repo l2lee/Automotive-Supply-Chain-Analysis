@@ -114,8 +114,7 @@ Noted that you can either select the top 3 suppliers based on trade_year_cnt or 
 #### 2. Who are the dominant automakers, and how have their positions evolved over time?
 
 #### (a) 2025 Top 10 Automotive Suppliers
-Our primary goal is to examine the trend among the top 10 automotive suppliers in 2025. To
-achieve this, we first structure a query to identify 2025 top 10 suppliers:
+Our primary goal here is to examine the trend among the top 10 automotive suppliers in 2025.
 
 #### Data Location
 * Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
@@ -124,17 +123,72 @@ achieve this, we first structure a query to identify 2025 top 10 suppliers:
     * `analysis/Time-Series-Analysis/Market Share Trends of 2025’s Top 10 Suppliers Over Time.sql`
 
 #### Implementation
-1. Import all datasets in PostgreSQL
-2. Follow the `Identify 2025 Top 10 Suppliers.sql` to process the data in the following steps:
+1. Follow the `Identify 2025 Top 10 Suppliers.sql` to process the data in the following steps:
    * Rank suppliers by annual sales volume using a window function.
    * Calculate year-over-year (YoY) changes by linking each supplier’s data to the previous year.
    * Filter the top 10 suppliers in 2025 to focus on dominant market players.
-3. 
-4. Implement `Market Share Trends of 2025’s Top 10 Suppliers Over Time` to generate the visualization in the following steps:
-   * 
+2. Run the `Supplier Collaborations by Region and Product.sql` to gain closer examination of Faurecia and FinDreams
+3. Implement `Market Share Trends of 2025’s Top 10 Suppliers Over Time` to generate the data of Market Share Trends
+
+
 #### (b) Supplier-Automaker Collaborations
+We want to explore which companies collaborate with the most different automakers, and we analyze the number of distinct makers each supplier works with annually to see the companies that have the widest range of automaker partnerships.
 
+#### Data Location
+* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
+* Analysis Scripts:
+    * `analysis/Time-Series-Analysis/Average Maker Amount.sql`
 
+#### Implementation
+1. Follow the `Average Maker Amount.sql` to process the data in the following steps:
+   * Count Distinct Automakers per Year
+   * Calculate the Average Maker Count per Supplier
+   * Group by Parent Company for clearer analysis
+   * Rank the Top 10 Suppliers with the widest automaker partnerships.
+
+#### (c) Case Study: Bosch & ZF
+As Bosch and ZF emerged as two of the strongest performers over time, we further analyzed their regional distribution and product focus trends to gain deeper insights into their market strategies.
+
+#### Data Location
+* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
+* Analysis Scripts:
+    * `analysis/Time-Series-Analysis/Case Study.sql`
+
+#### Implementation
+1. Follow the `Case Study.sql` to process the data in the following steps:
+   * Applied a CASE statement to align model regions with broader maker region segments for consistency in regional analysis
+2. For Bosch’s Changes in Maker Regional Distribution: 
+   * Paste the results after running `Case Study.sql`
+   * Filter the parent_company with `Bosch`
+   * Select `region` as column, `model_year` as row and `share` as value to visualze the results in Excel.
+3. For Bosch’s Changes in Model Regional Distribution:
+   * Paste the results after running `Case Study.sql`
+   * Filter the parent_company with `Bosch`
+   * Select `model_region` as column, `model_year` as row and `share` as value to visualze the results in Excel.
+4. For Bosch’s Changes in Product Focus:
+   * Paste the results after running `Case Study.sql`
+   * Filter the parent_company with `Bosch`
+   * Select `product` as column, `model_year` as row and `share` as value to visualze the results in Excel.
+5. For ZF’s Changes in Maker Regional Distribution: 
+   * Paste the results after running `Case Study.sql`
+   * Filter the parent_company with `ZF`
+   * Select `region` as column, `model_year` as row and `share` as value to visualze the results in Excel.
+6. For ZF’s Changes in Model Regional Distribution:
+   * Paste the results after running `Case Study.sql`
+   * Filter the parent_company with `ZF`
+   * Select `model_region` as column, `model_year` as row and `share` as value to visualze the results in Excel.
+7. For ZF’s Changes in Product Focus:
+   * Paste the results after running `Case Study.sql`
+   * Filter the parent_company with `ZF`
+   * Select `product` as column, `model_year` as row and `share` as value to visualze the results in Excel.
+
+#### (d) Top 3 suppliers in each product category
+In this section, we further analyze the dominant suppliers in each product category by identifying those that consistently rank among the top 3 over multiple years.
+
+#### Data Location
+* Dataset: `preprocessing/combined_preprocessed.csv`, `preprocessing/supplier.csv`
+* Analysis Scripts:
+    * `analysis/Time-Series-Analysis/Top 3 Suppliers in Each Product Category.sql`
 
 #### 3. Which companies compete in the same component markets? How similar are automakers in their supply relationships
 
