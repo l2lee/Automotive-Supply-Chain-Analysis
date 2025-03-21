@@ -34,7 +34,7 @@ The objective of this project is to explore automotive components and supply cha
 #### 2. Key suppliers: Who are the key autosuppliers, and how have their positions evolved over time?
 #### 3. Maker's similarity: Who are the dominant automakers, and how have their positions evolved over time?
 
-To answer these questions, we leverage PostgreSQL, Neo4j, and Python for data preprocessing, statistical analysis, and network visualization. Our analysis spans from 2015 to 2025, offering insights into supply chain trends and competitive dynamics.
+To answer these questions, we leverage PostgreSQL, Neo4j, and Python for data preprocessing, statistical analysis, and network visualization. Our analysis spans from 2005 to 2025, offering insights into supply chain trends and competitive dynamics.
 
 ## 📂 Datasets <a name="datasets"></a>
 This repository utilizes datasets from MarkLines, focusing on supply relationships among suppliers, automakers, and their respective models across various automotive components.
