@@ -40,7 +40,6 @@ To answer these questions, we leverage PostgreSQL, Neo4j, and Python for data pr
 This repository utilizes datasets from MarkLines, focusing on supply relationships among suppliers, automakers, and their respective models across various automotive components.
 ### Data Location
 * Raw data: Stored in the `dataset/raw_data` directory.
-* Processed data: Stored in the `dataset/preprocessed_data` directory.
 
 ### Data Processing Steps
 1. Combine Datasets & Assign Trading Volumes
@@ -54,8 +53,8 @@ This repository utilizes datasets from MarkLines, focusing on supply relationshi
 * Script: `?????`
 
 ### Processed Data Outputs
-* `preprocessing/combined_preprocessed.csv` – Supply dataset with region, maker, model, model year, supplier, product, yearly volume conlums.
-* `preprocessing/supplier.csv` – Supplier and the respective group's name.
+* `preprocessed_data/combined_preprocessed.csv` – Supply dataset with region, maker, model, model year, supplier, product, yearly volume conlums.
+* `preprocessed_data/supplier.csv` – Supplier and the respective group's name.
 
 ## 📖 Methodology <a name="methodology"></a>
 
@@ -78,7 +77,7 @@ This approach identifies the top 5 suppliers based on 5-year aggregated trading 
    * Get the top 5 suppliers in each product
 
 #### Outputs
-* `analysis/Supply-chain-overview/groupby_supplier-group.csv` – Top 5 suppliers in each product category in a given year range
+* `result/Supply-chain-overview/groupby_supplier-group.csv` – Top 5 suppliers in each product category in a given year range
 
 #### (b) Key Supply Network Analysis
 This method identifies the top suppliers for each automotive component based on **the number of trade count**, or **the total trading volume**.
@@ -107,6 +106,11 @@ In this example, we extract the top 3 suppliers in 'transmission shaft' and visu
 
 Noted that you can either select the top 3 suppliers based on trade_year_cnt or total_volume. You should implement the corresponding cypher code in the file. 
 
+#### Outputs
+* `result/Supply-chain-overview/top_3_year_trade_cnt_transmission_shaft_1.png` – Top 3 suppliers based on trade_year_cnt in 'transmission shaft' in a given year range
+* `result/Supply-chain-overview/top_3_year_trade_cnt_transmission_shaft_2.png` – Top 3 suppliers based on trade_year_cnt  in 'transmission shaft' in a given year range
+* `result/Supply-chain-overview/top_3_total_volume_transmission_shaft.png` – Top 3 suppliers based on total_volume  in 'transmission shaft' in a given year range
+
 #### 2. Which companies compete in the same component markets? How similar are automakers in their supply relationships
 
 
@@ -117,7 +121,7 @@ Noted that you can either select the top 3 suppliers based on trade_year_cnt or 
 ### 1. Supply chain overview
 #### (a) Total Trading Volume Analysis
 The final output consists of the top 5 suppliers in each of the automotive component each year range based on the trading volume.
-Full data could be found in `groupby_supplier-group.csv`
+Full data could be found in `result/Supply-Chain-Overview/groupby_supplier-group.csv`
 
 #### (b) Key Supply Network Analysis
 The following is the example result of our analysis, which shows the top 3 suppliers in 'transmission_shaft' across different time frames:
@@ -136,16 +140,16 @@ Similarly, the following show the same supply network in 'transmission_shaft', w
 * Edges indicate that there is a "SUPPLIES_TO" relationship, where a supplier provides a specific automotive component to an automaker in the given year range.
 * Edge width represents the frequency of supply within the given year range, on a scale from 1 to 5. A value of 1 indicates that the supply occurred in only one year, while a value of 5 means the supply was continuous throughout the entire year range.
 <p align="center">
-<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/analysis/Supply-Chain-Overview/top_3_year_trade_cnt_transmission_shaft_2.png" width="70%">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Supply-Chain-Overview/top_3_year_trade_cnt_transmission_shaft_2.png" width="70%">
 </p>
 
-On the other hand, we also use the total trading volume to extract the top 3 suppliers in 'transmission_shaft'.\:
+In addition, we also use the total trading volume to extract the top 3 suppliers in 'transmission_shaft'.\:
 * Green nodes represent automakers, which corresponds to the 'maker' data in csv.
 * Brown nodes represent suppliers, which corresponds to the 'supplier_group' data in csv.
 * Edges indicate that there is a "SUPPLIES_TO" relationship, where a supplier provides a specific automotive component to an automaker in the given year range.
 * Edge colors differentiate supply relationships across different time frames, with red (2005-2010), yellow (2011-2015), green (2016-2020), blue (2021-2025).
 <p align="center">
-<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/analysis/Supply-Chain-Overview/top_3_total_volume_transmission_shaft.png" width="70%">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Supply-Chain-Overview/top_3_total_volume_transmission_shaft.png" width="70%">
 </p>
 
 ### 2. Maker's similarity
