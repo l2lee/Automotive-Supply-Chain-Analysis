@@ -289,6 +289,7 @@ In addition, we also use the total trading volume to extract the top 3 suppliers
 </p>
 
 #### (b) Supplier-Automaker Collaborations
+We gained a similar list with the dominant market share trends observed earlier, suggesting that suppliers with a wider range of automaker collaborations tend to hold a stronger position in the industry. 
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Average Maker Amount.png" width="70%">
 </p>
