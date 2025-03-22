@@ -213,7 +213,8 @@ In this section, we analyze the competitiveness of different automotive componen
 #### Data Location
 * Dataset: `preprocessing/combined_preprocessed.csv`
 
-#### Implementation:
+#### Implementation: 
+* Follow steps below.
 #### Loading data:
 1. Make sure you have `preprocessing/combined_preprocessed.csv` in the folder of the Neo4j server.
 2. Use `analysis/Maker-Analysis/load_data.cypher` to load the data into create the graphical databse.
