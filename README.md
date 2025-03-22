@@ -16,7 +16,7 @@
 ## Presentation Recording & Report
 * Our presentation video can be found [here!](https://www.youtube.com/watch?v=J7cBdm22pNc)
 * Slides can be found in `introduction/Presentation_Automotive Supply Chain Analysis.pdf`
-* Full report can also be found in `introduction/???`
+* Full report can also be found in `introduction/Report_Automotive Supply Chain Analysis.pdf`
 
 ## 📝 Table of Contents
 
