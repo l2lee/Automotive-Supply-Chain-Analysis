@@ -210,11 +210,11 @@ In this section, we analyze the competitiveness of different automotive componen
 1. Run the `Component Competition Analysis.sql` to gain the data of Component Competition Analysis
 
 #### 3. Maker Analysis
-##### Data Location
+#### Data Location
 * Dataset: `preprocessing/combined_preprocessed.csv`
 
-##### Steps to reproduce:
-###### Loading data:
+#### Implementation:
+#### Loading data:
 1. Make sure you have `preprocessing/combined_preprocessed.csv` in the folder of the Neo4j server.
 2. Use `analysis/Maker-Analysis/load_data.cypher` to load the data into create the graphical databse.
    * Note that we recommend changing the following in order to fit the data within a single query:
@@ -222,15 +222,20 @@ In this section, we analyze the competitiveness of different automotive componen
      * `server.memory.heap.max_size=16G`
      * `dbms.memory.transaction.total.max=12G`
    * The graph contains 16941 nodes and 49993 edges.
-###### Global Jaccard Analysis
+#### Global Jaccard Analysis
 1. Run `analysis/Maker-Analysis/calc_global_jaccard.cypher`
-###### Product-level Jaccard Analysi
+#### Product-level Jaccard Analysi
 1. Run `analysis/Maker-Analysis/calc_product_jaccard.cypher`
-###### Weighted Jaccard
+#### Weighted Jaccard
 1. From the outputs of the previous step save the CSV from Neo4j into the same directory of the notebook
 2. Run `analysis/Maker-Analysis/weighted_sum_analysis.ipynb`, changing the name of the CSV if necessary
 3. There is a sample provided looking at the similarities between Nissan and Toyota
 4. There is a function `maker_weighted_sim(df, maker_1, maker_2, weights)`, with sample calls shown in the notebook
+
+### Output
+* `result/Maker-Analysis/jaccard_global.png` – Global Jaccard Similarity in descending order, top 8 highlighted (company linkage)
+* `result/Maker-Analysis/product_level_jaccard.png` – Product Level Jaccard in descending order
+* `result/Maker-Analysis/weighted_jaccard.png` – Example intermediate table in calculation of weighted Jaccard
 
 ## 📖 Demonstration <a name="demonstration"></a>
 
@@ -289,7 +294,7 @@ In addition, we also use the total trading volume to extract the top 3 suppliers
 </p>
 
 #### (b) Supplier-Automaker Collaborations
-We gained a similar list with the dominant market share trends observed earlier, suggesting that suppliers with a wider range of automaker collaborations tend to hold a stronger position in the industry. 
+We gained a similar list with the dominant market share trends observed earlier, suggesting that suppliers with a wider range of automaker collaborations tend to hold a stronger position in the industry.
 <p align="center">
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Average Maker Amount.png" width="70%">
 </p>
@@ -340,6 +345,30 @@ We gained a similar list with the dominant market share trends observed earlier,
 
 ### 3. Maker's similarity
 
+#### (a) Global Jaccard Similarity (Top 8)
+The top eight manufacturer pairs have remarkably high Jaccard similarities (over 0.4), with analysis revealing these are either joint ventures (like FAW Toyota & GAC Toyota) or manufacturers under common parent companies (like Citroen & Peugeot), confirming that corporate linkages drive supplier network convergence.
+<p align="center">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Maker-Analysis/jaccard_global.png" width="70%">
+</p>
+
+#### (b) Global Jaccard Similarity (Mahindra & Mahinddra, Tata)
+Despite lacking corporate ties, these independent Indian manufacturers show considerable supplier overlap (0.393 with 22 shared suppliers), demonstrating how regional manufacturing ecosystems create natural supply chain convergence, opening opportunities for cost-sharing while introducing shared vulnerability to local disruptions and competition.
+<p align="center">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Maker-Analysis/global_jaccard_india.png" width="70%">
+</p>
+
+#### (c) Product-level Jaccard
+Component-specific analysis shows certain Chinese manufacturers (BYD, Brilliance, Dongfeng, FAW, and SAIC) have perfect similarity (1.0) for power steering pumps, while Toyota's joint ventures demonstrate high but imperfect similarity (0.78) for ABS/ESC systems. This can be due to different regional requirements between northern China (FAW's base) and southern China (GAC's region). Each maker could also be responsible for different set of models
+<p align="center">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Maker-Analysis/product_level_jaccard.png" width="70%">
+</p>
+
+
+#### (d) Weighted Jaccard
+Safety-weighted analysis between Nissan and Toyota shows their raw similarity (0.35) increases only slightly overall (0.37), but masks dramatic component-specific variations - with steering gear jumping to 0.82 weighted similarity while exhaust systems drop to 0.02, identifying precisely where these competitors share critical vulnerabilities depending on the perspective of the analysis.
+<p align="center">
+<img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Maker-Analysis/weighted_jaccard.png" width="70%">
+</p>
 
 ## ✍️ Authors <a name="authors"></a>
 - [@ripple-space](https://github.com/ripple-space) - Yi Lien
