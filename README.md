@@ -225,7 +225,7 @@ In this section, we analyze the competitiveness of different automotive componen
    * The graph contains 16941 nodes and 49993 edges.
 #### Global Jaccard Analysis
 1. Run `analysis/Maker-Analysis/calc_global_jaccard.cypher`
-#### Product-level Jaccard Analysi
+#### Product-level Jaccard Analysis
 1. Run `analysis/Maker-Analysis/calc_product_jaccard.cypher`
 #### Weighted Jaccard
 1. From the outputs of the previous step save the CSV from Neo4j into the same directory of the notebook
@@ -342,8 +342,6 @@ We gained a similar list with the dominant market share trends observed earlier,
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Time-Series-Analysis/Component Competition Analysis.png " width="70%">
 </p>
 
-
-
 ### 3. Maker's similarity
 
 #### (a) Global Jaccard Similarity (Top 8)
@@ -364,7 +362,6 @@ Component-specific analysis shows certain Chinese manufacturers (BYD, Brilliance
 <img src="https://github.com/l2lee/Automotive-Supply-Chain-Analysis/blob/main/result/Maker-Analysis/product_level_jaccard.png" width="70%">
 </p>
 
-
 #### (d) Weighted Jaccard
 Safety-weighted analysis between Nissan and Toyota shows their raw similarity (0.35) increases only slightly overall (0.37), but masks dramatic component-specific variations - with steering gear jumping to 0.82 weighted similarity while exhaust systems drop to 0.02, identifying precisely where these competitors share critical vulnerabilities depending on the perspective of the analysis.
 <p align="center">
@@ -374,7 +371,7 @@ Safety-weighted analysis between Nissan and Toyota shows their raw similarity (0
 ## ✍️ Authors <a name="authors"></a>
 - [@ripple-space](https://github.com/ripple-space) - Yi Lien
 - [@l2lee](https://github.com/l2lee) - Lucas Lee
-- [@Jeanhsu0707](https://github.com/Jeanhsu0707) - Hua Jin Hsu
+- [@Jeanhsu0707](https://github.com/Jeanhsu0707) - Jean Hsu
 
 
 ## 🌐 Reference <a name="reference"></a>
